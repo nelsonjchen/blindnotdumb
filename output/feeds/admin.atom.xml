@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog</title><link href="/" rel="alternate"></link><link href="/feeds/admin.atom.xml" rel="self"></link><id>/</id><updated>2007-12-18T14:43:00+00:00</updated><entry><title>About</title><link href="/about.html" rel="alternate"></link><updated>2007-12-18T14:43:00+00:00</updated><author><name>admin</name></author><id>tag:,2007-12-18:about.html</id><summary type="html">&lt;p&gt;My name is &lt;a href="mailto:cpatti@gmail.com"&gt;Chris Patti&lt;/a&gt; and I'm a DevOps
+engineer for a thoroughly awesome company -
+&lt;a href="http://www.carbonite.com" title="Carbonite"&gt;Carbonite&lt;/a&gt;. Note that my opinions
+are mine and not my employers (That should go without saying, but
+anyway).&lt;/p&gt;
+&lt;p&gt;I create and manage build and other infrastructure for Carbonite using
+&lt;a href="http://www.getchef.com" title="Chef"&gt;Chef&lt;/a&gt;, and whatever other tools I can
+get my hands on.&lt;/p&gt;
+&lt;p&gt;In the off hours I enjoy spending time with my lovely wife, playing
+games of all kinds (but especially those involving face to face human
+interaction like board games or tabletop RPGs), reading (I have a rather
+severe case of bibliophilia which I've had to throttle back quite a bit
+now that I'm sharing my life with someone. Thankfully, she's very
+understanding :), and dabbling in digital art.&lt;/p&gt;
+&lt;hr /&gt;</summary></entry></feed>

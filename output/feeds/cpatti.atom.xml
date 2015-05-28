@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog</title><link href="/" rel="alternate"></link><link href="/feeds/cpatti.atom.xml" rel="self"></link><id>/</id><updated>2015-05-21T11:16:00+00:00</updated><entry><title>Oh Wordpress, I love you but you make it so hard...</title><link href="/oh-wordpress-i-love-you-but-you-make-it-so-hard.html" rel="alternate"></link><updated>2015-05-21T11:16:00+00:00</updated><author><name>cpatti</name></author><id>tag:,2015-05-21:oh-wordpress-i-love-you-but-you-make-it-so-hard.html</id><summary type="html">&lt;p&gt;It feels like there are new security issues around WordPress every week.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;Admittedly, the fact that WordPress automatically updates itself helps
+&lt;strong&gt;a lot&lt;/strong&gt;, but it does lead one to wonder if a simpler solution might
+make more sense.&lt;/p&gt;
+&lt;p&gt;I really like the idea of a static generator tool
+like &lt;a href="http://blog.getpelican.com/"&gt;Pelican&lt;/a&gt;, but also really enjoy
+blogging from my mobile devices with tools
+like &lt;a href="http://blogsyapp.com/"&gt;Blogsy&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;One friend suggested using Pelican, and using Github's built-in editor
+to create the Markdown, so I suppose I should explore that.&lt;/p&gt;
+&lt;p&gt;What I would &lt;strong&gt;really &lt;/strong&gt;love to see is a solution where I could compose
+on my mobile devices in Markdown, then somehow get those changes checked
+into Github so I could statically generate my blog later from a
+computer.&lt;/p&gt;
+&lt;p&gt;Apparently, I want everything :)&lt;/p&gt;
+&lt;p&gt;A middle of the road solution might be to simply give up and
+let &lt;a href="http://wordpress.com"&gt;Wordpress.com&lt;/a&gt; manage my blog, but I think
+it's helpful to keep some skin in the game and run my own site given
+that I build infrastructure for a living.&lt;/p&gt;
+&lt;p&gt;If anyone reading this has any amazing solutions to the problems I pose
+here I'd love to hear about it!&lt;/p&gt;</summary><category term="blogging"></category><category term="blogs"></category><category term="IPad"></category><category term="mobile"></category><category term="pelican"></category><category term="wordpress"></category><category term="writing"></category></entry><entry><title>GNU Terry Pratchett</title><link href="/gnu-terry-pratchett.html" rel="alternate"></link><updated>2015-03-24T09:42:00+00:00</updated><author><name>cpatti</name></author><id>tag:,2015-03-24:gnu-terry-pratchett.html</id><summary type="html">&lt;p&gt;Recently, pretty much the entire geek/fandom community was in full on
+mourning over the death of fantasy author &lt;a href="http://en.wikipedia.org/wiki/Terry_Pratchett" title="Terry Pratchett"&gt;Terry
+Pratchett&lt;/a&gt;.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;He was incredibly prolific, authoring scores of books, but nearest and
+dearest to my heart are his
+&lt;a href="http://en.wikipedia.org/wiki/Discworld"&gt;Discworld&lt;/a&gt; books and &lt;a href="http://en.wikipedia.org/wiki/Good_Omens"&gt;Good
+Omens&lt;/a&gt; which he co-authored
+with another of my favorite writers, &lt;a href="http://www.neilgaiman.com/"&gt;Neil
+Gaiman&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;His death was no surprise to anyone as he had made his fight with
+Alzheimer's public, but that doesn't make his loss any less keenly felt
+by his fans.&lt;/p&gt;
+&lt;p&gt;In response his fans created the &lt;a href="http://www.gnuterrypratchett.com/"&gt;GNU Terry
+Pratchett&lt;/a&gt; project.&lt;/p&gt;
+&lt;p&gt;I won't repeat the superb explanation the site gives (Go take a look,
+it'll cost you maybe 30 seconds and is really quite delightful :) but
+suffice it to say we geeks can be fairly inventive about remembering our
+dead.&lt;/p&gt;
+&lt;p&gt;Suffice it to say that whenever you read my blog you will, in some small
+whimsical way, be honoring his memory.&lt;/p&gt;
+&lt;p&gt;RIP Terry Pratchett.  I will be laughing out loud while reading your
+work for some years to come :)&lt;/p&gt;</summary><category term="books"></category><category term="fandom"></category><category term="fantasy"></category><category term="geeks"></category><category term="memorial"></category><category term="technology"></category></entry><entry><title>The Joy of DevOps (Or, Return of the Living Generalist!)</title><link href="/the-joy-of-devops-or-return-of-the-living-generalist.html" rel="alternate"></link><updated>2013-07-31T16:09:00+00:00</updated><author><name>cpatti</name></author><id>tag:,2013-07-31:the-joy-of-devops-or-return-of-the-living-generalist.html</id><summary type="html">&lt;p&gt;One of the things I have always enjoyed about what I do is that I have,
+from pretty much day 1 in the technology industry, worn many hats.&lt;/p&gt;
+&lt;p&gt;No matter what my job title said, I have always done pretty much
+whatever needs doing whether or not it crosses into what others might
+consider a discipline that's not in my job description.&lt;/p&gt;
+&lt;p&gt;I like it that way. I enjoy picking up new skills, flexing my mental
+muscles in new ways and exploring the uncharted territory that is every
+new technology to rise out of the primordial ooze of Github (Or
+Sourceforge before it).&lt;/p&gt;
+&lt;p&gt;Way back in 1992 when I got my first job in the technology industry, I
+met a very wise man named Dale Dougherty (I hope I'm not mangling the
+spelling, it's been over two decades! (If you're out there Dale, give me
+a holler will you? I'd love to get back in touch) and when he asked what
+it was that had driven me into technology, and after I told him in the
+naescent, halting terms I could form at the time he smiled and said "Ah!
+You're a generalist. Unfortunately, those are undervalued these days.
+It's a great shame" or something to that effect.&lt;/p&gt;
+&lt;p&gt;Boy was he right. For the next 20 years I would end up doing tech
+support, sysadmin work, software development, and finally release
+engineering.&lt;/p&gt;
+&lt;p&gt;The industry began throwing up high walls and fences around places
+and processes we all used to take for granted.  "You can't do that,
+you're not a &lt;strong&gt;developer&lt;/strong&gt;!" "Only &lt;strong&gt;sysadmins&lt;/strong&gt; get root and access to
+production machines!" "You're a &lt;strong&gt;release engineer&lt;/strong&gt;, not a developer!"
+Ad infinitum.&lt;/p&gt;
+&lt;p&gt;Fast forward to 2009 when folks came up with the DevOps manifesto, in
+which a positively radical idea is proposed: All these distinctions are
+useless. They do nothing to make organizations more efficient, and
+instead bottleneck and pigeon hole good people, keeping them from
+feeding their passion.&lt;/p&gt;
+&lt;p&gt;Needless to say, I love it here. I get to bring all the experience
+I've accumulated in 20 years hard labor in the code mines to bear, and
+it feels &lt;strong&gt;really&lt;/strong&gt; good.&lt;/p&gt;
+&lt;p&gt;I'm building infrastructure in the cloud, learning about load
+balancing, high availability and I've just barely begun.&lt;/p&gt;
+&lt;p&gt;As much as the layoff I just went through was painful as they always
+are, that moment of dislocation pales in comparison to the satisfaction
+I feel in what I have accomplished in the few short months I've been
+doing this, and the &lt;strong&gt;incredible&lt;/strong&gt; excitement I feel as my horizons have
+been exponentially broadened.&lt;/p&gt;
+&lt;p&gt;As I write this, I'm several thousand feet up, bouncing along over the
+clouds on my way to Santa Clara, California for the annual Velocity
+conference.&lt;/p&gt;
+&lt;p&gt;It's an incredible meeting where some of the best and brightest in our
+industry come together to make the web go faster and more reliably, and
+I can't wait to dive in and start learning :)&lt;/p&gt;
+&lt;p&gt;[&lt;em&gt;Update: I'm posting this weeks later, because things get hectic. Such
+is life. Velocity was amazing.  Look for another post on that coming
+soon.]&lt;/em&gt;&lt;/p&gt;</summary><category term="career"></category><category term="development"></category><category term="devops"></category><category term="engineering"></category><category term="generalist"></category><category term="releng"></category><category term="sysadmin"></category><category term="work"></category></entry><entry><title>Dear Amazon and Penguin - Why Can't You Kids Play Nice?</title><link href="/dear-amazon-and-penguin-why-cant-you-kids-play-nice.html" rel="alternate"></link><updated>2010-04-07T15:01:00+00:00</updated><author><name>cpatti</name></author><id>tag:,2010-04-07:dear-amazon-and-penguin-why-cant-you-kids-play-nice.html</id><summary type="html">&lt;!-- body {margin:8px} .LW-yrriRe {font:normal x-small arial} --&gt;
+
+&lt;p&gt;I received a piece of E-mail from Amazon a few days back apologizing
+about the fact that my pre-order of the latest &lt;a href="www.jimbutcher.com"&gt;Jim
+Butcher&lt;/a&gt; Dresden Files novel had been canceled,
+offering me a really cheap price on the print edition.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;A couple of days and a great deal of "WTF?" later (That's What The
+French, this being a family friendly blog and all :) I trotted on over
+to Jim's website and found an
+&lt;a href="http://www.jim-butcher.com/news/000362.php"&gt;explanation&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Essentially, Amazon and Penguin are bickering over the sale price of the
+book.&lt;/p&gt;
+&lt;p&gt;I would *happily* pay full hard cover list for the Kindle edition of
+the newest Dresden novel.  Jim Butcher is my favorite urban fantasy
+author, and when these books come out I get them the very
+first *instant* I can and then become some sort of literary crack
+fiend, obsessively trying to find excuses to crawl off into a corner and
+page flip.&lt;/p&gt;
+&lt;div&gt;
+
+So I guess I'll run down to Porter Square Books and buy the dead tree
+edition, but this is what I bought my Kindle for!
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+On the up side, I've been feeling guilty about not supporting my local
+independent book seller of late, I guess this is an opportunity to put
+my money where my mouth is and pony up!
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;</summary><category term="amazon"></category><category term="books"></category><category term="dresden files"></category><category term="jim butcher"></category><category term="kindle"></category><category term="pricing"></category><category term="stupid"></category><category term="urban fantasy"></category></entry><entry><title>Windows Scripting - a VBScript Survival Guide</title><link href="/windows-scripting-a-vbscript-survival-guide.html" rel="alternate"></link><updated>2010-03-31T15:18:00+00:00</updated><author><name>cpatti</name></author><id>tag:,2010-03-31:windows-scripting-a-vbscript-survival-guide.html</id><summary type="html">&lt;h2&gt;1. Introduction&lt;/h2&gt;
+&lt;p&gt;If you're new to the world of Windows scripting as I am, the array of
+acronyms, technologies and access methodologies that you need to
+traverse in order to get anything done can range from bewildering on a
+good day to utterly derangement inducing on a bad one.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;I've been doing installer and deployment development at a Windows
+enterprise software company for the last year or so, and after decades
+spent comfortably swaddled in the familiarity of the UNIX and Java
+world, I definitely found myself feeling shell shocked, disoriented, and
+frustrated at the lack of any sort of cohesive resources to aid me in my
+quest.&lt;/p&gt;
+&lt;p&gt;Microsoft has been doing its best to pretend VBScript doesn't exist -
+touting &lt;a href="http://blogs.msdn.com/PowerShell/" title="Windows PowerShell"&gt;Windows
+PowerShell&lt;/a&gt; as
+the way and the light.  PowerShell is indeed an awesome tool, and I for
+one would happily consign VBScript to the briny deeps never to be
+thought of again were it not for one little problem - the vast majority
+of Windows systems running in the wild don't have PowerShell
+installed.   Until a new day dawns and PowerShell is on *every single*
+Windows box our company wants to install its software on, VBScript
+remains the lowest common denominator for system scripting and thus the
+only &lt;strong&gt;real&lt;/strong&gt; game in town for install time scripting.&lt;/p&gt;
+&lt;p&gt;The goal of this article is not to teach you VBScript, sadly, there are
+essentially no books and precious few online resources dedicated to this
+topic online.  I will offer pointers to those that I have found most
+useful, and some collected wisdom on how to best make use of them, as
+well as some pitfalls I encountered which with any luck I can help you
+avoid.&lt;/p&gt;
+&lt;p&gt;That said, let's get started.&lt;/p&gt;
+&lt;h2&gt;2. Learning VBScript&lt;/h2&gt;
+&lt;p&gt;This will mostly be a collection of pointers to resources with a smidgen
+of commentary on each to get you moving in the right direction.&lt;/p&gt;
+&lt;h3&gt;A. Books&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Windows-XP-Annoyances-Geeks-2nd/dp/0596008767/ref=sr_1_1?ie=UTF8&amp;amp;s=books&amp;amp;qid=1270065442&amp;amp;sr=8-1" title="Windows XP Annoyances"&gt;Windows XP
+    Annoyances&lt;/a&gt; -
+    This book should really be titled "Windows For Geeks" :) it is the
+    single most useful book I have ever encountered for someone trying
+    to make the transition from another environment and isn't content to
+    just grit their teeth and groan at all the annoying defaults Windows
+    ships with.  In addition to an incredible amount of depth around the
+    Windows registry and how you can wield it to suit your needs, this
+    book also has one of the best simple introductions to system
+    scripting with VBScript I've seen.  Two thumbs up. Note that this is
+    the 1997 edition, and this book now comes in Windows Vista and
+    Windows 7 flavors which I haven't read, but can only assume are
+    equally awesome.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.visualbasicscript.com/" title="VBScript Forums"&gt;visualbasicscript.com&lt;/a&gt; -
+    This is far and away the single best VBScript resources on the
+    intertubes.  The folks in these forums are experts, and will help
+    you solve your problem virtually every time.  I can't say enough
+    about the incredible community here.  Nine out of ten times, if I go
+    looking somewhere else first I end up coming back here and wishing I
+    hadn't wasted my time elsewhere first :)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://technet.microsoft.com/en-us/scriptcenter/default.aspx" title="The Scripting Guys"&gt;Microsoft Script Center / The Scripting
+    Guys&lt;/a&gt; -
+    The second most useful scripting site on the web.  The Scripts
+    Repository and "Scripting Guys" MSDN blog are an incredible resource
+    for system scripters.  While the emphasis has definitely shifted
+    towards PowerShell these days (and rightfully so) most of the
+    techniques discussed can be leveraged in VBScript once you get cozy
+    with the syntactic differences between the two (very different)
+    languages.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://msdn.microsoft.com/en-us/library/d1et7k7c%28v=VS.85%29.aspx"&gt;MSDN Windows Scripting
+    Technologies&lt;/a&gt; -
+    This page covers things like the Windows Scripting Host, the core
+    technology that actually allows you to perform useful work in
+    VBScript.  While somewhat more complete than the VBScript reference
+    itself, it's no great shakes.  You'll find yourself learning much
+    more from examples published elsewhere, but for the occasional API
+    lookup or clarification it can be useful.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://msdn.microsoft.com/en-us/library/t0aew7h6%28VS.85%29.aspx" title="VBScript Reference"&gt;MSDN VBscript
+    Reference&lt;/a&gt; -
+    You'll note this site's position well down the list.  It's there for
+    a reason.  The documentation provided here is very sketchy and
+    frankly incredibly misleading in places.  The authors seem to have
+    weaseled out of writing a more complete documentation set by making
+    a vacuous assertion along the lines of "Well, it's just like regular
+    Visual Basic, with a few minor differences".  This leaves people
+    like myself who have never had the need to touch a fully fledged VB
+    implementation out in the cold, feeling like second class citizens. 
+    While these pages can be useful for occasional clarification on some
+    obscure language feature, those seeking to understand how the
+    language works in the large should definitely look elsewhere.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://support.microsoft.com/kb/308364"&gt;Windows Script Debugging Microsoft KB
+    Article&lt;/a&gt; - This article will
+    get you started interactively debugging your scripts using Visual
+    Studio.  Don't bother with the Windows Script Debugger, Visual
+    Studio Express is free and much better :)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.w3schools.com/vbscript/default.asp"&gt;W3Schools VBScript
+    Tutorial/Reference&lt;/a&gt; -
+    This page is definitely rather Web-centric, focusing on VBScript in
+    classic ASP programming, however, the core language and some of the
+    techniques are the same.  In many cases this is a better reference
+    than the MSDN one, and the tutorial lets you work through the
+    examples online in a web browser which is cool.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;3. Debugging&lt;/h2&gt;
+&lt;h3&gt;Who turned the lights out?&lt;/h3&gt;
+&lt;p&gt;If you find that some script you've inherited is not working, but you
+get exactly zero output or errors, look for the telltale
+&lt;code&gt;On Error Goto 0&lt;/code&gt; or &lt;code&gt;On Error Resume Next&lt;/code&gt; statements. These basically
+disable VBScript's inherent error handling functionality and cause your
+script to silently ignore errors. Helpful, eh?&lt;/p&gt;
+&lt;h3&gt;Never run while blind folded.&lt;/h3&gt;
+&lt;p&gt;Know how you're invoking your VBScript. If you're calling your script
+from an installer or some such executable, you're likely using
+Microsoft's &lt;code&gt;cscript&lt;/code&gt; tool. which doesn't do a very good job of always
+displaying handy things like syntax or run time errors. Try running your
+script with &lt;code&gt;wscript&lt;/code&gt; instead for debugging purposes. Heretofore
+mysterious behavior may become clear :)&lt;/p&gt;
+&lt;h3&gt;That's all!&lt;/h3&gt;
+&lt;p&gt;Hopefully this post will prove useful to some poor soul, manacled in
+place, suffering through their own personal Windows induced hell. Even
+if it isn't, these tidbits have been rattling around in my head since I
+escaped (I now work for &lt;a href="http://www.bluestatedigital.com" title="Blue State Digital: Design. Strategy. Technology"&gt;Blue State
+Digital&lt;/a&gt;,
+we're a LAMPs shop (Linux, Apache, MySQL, PHP) and I hope to never be
+trapped in Windows enterprise limbo again!&lt;/p&gt;</summary><category term="deployment"></category><category term="Installers"></category><category term="microsoft"></category><category term="powershell"></category><category term="scripting"></category><category term="systems"></category><category term="vbscript"></category><category term="visual basic"></category><category term="Windows"></category></entry><entry><title>3 Things Microsoft Should Do for Release Engineers</title><link href="/3-things-microsoft-should-do-for-release-engineers.html" rel="alternate"></link><updated>2010-01-28T13:39:00+00:00</updated><author><name>cpatti</name></author><id>tag:,2010-01-28:3-things-microsoft-should-do-for-release-engineers.html</id><summary type="html">&lt;p&gt;For the last year or so I've been working at a 100% Windows based
+enterprise development shop.   They ship a fairly large and complex
+application for health insurance providers, which draws on many of the
+core technologies in the Microsoft enterprise stable.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;This post highlights a few things that make working in this environment
+a whole lot more onerous than it needs to be in my opinion, so let's get
+started.&lt;/p&gt;
+&lt;h2&gt;1. Installers&lt;/h2&gt;
+&lt;p&gt;The Windows installation landscape has been a bleak one indeed for a
+very long time.  Tools like Installshield with their own proprietary
+languages like InstallScript make installer development unnecessarily
+painful and baroque.  Is there &lt;strong&gt;really&lt;/strong&gt; any reason I should be
+programming in a language with no real data structures to speak of in
+2010?  Even flow of control is handled in a way I can only describe as
+baroque.  There are methods/functions, but the main body of your
+installer's code has to jump around everywhere using goto.  What a mess.&lt;/p&gt;
+&lt;p&gt;There is hope on this front, in the form of
+&lt;a href="http://wix.sourceforge.net/" title="WiX - Windows Installer XML"&gt;WiX&lt;/a&gt;, the
+Windows Installer XML toolkit, which allows developers to iteratively
+build and design their installer along with the regular development
+process.  Right now however the learning curve seems incredibly steep. 
+Perhaps Visual Studio could generate a template WiX project to get
+people started?&lt;/p&gt;
+&lt;p&gt;I'd also love to see some thought given to simplifying the deployment
+model for things like
+&lt;a href="http://msdn.microsoft.com/en-us/library/ms685978%28VS.85%29.aspx" title="COM+"&gt;COM+&lt;/a&gt; -
+which feels to me like a magic black box with myriad buttons and levers,
+all of which are a bear to get right at install time.&lt;/p&gt;
+&lt;h2&gt;2. Builds/SCM&lt;/h2&gt;
+&lt;p&gt;MSBuild needs to have &lt;strong&gt;dramatically&lt;/strong&gt; better documentation, and to a
+lesser extent so does TFS  - they get the broad bits right - everything
+you could want to do through the UI is covered, but process automation
+using scripting / command line tools gets substantially murkier.&lt;/p&gt;
+&lt;p&gt;In the 'credit where credit is due' department, the TFS team has been
+incredibly responsive on their forums, and that's what's helped us get
+by so far, but there's no substitute for first rate docs.&lt;/p&gt;
+&lt;h2&gt;3. Infrastructure Scripting&lt;/h2&gt;
+&lt;p&gt;As of right now, there are a thousand different interfaces to accomplish
+the same thing, and for complex configuration tasks like configuring IIS
+at install time, the possibilities can be dizzying.  I would like to see
+Microsoft choose &lt;strong&gt;one&lt;/strong&gt; mechanism for run-time system/software
+configuration and document the heck out of it.&lt;/p&gt;
+&lt;p&gt;Kudos to the
+&lt;a href="http://blogs.msdn.com/powershell/" title="Windows PowerShell"&gt;PowerShell&lt;/a&gt;
+team and &lt;a href="http://technet.microsoft.com/en-us/scriptcenter/dd901334.aspx" title="The Scripting Guys"&gt;The Scripting
+Guys&lt;/a&gt;
+for making great strides in this area.  PowerShell is a really nice
+environment for all kinds of scripting, and I look forward to the day
+when we can eliminate VBScript from our installers entirely in its
+favor, but we're not there yet sadly.  The object pipeline is one of the
+more powerful concepts in the modern scripting milieu, and I think Apple
+and the UNIX world could take a page from PowerShell's book in this
+regard.&lt;/p&gt;
+&lt;p&gt;Being a release engineer in a Windows world presents some very
+interesting and different challenges for someone coming from a UNIX
+background like myself, and with a little bit of emphasis and effort on
+Microsoft's part, surmounting them could be a whole lot less painful.&lt;/p&gt;</summary><category term="infrastructure"></category><category term="Installers"></category><category term="installshield"></category><category term="microsoft"></category><category term="msbuild"></category><category term="powershell"></category><category term="release"></category><category term="releng"></category><category term="scripting"></category><category term="tfs"></category><category term="Windows"></category></entry><entry><title>Why NOT to vote for Scott Brown for MA Senate</title><link href="/why-not-to-vote-for-scott-brown-for-ma-senate.html" rel="alternate"></link><updated>2010-01-18T12:51:00+00:00</updated><author><name>cpatti</name></author><id>tag:,2010-01-18:why-not-to-vote-for-scott-brown-for-ma-senate.html</id><summary type="html">&lt;div&gt;
+
+Like any civic minded person about to vote in tomorrow's MA senatorial
+election tomorrow, I was browsing the candidates websites so I could
+make an informed choice.
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+I am honestly not the biggest Coakley fan, but given the two choices
+she's a shining star compared to Scott Brown.
+
+&lt;/div&gt;
+
+&lt;p&gt;I have no issue with most of the points he puts forth in the "Issues"
+section of his website, right up until we get to "Marriage" -
+conveninetly located third from the bottom, just above "Israel" and
+"Iran".&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;Marriage&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;I believe marriage is between a man and a woman. States should be free to make their own laws in this area, so long as they reflect the people's will as expressed through them directly, or as expressed through their elected representatives. {style="text-align: left; padding-left: 60px;"}&lt;/p&gt;
+&lt;p&gt;I'm a big fan of state's rights, but let's view this in context - here
+in Massachusetts, same sex marriage is 100% legal.  If Mr. Brown is
+elected, he will strip our state of one of its proudest moments in
+recent memory, plunging us back into the darkness of ignorance,
+discrimination and fear that has held sway since time immemorial.&lt;/p&gt;
+&lt;p&gt;As a heterosexual man who has been blessed by the gift of marriage in my
+life, I can't even begin to express how strongly I feel about this
+issue.  To me, denying our fellow men and women this right because they
+happen to be attracted to people of the same sex is so morally repugnant
+as to be beyond words.&lt;/p&gt;
+&lt;p&gt;Do not allow the army of small mindedness and ignorance to douse the
+light of truth and plunge our fair state into darkness once again.&lt;/p&gt;
+&lt;p&gt;Whether straight, gay, yellow or purple, if you care about the basic
+rights and freedoms that make our nation as great as it is, go vote
+tomorrow, and vote against Scott Brown.&lt;/p&gt;</summary><category term="civil rights"></category><category term="gay rights"></category><category term="marriage"></category><category term="massachusetts"></category><category term="politics"></category><category term="same sex"></category><category term="senate"></category></entry><entry><title>Bananagrams!</title><link href="/bananagrams.html" rel="alternate"></link><updated>2010-01-05T09:54:00+00:00</updated><author><name>cpatti</name></author><id>tag:,2010-01-05:bananagrams.html</id><summary type="html">&lt;p&gt;Michelle and I have been having a lot of fun playing this game lately.
+It's a must play if you're a word game fan of any stripe, and even if
+you don't generally enjoy board games (especially if you find them too
+slow).&lt;/p&gt;
+&lt;p&gt;What makes this one unique is that it all happens in real time. My
+lovely wife is a real shark at this and every other word game we've
+played, but we both end up having a lot more fun with this than most
+others we've tried.&lt;/p&gt;
+&lt;p&gt;Two thumbs up.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.bananagrams-intl.com/index-us.asp"&gt;http://www.bananagrams-intl.com/index-us.asp&lt;/a&gt;&lt;/p&gt;</summary><category term="board"></category><category term="fun"></category><category term="games"></category><category term="word"></category></entry><entry><title>The anti-political correctness backlash</title><link href="/the-anti-political-correctness-backlash.html" rel="alternate"></link><updated>2009-12-18T17:30:00+00:00</updated><author><name>cpatti</name></author><id>tag:,2009-12-18:the-anti-political-correctness-backlash.html</id><summary type="html">&lt;p&gt;Since when did "&lt;strong&gt;Happy Holidays"&lt;/strong&gt;&lt;span&gt; become persona non
+&lt;span&gt;grata&lt;/span&gt;?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I realize that for many people, it is the epitome of bland political
+correctness – however for me, it’s what I &lt;strong&gt;want&lt;/strong&gt; to say!&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;I don’t want to wish you a Merry Christmas, or a happy
+&lt;span&gt;Channukah&lt;/span&gt;, or a blessed Ramadan, because I don’t know if
+you celebrate any of those things. What I&lt;/span&gt;&lt;strong&gt;do&lt;/strong&gt; want to say is
+that I hope you have a happy, enjoyable, peaceful and serene holiday
+with your friends, family, or whoever else it is you enjoy having
+around.&lt;/p&gt;
+&lt;p&gt;So, Happy Holidays!&lt;/p&gt;
+&lt;p&gt;That's all :)&lt;/p&gt;</summary><category term="backlash"></category><category term="correct"></category><category term="cranky"></category><category term="customs"></category><category term="greetings"></category><category term="holidays"></category><category term="politically"></category><category term="social"></category><category term="society"></category></entry><entry><title>Is it just me...</title><link href="/is-it-just-me.html" rel="alternate"></link><updated>2009-11-13T14:18:00+00:00</updated><author><name>cpatti</name></author><id>tag:,2009-11-13:is-it-just-me.html</id><summary type="html">&lt;p&gt;Or has the number of new programming languages been increasing
+exponentially of late?&lt;/p&gt;
+&lt;p&gt;I don't just mean the number of new languages being &lt;strong&gt;invented&lt;/strong&gt;,
+because that's always been the case, but the number which are actually
+garnering a fair bit of tech buzz?&lt;/p&gt;
+&lt;p&gt;In the last few months, I've heard a LOT about Clojure, Scala, Factor,
+and most recently Google's Go.&lt;/p&gt;
+&lt;p&gt;I can't help but wonder if maybe we should stop inventing new
+programming languages and paradigms, and maybe focus on using the ones
+we have already more effectively and creatively.&lt;/p&gt;
+&lt;p&gt;Then again, maybe I'm just getting old :)&lt;/p&gt;</summary><category term="clojure"></category><category term="computers"></category><category term="development"></category><category term="factor"></category><category term="go"></category><category term="invention"></category><category term="languages"></category><category term="programming"></category><category term="scala"></category><category term="technology"></category></entry><entry><title>Aruba - Take 2</title><link href="/aruba-take-2.html" rel="alternate"></link><updated>2009-10-12T12:36:00+00:00</updated><author><name>cpatti</name></author><id>tag:,2009-10-12:aruba-take-2.html</id><summary type="html">&lt;p&gt;Just (well, a week ago, but work was blazing white hot upon my return,
+so no time to write :) got back from a week in Aruba, and my experience
+this time around was &lt;strong&gt;completely&lt;/strong&gt; different...&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;[caption id="attachment_52" align="alignnone" width="225"
+caption="Greetings From Aruba!"]&lt;img alt="Greetings From
+Aruba!" src="http://www.feoh.org/wp-content/uploads/2009/10/photo-225x300.jpg" title="GreetingsFromAruba" /&gt;[/caption]&lt;/p&gt;
+&lt;p&gt;This time, we rented a time share my wife's boss graciously allowed us
+to occupy at well below market rates.&lt;/p&gt;
+&lt;p&gt;It was positively awesome.  We were at the &lt;a href="http://www.playalinda.com/" title="Playa Linda Time Share"&gt;Playa
+Linda&lt;/a&gt; time share,
+sandwiched between some of the better hotels along the beach (We had the
+Westin on one side, and the Hyatt, Radison, Occidental and finally the
+Taj/Ritz on the other.).&lt;/p&gt;
+&lt;p&gt;I had always been rather down on time sharing - who wants to go to the
+same place every year? Well, my eyes have been opened.  We're not about
+to go running to buy one (We still want to visit a bunch more places
+first) but I can now absolutely see settling down someplace that you
+love to come back to every year.&lt;/p&gt;
+&lt;p&gt;The unit we rented was very nice.  You get a separate sleeping area, a
+nice little living room with 2 couches (one fold out in case you have
+guests) and a decent size LCD TV.  The kitchenette is equipped with
+everything you'd need to keep house for a week - pots, pans, dishes,
+silverware, etc.&lt;/p&gt;
+&lt;p&gt;We had amazing weather while we were there, it was in the 90's most of
+the time, but with those trade marked Aruban trade winds, it didn't feel
+opressively hot at all (Though you really have to watch out for the
+tropical sun, it can kick your butt :).&lt;/p&gt;
+&lt;p&gt;The beach where we were sat in between two piers, so there's no terrible
+rip tide threatening to pull you out to sea.  The sand is coral, rather
+than granite based like the beaches in NH around here, so it's silky
+smooth.&lt;/p&gt;
+&lt;p&gt;We spent our days going from pool to beach, seeing the sights on the
+island and having dinner either with our hosts (who graciously cooked
+two amazing meals for us while we were there) or taking advantage of
+some of the excellent restaurants on the island like &lt;a href="http://www.madamejanette.info/" title="Madame Jeanette's"&gt;Madame
+Jeanette's&lt;/a&gt; - it's a
+uniquely Caribbean restaurant in that the seating is largely outdoors. 
+If you visit the island, that's definitely one not to miss.&lt;/p&gt;
+&lt;p&gt;I wish I'd taken a camera other than my iPhone along with us (I kept it
+in the room most of the time for fear it would melt :) there was
+wildlife everythere.  Sand Pipers, Turns, and Iguanas were all sharing
+the pool and beach with us, which my wife and I enjoyed immensely (Some
+other guests not so much, people get freaked out by lizards for some
+reaosn :)&lt;/p&gt;
+&lt;p&gt;Anyway, it was a week of utter fun and relaxation in the sun, and we'll
+definitely be back.&lt;/p&gt;</summary><category term="aruba"></category><category term="beach"></category><category term="travel"></category><category term="tropical"></category><category term="vacation"></category></entry></feed>

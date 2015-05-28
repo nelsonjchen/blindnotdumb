@@ -1,0 +1,2150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog</title><link href="/" rel="alternate"></link><link href="/feeds/all-en.atom.xml" rel="self"></link><id>/</id><updated>2015-05-21T11:16:00+00:00</updated><entry><title>Oh Wordpress, I love you but you make it so hard...</title><link href="/oh-wordpress-i-love-you-but-you-make-it-so-hard.html" rel="alternate"></link><updated>2015-05-21T11:16:00+00:00</updated><author><name>cpatti</name></author><id>tag:,2015-05-21:oh-wordpress-i-love-you-but-you-make-it-so-hard.html</id><summary type="html">&lt;p&gt;It feels like there are new security issues around WordPress every week.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;Admittedly, the fact that WordPress automatically updates itself helps
+&lt;strong&gt;a lot&lt;/strong&gt;, but it does lead one to wonder if a simpler solution might
+make more sense.&lt;/p&gt;
+&lt;p&gt;I really like the idea of a static generator tool
+like &lt;a href="http://blog.getpelican.com/"&gt;Pelican&lt;/a&gt;, but also really enjoy
+blogging from my mobile devices with tools
+like &lt;a href="http://blogsyapp.com/"&gt;Blogsy&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;One friend suggested using Pelican, and using Github's built-in editor
+to create the Markdown, so I suppose I should explore that.&lt;/p&gt;
+&lt;p&gt;What I would &lt;strong&gt;really &lt;/strong&gt;love to see is a solution where I could compose
+on my mobile devices in Markdown, then somehow get those changes checked
+into Github so I could statically generate my blog later from a
+computer.&lt;/p&gt;
+&lt;p&gt;Apparently, I want everything :)&lt;/p&gt;
+&lt;p&gt;A middle of the road solution might be to simply give up and
+let &lt;a href="http://wordpress.com"&gt;Wordpress.com&lt;/a&gt; manage my blog, but I think
+it's helpful to keep some skin in the game and run my own site given
+that I build infrastructure for a living.&lt;/p&gt;
+&lt;p&gt;If anyone reading this has any amazing solutions to the problems I pose
+here I'd love to hear about it!&lt;/p&gt;</summary><category term="blogging"></category><category term="blogs"></category><category term="IPad"></category><category term="mobile"></category><category term="pelican"></category><category term="wordpress"></category><category term="writing"></category></entry><entry><title>GNU Terry Pratchett</title><link href="/gnu-terry-pratchett.html" rel="alternate"></link><updated>2015-03-24T09:42:00+00:00</updated><author><name>cpatti</name></author><id>tag:,2015-03-24:gnu-terry-pratchett.html</id><summary type="html">&lt;p&gt;Recently, pretty much the entire geek/fandom community was in full on
+mourning over the death of fantasy author &lt;a href="http://en.wikipedia.org/wiki/Terry_Pratchett" title="Terry Pratchett"&gt;Terry
+Pratchett&lt;/a&gt;.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;He was incredibly prolific, authoring scores of books, but nearest and
+dearest to my heart are his
+&lt;a href="http://en.wikipedia.org/wiki/Discworld"&gt;Discworld&lt;/a&gt; books and &lt;a href="http://en.wikipedia.org/wiki/Good_Omens"&gt;Good
+Omens&lt;/a&gt; which he co-authored
+with another of my favorite writers, &lt;a href="http://www.neilgaiman.com/"&gt;Neil
+Gaiman&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;His death was no surprise to anyone as he had made his fight with
+Alzheimer's public, but that doesn't make his loss any less keenly felt
+by his fans.&lt;/p&gt;
+&lt;p&gt;In response his fans created the &lt;a href="http://www.gnuterrypratchett.com/"&gt;GNU Terry
+Pratchett&lt;/a&gt; project.&lt;/p&gt;
+&lt;p&gt;I won't repeat the superb explanation the site gives (Go take a look,
+it'll cost you maybe 30 seconds and is really quite delightful :) but
+suffice it to say we geeks can be fairly inventive about remembering our
+dead.&lt;/p&gt;
+&lt;p&gt;Suffice it to say that whenever you read my blog you will, in some small
+whimsical way, be honoring his memory.&lt;/p&gt;
+&lt;p&gt;RIP Terry Pratchett.  I will be laughing out loud while reading your
+work for some years to come :)&lt;/p&gt;</summary><category term="books"></category><category term="fandom"></category><category term="fantasy"></category><category term="geeks"></category><category term="memorial"></category><category term="technology"></category></entry><entry><title>Oh Swype, Where Have You Been All My Life?</title><link href="/oh-swype-where-have-you-been-all-my-life.html" rel="alternate"></link><updated>2015-03-21T10:40:00+00:00</updated><author><name>feoh</name></author><id>tag:,2015-03-21:oh-swype-where-have-you-been-all-my-life.html</id><summary type="html">&lt;p&gt;For years my Android using friends have been revving about
+&lt;a href="http://www.swype.com"&gt;Swype&lt;/a&gt;.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;When tablets and smartphones first appeared on the scene, many of us
+were so awash in the glow of our shiny new toys that we overlooked a
+glaring weak point - text input.&lt;/p&gt;
+&lt;p&gt;In a stunning display of uncreative design, the keyboards for these
+devices were simply 'virtualized' versions of their mechanical
+counterparts.&lt;/p&gt;
+&lt;p&gt;The result seems like a regular keyboard, but bereft of the comparative
+elegance and efficiency of touch typing we are left in an incredibly
+unsatisfying state of perpetual hunt and peck. To add insult to injury,
+this ethereal target we're eternally stabbing at changes underneath us
+to suit the whim of the author of whichever app we're using.&lt;/p&gt;
+&lt;p&gt;With Swype, one simply glides one's finger from letter to letter
+spelling our words. Swype handles tedious details like putting spaces
+between words or after periods.&lt;/p&gt;
+&lt;p&gt;I could keep babbling, but suffice it to say it has been a life changer
+for me. Paired with &lt;a href="http://blogsyapp.com" title="Blogsy"&gt;Blogsy&lt;/a&gt;, my iPad
+blogging ttyl of choice, you may be hearing from me more often!&lt;/p&gt;
+&lt;div id="blogsy_footer"
+style="text-align: right; font-size: small; clear: both;"&gt;
+
+[![Posted with
+Blogsy](http://blogsyapp.com/images/blogsy_footer_icon.png)Posted with
+Blogsy](http://blogsyapp.com)
+
+&lt;/div&gt;</summary><category term="blogging"></category><category term="input"></category><category term="ios"></category><category term="IPad"></category><category term="mobile"></category><category term="Swype"></category><category term="text"></category></entry><entry><title>The Chrome Conundrum</title><link href="/the-chrome-conundrum.html" rel="alternate"></link><updated>2013-10-21T13:16:00+00:00</updated><author><name>feoh</name></author><id>tag:,2013-10-21:the-chrome-conundrum.html</id><summary type="html">&lt;h2&gt;I Love/Hate Chrome!&lt;/h2&gt;
+&lt;p&gt;Having used the Chrome browser regularly for a couple of years now, I
+really love quite a number of things about it.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It's &lt;strong&gt;fast&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;The developer tools are superb&lt;/li&gt;
+&lt;li&gt;It has a vibrant user community, including a number of very smart
+    people whose opinions I respect who are also huge fans&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;However, its implementation under Mac OS X, my operating system of
+choice, is rather flawed in a number of respects that drive me crazy:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Its external monitor support is awful.  If I have Chrome open on my
+    Macbook Pro, then disconnect my external monitor and go to a
+    meeting, all my windows have vanished into la-la land, and no amount
+    of killing and restarting Chrome will bring them back.  Also,
+    creating new windows fails silently as well, I presume Chrome thinks
+    the windows are going to the external monitor which is no longer
+    connected.&lt;/li&gt;
+&lt;li&gt;No easy, native Java support! I know, I know, I can just about hear
+    the hipster geeks rolling their eyes at this, but face it kiddos,
+    Java was running mission critical systems while you were in diapers.
+     It's not dead, it's not going away, and it's an incredibly useful
+    tool - for Chrome on OS X to not natively support Java in the
+    browser is unforgivable.&lt;/li&gt;
+&lt;li&gt;Unresponsive developers - Check out the Chromium bug list and you'll
+    see droves of OS X users screaming for Java support - and dead
+    silence from the developers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I haven't yet made the decision to switch back to Firefox full-time, but
+they're certainly driving me in that direction.  I loved Firefox for
+years until I fell in love with Chrome's speed, sleek design and awesome
+devtools.&lt;/p&gt;</summary><category term="browsers"></category><category term="bugs"></category><category term="design"></category><category term="osx"></category></entry><entry><title>The Joy of DevOps (Or, Return of the Living Generalist!)</title><link href="/the-joy-of-devops-or-return-of-the-living-generalist.html" rel="alternate"></link><updated>2013-07-31T16:09:00+00:00</updated><author><name>cpatti</name></author><id>tag:,2013-07-31:the-joy-of-devops-or-return-of-the-living-generalist.html</id><summary type="html">&lt;p&gt;One of the things I have always enjoyed about what I do is that I have,
+from pretty much day 1 in the technology industry, worn many hats.&lt;/p&gt;
+&lt;p&gt;No matter what my job title said, I have always done pretty much
+whatever needs doing whether or not it crosses into what others might
+consider a discipline that's not in my job description.&lt;/p&gt;
+&lt;p&gt;I like it that way. I enjoy picking up new skills, flexing my mental
+muscles in new ways and exploring the uncharted territory that is every
+new technology to rise out of the primordial ooze of Github (Or
+Sourceforge before it).&lt;/p&gt;
+&lt;p&gt;Way back in 1992 when I got my first job in the technology industry, I
+met a very wise man named Dale Dougherty (I hope I'm not mangling the
+spelling, it's been over two decades! (If you're out there Dale, give me
+a holler will you? I'd love to get back in touch) and when he asked what
+it was that had driven me into technology, and after I told him in the
+naescent, halting terms I could form at the time he smiled and said "Ah!
+You're a generalist. Unfortunately, those are undervalued these days.
+It's a great shame" or something to that effect.&lt;/p&gt;
+&lt;p&gt;Boy was he right. For the next 20 years I would end up doing tech
+support, sysadmin work, software development, and finally release
+engineering.&lt;/p&gt;
+&lt;p&gt;The industry began throwing up high walls and fences around places
+and processes we all used to take for granted.  "You can't do that,
+you're not a &lt;strong&gt;developer&lt;/strong&gt;!" "Only &lt;strong&gt;sysadmins&lt;/strong&gt; get root and access to
+production machines!" "You're a &lt;strong&gt;release engineer&lt;/strong&gt;, not a developer!"
+Ad infinitum.&lt;/p&gt;
+&lt;p&gt;Fast forward to 2009 when folks came up with the DevOps manifesto, in
+which a positively radical idea is proposed: All these distinctions are
+useless. They do nothing to make organizations more efficient, and
+instead bottleneck and pigeon hole good people, keeping them from
+feeding their passion.&lt;/p&gt;
+&lt;p&gt;Needless to say, I love it here. I get to bring all the experience
+I've accumulated in 20 years hard labor in the code mines to bear, and
+it feels &lt;strong&gt;really&lt;/strong&gt; good.&lt;/p&gt;
+&lt;p&gt;I'm building infrastructure in the cloud, learning about load
+balancing, high availability and I've just barely begun.&lt;/p&gt;
+&lt;p&gt;As much as the layoff I just went through was painful as they always
+are, that moment of dislocation pales in comparison to the satisfaction
+I feel in what I have accomplished in the few short months I've been
+doing this, and the &lt;strong&gt;incredible&lt;/strong&gt; excitement I feel as my horizons have
+been exponentially broadened.&lt;/p&gt;
+&lt;p&gt;As I write this, I'm several thousand feet up, bouncing along over the
+clouds on my way to Santa Clara, California for the annual Velocity
+conference.&lt;/p&gt;
+&lt;p&gt;It's an incredible meeting where some of the best and brightest in our
+industry come together to make the web go faster and more reliably, and
+I can't wait to dive in and start learning :)&lt;/p&gt;
+&lt;p&gt;[&lt;em&gt;Update: I'm posting this weeks later, because things get hectic. Such
+is life. Velocity was amazing.  Look for another post on that coming
+soon.]&lt;/em&gt;&lt;/p&gt;</summary><category term="career"></category><category term="development"></category><category term="devops"></category><category term="engineering"></category><category term="generalist"></category><category term="releng"></category><category term="sysadmin"></category><category term="work"></category></entry><entry><title>I'm Glad Google Is Retiring Reader.</title><link href="/im-glad-google-is-retiring-reader.html" rel="alternate"></link><updated>2013-04-15T12:35:00+00:00</updated><author><name>feoh</name></author><id>tag:,2013-04-15:im-glad-google-is-retiring-reader.html</id><summary type="html">&lt;p&gt;Because I and about a zillion other jilted Reader fans have now found
+&lt;a href="http://www.feedly.com"&gt;Feedly&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Feedly is what Reader wanted to be when it grew up, but never had the
+chance to become.&lt;/p&gt;
+&lt;p&gt;Yes, it's that good.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;Just in case anyone out there reading this is thinking "Google What?" -
+here's the skinny.  If you find yourself reading a lot of websites on a
+regular basis, constantly checking back to keep up to date with the
+latest, you REALLY want a feed reader like this.  With something like
+this, you can treat them all as if you were browsing articles in a
+newspaper or magazine, either slavishly reading every one or, as I do,
+cherry picking what most piques your interest from the stream (or
+firehose as we geeks like to refer to it :)&lt;/p&gt;
+&lt;p&gt;Things I love about &lt;a href="http://www.feedly.com" title="Feedly"&gt;Feedly&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Keyboard commands for everything - I'm a mouse hater from way back.
+     Force me to click at your peril :)&lt;/li&gt;
+&lt;li&gt;Multiple views - I can either view my stream the good old fashioned
+    way like Reader used to do - just a big old list of text headlines,
+    or like a newspaper with photos front and center.&lt;/li&gt;
+&lt;li&gt;A 'Must Read' setting for the 1% of blogs I really don't want to
+    miss a single post from.&lt;/li&gt;
+&lt;li&gt;A truly superb mobile app! Can't overstate how important this is.
+     The iPad and iPhone apps are optimized for that format, yet as
+    feature-ful as the desktop.  Major win! (Reader sucked at this,
+    using it on the go was paaaainful.).&lt;/li&gt;
+&lt;li&gt;Laziness - if you already use Reader as I did, all your feeds import
+    seamlessly into Feedly, and while Reader still breathes, Feedly
+    keeps it up to date so there's zero risk in giving it a try.&lt;/li&gt;
+&lt;li&gt;OK I know I already mentioned the mobile experience but the iPhone
+    app deserves special mention, it makes it *so* easy to browse my
+    feeds on the go, marking articles I actually want to read in-depth
+    for later perusal via one of my other faves,
+    &lt;a href="http://www.getpocket.com" title="Pocket"&gt;Pocket&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style="font-size: 16px; line-height: 16px;"&gt;Seriously, mad props
+to the folks at &lt;a href="http://www.feedly.com" title="Feedly"&gt;Feedly&lt;/a&gt; for evolving
+the state of the art, giving me a seamless migration path, and generally
+taking an OK but generally pretty lackluster experience and elevating it
+to joy.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;(And no, I'm not being paid by these guys, I'm just wild about the
+product.)&lt;/p&gt;</summary><category term="articles"></category><category term="feedly"></category><category term="feeds"></category><category term="google"></category><category term="information"></category><category term="productivity"></category><category term="reader"></category><category term="rss"></category></entry><entry><title>Ungagged!</title><link href="/ungagged.html" rel="alternate"></link><updated>2013-02-21T15:13:00+00:00</updated><author><name>feoh</name></author><id>tag:,2013-02-21:ungagged.html</id><summary type="html">&lt;p&gt;A couple of weeks back I was laid off from &lt;a href="http://www.bluestatedigital.com" title="Blue State Digital"&gt;Blue State
+Digital&lt;/a&gt;.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;I have nothing but admiration for them and gratitude for three great
+years during which I helped re-elect the first African-American
+president, helped fight for equal marriage, and make the world a better
+place by doing my usual job pushing bits around.  How cool is that?&lt;/p&gt;
+&lt;p&gt;One upshot of this is that I'm no longer bound by the company's social
+media policy.  I understand why it exists and even agree with it as far
+as that goes.  When you're working for the president of the united
+states, it's probably not so good if your minions start shooting their
+mouths off about him.&lt;/p&gt;
+&lt;p&gt;The good news for me is that now I can say whatever I want :) Not that I
+plan to go off half cocked and unleash raging venom on the world - I'm a
+huge fan of the Obama administration and believe in a lot of what they
+stand for.&lt;/p&gt;
+&lt;p&gt;But nobody's perfect, and neither is he or his administration. I will
+write more about this as I collect my thoughts, but just off the top of
+my head:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I would love to see his administration take a hard-line stance on
+    decriminalizing marijuana at the federal level.&lt;/li&gt;
+&lt;li&gt;I think there's a tremendous amount of tension in our society right
+    now around spending and fiscal reform.  While I am in no way shape
+    or form suggesting that Obama should become a shill for the Tea
+    Party (god forbid!) I think he should take advantage of his second
+    term presidency to make some hard decisions that will make hard
+    liners on both sides cringe but are for the good of the country.&lt;/li&gt;
+&lt;li&gt;I think we need to take a long hard look at the war on terror and
+    the erosion of our civil rights that's been happening in its name. 
+    America is one of the greatest nations in the world and I would hate
+    to see us lose such an important facet of our national identity in
+    exchange for perceived safety.&lt;/li&gt;
+&lt;li&gt;He has made a big deal about support for equal marriage during this
+    most recent campaign - let's see him put his money where his mouth
+    is and enact reforms that would allow same-sex couples to travel to
+    other states without fear (This is very tricky with regards to
+    states rights, but I think it's important to get this right.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That's all for now.  Pardon the slightly rambling nature of these
+bullets, I feel like each one could be a post in its own right.&lt;/p&gt;</summary><category term="politics"></category><category term="work"></category></entry><entry><title>I've gone native. (Or - Google's UI and I are parting ways)</title><link href="/ive-gone-native-or-googles-ui-and-i-are-parting-ways.html" rel="alternate"></link><updated>2012-10-31T17:31:00+00:00</updated><author><name>feoh</name></author><id>tag:,2012-10-31:ive-gone-native-or-googles-ui-and-i-are-parting-ways.html</id><summary type="html">&lt;p&gt;Today Google
+&lt;a href="http://gmailblog.blogspot.com/2012/10/introducing-new-compose-in-gmail.html"&gt;announced&lt;/a&gt; that
+they were releasing a new Composer for GMail.&lt;/p&gt;
+&lt;p&gt;It's awful.  They made the window small, and right justified it.  I feel
+like I have to crane my neck at an unnatural angle in order to see what
+I'm writing, and worse yet, they've turned my good old message
+composition interface into something akin to a web forum or chat window.&lt;/p&gt;
+&lt;p&gt;This is &lt;strong&gt;&lt;em&gt;NOT&lt;/em&gt;&lt;/strong&gt; what I'm looking for in my email user experience.&lt;/p&gt;
+&lt;p&gt;A few months back, Google also did a full on revamp of the GMail UI that
+utterly convinced me they have an unrelenting hatred of the visually
+impaired. The entire screen looked as if it had been bleached of color
+and life, and the contrast was so low I could literally barely read it
+at all.&lt;/p&gt;
+&lt;p&gt;After squeals of protect from a large chunk of their user base, they
+relented and produced a 'high contrast' setting, which was better.&lt;/p&gt;
+&lt;p&gt;In short, I can't keep feeling like I'm being punched full in the face
+by Google every few months. I respect their right to innovate their
+products in whatever way they see fit, but thankfully I don't have to
+choose between liking it or hitting the road.&lt;/p&gt;
+&lt;p&gt;I've switched to Apple's Mail.app and iCal. They work great, aren't
+actively hostile to the visually impaired, and allow me to keep using
+the Google back end so I can keep my old email addresses and contact
+info.&lt;/p&gt;
+&lt;p&gt;Apple may be many things, but one thing they are &lt;strong&gt;&lt;em&gt;great&lt;/em&gt;&lt;/strong&gt; about is
+providing accessibility features for the handicapped. It's not like I
+have any illusions about being a minority - most people can probably
+read the ghostly low contrast color theme just fine, and probably like
+the fact that their email now looks more like IM.&lt;/p&gt;
+&lt;p&gt;More power to them I say :)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Update:  Can't lie, it's been a rough go.  Gmail's IMAP access
+throttles throughput beyond a certain point, and Apple Mail can't handle
+the large mailboxes I have even with having given them a serious slim
+down.  I really wish there were a solution to this problem.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Update Update: I've essentially given up on this :( Mail.app just plain
+stinks.  It might be fine for folks with a single account or maybe very
+light usage on multiple accounts, but with two Gmail accounts and lots
+of labels, it's downright abysmal.  It takes 15-20 minutes to get
+everything in sync, and then often takes another 20 minutes just to
+&lt;strong&gt;exit the app!&lt;/strong&gt; This is not my idea of an enterprise class  eMail
+application.  I'm disappointed in you Apple!&lt;/em&gt;&lt;/p&gt;</summary><category term="email"></category><category term="google"></category><category term="handicapped"></category><category term="Macintosh"></category><category term="mail"></category><category term="UX"></category></entry><entry><title>What This Election Means To Me</title><link href="/what-this-election-means-to-me.html" rel="alternate"></link><updated>2012-09-15T13:28:00+00:00</updated><author><name>feoh</name></author><id>tag:,2012-09-15:what-this-election-means-to-me.html</id><summary type="html">&lt;p&gt;For me, this election is personal.&lt;/p&gt;
+&lt;p&gt;When a candidate and the party that backs him set out to legislate what
+goes on in the bedroom (telling us who to love and marry) and in the
+doctor's office (making decisions about my reproductive health and that
+of my wife) it's an affront to me and every like minded American.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;Mitt Romney has vowed to do everything in his power to repeal Roe V.
+Wade. I do not understand even from a common sense perspective as a
+reasonable adult how this makes any sense. How will returning to an era
+where women lived in fear and abortions were grisly deeds performed in
+back alleys with coat hangers benefit the American people?&lt;/p&gt;
+&lt;p&gt;I have Catholic acquaintances who speak of advocating for the baby, yet
+they leave out the bit where all these children are carried to term and
+brought into a life lived in squalid conditions and being cared for by
+people who are neither capable nor willing to do so.&lt;/p&gt;
+&lt;p&gt;Then there is the issue of marriage. I find the mere idea that an
+aspirant to rule would attempt to dictate the gender of the person I
+choose to take as my life partner repugnant and offensive to the core.&lt;/p&gt;
+&lt;p&gt;Some of my best friends in this world are gay. In fact, one of them
+actually performed the marriage ceremony for my wife and I. Just
+thinking about the fact that Mr. Romney would try to sever the holy
+bonds of matrimony that he shares with his husband makes me &lt;strong&gt;angry.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In my ideal world, government would not be in the business of marriage
+at all, but that isn't the world we live in today. I applaud the Obama
+campaign for having had the courage to stand up and say "This isn't
+right. Let's fix it.". The naysayers will be quick to point out that
+this change in attitude was politically motivated, and maybe it was, but
+really? Who cares? That makes it no less right.&lt;/p&gt;
+&lt;p&gt;I have been hearing a lot of unhappy people of late expressing
+dissatisfaction with president Obama and his administration,
+particularly around jobs and the economy. To my mind, he inherited some
+of the worst economic conditions of any incoming president in the
+history of our nation, and while many would dispute this point I feel
+very strongly that the president has done and will continue to do a bang
+up job making the best of this awful mess the last 8 years of Republican
+rule have left us in.&lt;/p&gt;
+&lt;p&gt;Economy aside for a moment, I am proud to be doing my part to give the
+president the time he needs to get the job done. This isn't about
+politics for me, it's about fighting the good fight because it's the
+right thing to do.&lt;/p&gt;
+&lt;div id="blogsy_footer"
+style="text-align: right; font-size: small; clear: both;"&gt;
+
+[![Posted with
+Blogsy](http://blogsyapp.com/images/blogsy_footer_icon.png)Posted with
+Blogsy](http://blogsyapp.com)
+
+&lt;/div&gt;</summary><category term="administration"></category><category term="democratic"></category><category term="election"></category><category term="president"></category></entry><entry><title>The walled garden is the future of computing.</title><link href="/the-walled-garden-is-the-future-of-computing.html" rel="alternate"></link><updated>2012-08-15T21:32:00+00:00</updated><author><name>feoh</name></author><id>tag:,2012-08-15:the-walled-garden-is-the-future-of-computing.html</id><summary type="html">&lt;p&gt;These days it seems like almost everybody (at least almost everybody in
+the technology world) has made bashing Apple their new favorite past
+time.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;One of the complaints I hear again and again is that Apple's
+mobile operating system that runs every iPhone, iPad, and iPod Touch are
+designed based on the "walled garden" philosophy - meaning that you can
+only install approved apps on the device from Apple's App Store unless
+you throw all caution (and your warranty :)) and jailbreak your device.&lt;/p&gt;
+&lt;p&gt;Compare this to Google's Android OS where the user can install anything
+they want, from wherever they want from wherever they want, including
+some fairly insidious malware. I know I've been spammed two or three
+times by friends who had their Android phone's address book compromised.
+However even Google is making moves in more restrictive directions of
+late, but only in their app store, which you can ignore completely if
+you prefer.&lt;/p&gt;
+&lt;p&gt;What these geeks are missing is that for 99% of the population, the jail
+is &lt;strong&gt;&lt;em&gt;a good thing!&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;People want their devices to be appliances&lt;/em&gt;.
+They want to browse the web without fear, write their documents and
+spreadsheets unfettered by things like virus checking, file systems and
+storage devices, and play their games secure in the knowledge that
+they're not pulling in a Trojan that will send Nazi supremacist hate
+mail to their grandma and their boss.&lt;/p&gt;
+&lt;p&gt;The hard truth for many geeks to accept is that for end users, this
+represents pretty much the ideal computing experience. This goes way
+beyond Apple and iDevices and into the realm of general purpose
+computers like laptops mad desktops.&lt;/p&gt;
+&lt;p&gt;All one need do is examine the marketing blurbs for the latest OS
+versions from Apple and Microsoft to validate my claim. Windows 8
+features required code signing for installed apps, effectively the
+beginnings of a walled garden of their own.&lt;/p&gt;
+&lt;p&gt;As I mentioned previously, Apple lead the charge into the walled garden
+future I'm predicting with IOS, but with tithe release of MacOS X
+Mountain Lion, they're filing the rough edges from the computing
+experience for desktop and laptop users as well.&lt;/p&gt;
+&lt;p&gt;Honestly it's been rather amusing to,watch the geek-o-sphere practically
+tremble with rage over this issue, ranting and roaring on about Apple's
+new found tyranny.&lt;/p&gt;
+&lt;p&gt;In truth I just don't get it. Gatekeeper can be bypassed with a single
+key press. What's the big deal? I predict that there will always
+continue to be trap doors and escape hatches for those who know enough
+to seek them out.&lt;/p&gt;
+&lt;p&gt;Apple is in fact not trying to impose some kind of Orwellian new world
+order and declaring a Jihad on geeks, they're just doing what they've
+always done, innovating the tech in ways that will improve the quality
+of life for the majority of users.&lt;/p&gt;
+&lt;p&gt;Simply put, geeks need to get over themselves. Computing has become such
+a part of the mainstream of every day life that people don't &lt;strong&gt;want or
+need&lt;/strong&gt; to be beholden to the techno-priesthood any longer. To my mind,
+this is nothing but win. Over the long haul, it means we can get out of
+the business of being family tech support, and get back to playing with
+technology and having fun pushing the envelope!&lt;/p&gt;
+&lt;div id="blogsy_footer"
+style="text-align: right; font-size: small; clear: both;"&gt;
+
+[![Posted with
+Blogsy](http://blogsyapp.com/images/blogsy_footer_icon.png)Posted with
+Blogsy](http://blogsyapp.com)
+
+&lt;/div&gt;</summary><category term="apple"></category><category term="code"></category><category term="computers"></category><category term="cryptography"></category><category term="future"></category><category term="signing"></category></entry><entry><title>Trying out VimRepress</title><link href="/trying-out-vimrepress.html" rel="alternate"></link><updated>2012-02-09T16:48:00+00:00</updated><author><name>feoh</name></author><id>tag:,2012-02-09:trying-out-vimrepress.html</id><summary type="html">&lt;h2&gt;VimRePress&lt;/h2&gt;
+&lt;p&gt;In an ongoing effort to immerse myself in Vim as much as possible, I'm
+trying out a plugin called
+&lt;a href="https://github.com/vim-scripts/VimRepress"&gt;VimRepress&lt;/a&gt; - a fork of the
+popular Vimpress plugin.&lt;br /&gt;
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;h3&gt;Installing&lt;/h3&gt;
+&lt;p&gt;Unfortunately, getting it running with MacVim on MacOS X Lion is a bit
+of a bear, but thankfully Paulo Poiati wrote an excellent
+&lt;a href="http://blog.paulopoiati.com/2012/02/07/installing-vimrepress-in-macvim-osx-lion/"&gt;article&lt;/a&gt;
+on getting the job done.&lt;/p&gt;
+&lt;p&gt;Basically, if you're using Homebrew, you have to rebuild your MacVim to
+use the i386 architecture, otherwise you wind up with a Python
+interpreter that doesn't match the bitness of your editor, and when
+MacVim goes to invoke Python to run the blogging bits in the plugin,
+MacVim explodes.&lt;/p&gt;
+&lt;p&gt;Also unfortunately, you can't use the Homebrew built Python or Ruby
+interpreters when building MacVim either, and have to instead use the
+bundled ones from MacOS (both sorely out of date. Who uses Ruby 1.8
+anymore? :).&lt;/p&gt;
+&lt;p&gt;So I had to uninstall my Homebrew based Python and Ruby, install
+python-markdown2 into the OSX default Python instance, and now
+everything seems to be working just fine.&lt;/p&gt;
+&lt;h2&gt;Living the Vim Life&lt;/h2&gt;
+&lt;h3&gt;VimRepress and Blogging&lt;/h3&gt;
+&lt;p&gt;That said, there are still some creature comforts that I miss from the
+awesome Blogging bundle in TextMate - silly things like giving me a drop
+down list with the possible Categories for my post and the like.
+Hopefully over time we can get those implemented in Vim land :)&lt;/p&gt;
+&lt;p&gt;On the upside, and this counts for a lot, is that I can now write in
+&lt;a href="http://daringfireball.net/projects/markdown/"&gt;Markdown&lt;/a&gt; again
+\&amp;lt;&lt;em&gt;contented sigh&lt;/em&gt;&gt; I've missed Markdown terribly ever since I
+transitioned the blog from Typo to Wordpress many moons ago. It's a joy
+to write in, and really lets me think about the writing, not about a
+properly formed HTML element, which is priceless.&lt;/p&gt;
+&lt;h3&gt;Vim and Me In the Large&lt;/h3&gt;
+&lt;p&gt;For what it's worth, thus far the minor pain of transitioning to Vim has
+been entirely worth it, I've definitely seen a noticeable productivity
+boost, and for work-a-day code and configuration editing, I'm actually
+finding Vim to be vastly more powerful than TextMate simply because my
+environment is everywhere I want to be rather than being chained to
+using my Mac desktop for editing and resorting to chicanery like remote
+mounted filesystems via sshfs.&lt;/p&gt;
+&lt;p&gt;For years I'd read &lt;a href="http://pragprog.com/the-pragmatic-programmer"&gt;The Pragmatic
+Programmer&lt;/a&gt; with its
+mantra of "Learn &lt;strong&gt;one&lt;/strong&gt; editor, and learn it *&lt;em&gt;well&lt;/em&gt;" (paraphrase).&lt;/p&gt;
+&lt;p&gt;I always had mixed feelings about that. I'd taken pride through most of
+my career in being able to learn a multitude of different tools and
+adapt to whatever worked best in the local environment. That is in fact
+a really great skill to have, but there is definitely wisdom where
+editors are concerned to pick one and &lt;em&gt;live&lt;/em&gt; in it 24/7.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://code.google.com/p/macvim/"&gt;MacVim&lt;/a&gt; has helped tremendously with
+that. With it you can have your cake and eat it to. You can use the very
+same config files and plugins you use on your UNIX servers on your
+desktop, only wrapped in a superbly crafted Aqua GUI.&lt;/p&gt;
+&lt;p&gt;It's a continuing process, but thus far the work I've put in has been
+totally worth it. I would encourage anyone who's on the fence to give it
+a try and be strict with yourself about it. Pick a time when you can
+afford to take the hit and spend the time to get facile enough that you
+won't miss your old environment. You won't regret it.&lt;/p&gt;
+&lt;!-- #VIMPRESS_TAG# http://www.feoh.org/wp-content/uploads/2012/02/wpid156-vimpress_4f3443fb_mkd.txt wpid156-vimpress_4f3443fb_mkd.txt --&gt;</summary><category term="blog"></category><category term="blogging"></category><category term="editors"></category><category term="vim"></category></entry><entry><title>Amazon is doing itself a dis-service by killing Stanza</title><link href="/amazon-is-doing-itself-a-dis-service-by-killing-stanza.html" rel="alternate"></link><updated>2011-11-01T13:25:00+00:00</updated><author><name>feoh</name></author><id>tag:,2011-11-01:amazon-is-doing-itself-a-dis-service-by-killing-stanza.html</id><summary type="html">&lt;p&gt;Apparently, Amazon bought the company that makes Stanza quite a while
+ago, and if one can believe what one reads, they did so for the sole
+purpose of killing it.  This is a stupid move on their part if true.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;I own both an iPad and a Kindle, I use and love both for different
+things, and in my opinion they're apples and oranges.  Reading technical
+books on Kindle is quite frankly an awful experience.  The translations
+of many of them into Mobipocket format are abysmal.  Sidebars are
+mangled into poorly formatted blobs of text separated from the main body
+by a vertical bar if you're lucky, or maybe a different typeface if
+you're not.  Lines are slung together, and pagination is utter hell.&lt;/p&gt;
+&lt;p&gt;Admittedly, this isn't entirely Amazon's fault.  The Mobipocket format
+is simple to be sure, but if enough care is spent it's quite possible to
+produce eminently acceptable results, but as I say, it requires
+&lt;strong&gt;care&lt;/strong&gt;, which is something most publishers seemingly aren't willing to
+provide.&lt;/p&gt;
+&lt;p&gt;For reading prose, in my humble opinion, nothing beats the experience of
+an E-ink Kindle.  They're easy on the eyes, and with many models you get
+free Whispernet book downloads.  Awesome.  Even when I'm using my iPad,
+I still do 99% of my 'fun' reading with the Amazon Kindle app.&lt;/p&gt;
+&lt;p&gt;So, while I'll be the first to admit that business is war and taking out
+what could be seen as a direct rival is a smart move in one sense, in
+reality the consumer gets punished, and consumers rarely react well to
+such treatment.&lt;/p&gt;
+&lt;p&gt;People will not turn to Amazon because their beloved Stanza has exploded
+in a fiery ball of doom with the coming of IOS 5, they'll simply turn to
+other alternatives like the excellent
+&lt;a href="http://www.megareader.net/"&gt;MegaReader&lt;/a&gt; application whose author is
+working very hard to cater to the Stanza users bereft of their favorite
+reader.&lt;/p&gt;
+&lt;p&gt;Dumb move, Amazon.  I am still a loyal fan, and this won't in any way
+change how much I buy from you, but I am decidedly &lt;strong&gt;not pleased.&lt;/strong&gt;&lt;/p&gt;</summary></entry><entry><title>Move over TextMate. MacVim is the new kid in town!</title><link href="/move-over-textmate-macvim-is-the-new-kid-in-town.html" rel="alternate"></link><updated>2011-09-09T17:41:00+00:00</updated><author><name>feoh</name></author><id>tag:,2011-09-09:move-over-textmate-macvim-is-the-new-kid-in-town.html</id><summary type="html">&lt;p&gt;For years I've been rather proud of the fact that I'm a total polyglot
+when it&lt;br /&gt;
+comes to editors. I'm comfortable on both sides of the fence, using
+Emacs, Vi,&lt;br /&gt;
+TextMate, EditPlus, or even the venerable /bin/ed whenever that makes
+sense.&lt;br /&gt;
+&lt;!--more--&gt;&lt;br /&gt;
+But for the first time in a long time, my current (awesome! :)) job at
+&lt;a href="http://www.bluestatedigital.com"&gt;Blue&lt;br /&gt;
+State Digital&lt;/a&gt; has given me the
+opportunity to&lt;br /&gt;
+branch out and do quite a bit of real software development.&lt;/p&gt;
+&lt;p&gt;I first encountered TextMate shortly after I came to OSX. It's a great
+editor,&lt;br /&gt;
+and I have a tremendous amount of respect for Alan Odegard of
+&lt;a href="http://www.macromates.com"&gt;Macromates&lt;/a&gt;&lt;br /&gt;
+software. He has just about single handedly created not only an
+amazing&lt;br /&gt;
+editor, but a vibrant and loyal community around his program, and he's
+to be&lt;br /&gt;
+commended for that.&lt;/p&gt;
+&lt;p&gt;I would have remained happy in TextMate land, but for the fact that my
+most&lt;br /&gt;
+recent job has me going back to where it all started for me - server
+side UNIX,&lt;br /&gt;
+Linux to be exact.&lt;/p&gt;
+&lt;p&gt;So, I editing files on my Mac using Expandrive to remotely mount them,
+but&lt;br /&gt;
+quite frankly that's a pain in the neck I just don't need to deal with.&lt;/p&gt;
+&lt;p&gt;With Vim, I can memorize one set of keystrokes for everywhere I might
+need to&lt;br /&gt;
+be.&lt;/p&gt;
+&lt;p&gt;And with MacVim, I get a nicely streamlined, beautifully Aqua-fied
+interface,&lt;br /&gt;
+with all the creature comforts TextMate provides and more.&lt;/p&gt;
+&lt;p&gt;What's more, there are a number of folks making the same transition, so
+there&lt;br /&gt;
+are some excellent articles and websites out there to ease the
+transition like&lt;br /&gt;
+[this guide on making the  &lt;/p&gt;
+&lt;p&gt;switch](http://www.jackkinsella.ie/2011/09/05/textmate-to-vim.html#masthead)
+or&lt;br /&gt;
+the excellent &lt;a href="http://vimcasts.org"&gt;VimCasts&lt;/a&gt; series of Vim tutorial
+screen&lt;br /&gt;
+casts. They cover everything from the basics to some fairly advanced
+tips and&lt;br /&gt;
+tricks on more complex Vim modes and integrations, and is written by a
+TextMate&lt;br /&gt;
+to Vim switcher.&lt;/p&gt;
+&lt;p&gt;Right now I'm writing this post on the excellent&lt;br /&gt;
+&lt;a href="http://www.vim.org/scripts/script.php?script_id=3510"&gt;VimRePress&lt;/a&gt;
+plugin for&lt;br /&gt;
+Vim that allows you to author and manage your Wordpress blog right from
+within&lt;br /&gt;
+the editor! Very sweet :)&lt;/p&gt;
+&lt;p&gt;So, it's a brave new world, and I'm excited by the opportunity to get&lt;br /&gt;
+&lt;strong&gt;really&lt;/strong&gt; good at Vim so I can push my editing productivity through
+the roof&lt;br /&gt;
+:)&lt;/p&gt;</summary><category term="editors"></category><category term="Mac"></category><category term="platforms"></category><category term="textmate"></category><category term="UNIX"></category><category term="vim"></category></entry><entry><title>Sleeeepy (And old :P)</title><link href="/sleeeepy-and-old-p.html" rel="alternate"></link><updated>2011-07-18T15:56:00+00:00</updated><author><name>feoh</name></author><id>tag:,2011-07-18:sleeeepy-and-old-p.html</id><summary type="html">&lt;p&gt;I've noticed that as I get older, getting enough good sleep has become
+more and more of an issue...&lt;!--more--&gt;As I get older, I find my need
+for sleep decidedly increasing. Not so much the amount of sleep, that
+has remained relatively stagnant at around 6 hours minimum (with a
+minimum of 1 or 2 8+ hour nights thrown in for good measure) but the
+degree to which the lack of the required sleep effects me and my ability
+to do my job.&lt;/p&gt;
+&lt;p&gt;When I was younger, I could pull two or three all nighters in a week
+with virtually no ill effects. Now, a night with 4 or 5 hours sleep, or
+a night where my sleep is disturbed by something or other has a real and
+noticeable effect on me the next day.&lt;/p&gt;
+&lt;p&gt;I know all the excess weight I'm carrying around isn't helping, and
+hence I've been exercising religiously, burning about 300 calories per
+session, which has definitely begun making a dent in my overall weight
+(I won't mention numbers yet for fear of jinxing it. I find it's best
+not to talk progress until I've lost a truly significant amount of and
+kept it off for a while.)&lt;/p&gt;
+&lt;p&gt;We bought a treadmill and an exercise bike about 6 months ago now, and
+those have been invaluable. The ability to exercise at home at my own
+convenience means I can stumble out of bed, down the stairs, and onto
+the treadmill so that before I ever have the chance to talk myself out
+of it, I'm on the treadmill or the bike chugging away.&lt;/p&gt;
+&lt;p&gt;So, thankfully things are moving in a positive direction. I just have to
+keep at it, not fall off the horse (again having the equipment in the
+house eliminates a myriad of excuses!) and be patient.&lt;/p&gt;
+&lt;p&gt;It's heartening for me to see a bunch of the younger folks I work with
+decidedly not falling into the same trap many geeky people from my
+generation were bitten by. They're incredibly health conscious, and
+pretty much all have incredibly rigorous work out regimens and are
+scrupulous about tracking their weight (One guy has his bathroom scale
+broadcast his current weight to his Twitter feed. Think I'll pass on
+that one, thanks :)). I know we've all heard the saw about establishing
+good habits early, but in this case it can't be emphasized enough.&lt;/p&gt;
+&lt;p&gt;Anyway, pardon the slightly unfocused ramble, but this stuff has been
+rattling around my head wanting to be written for a while.&lt;/p&gt;
+&lt;p&gt;Hope everyone's enjoying their summer!&lt;/p&gt;</summary><category term="aging"></category><category term="career"></category><category term="exercise"></category><category term="health"></category><category term="sleep"></category><category term="work"></category></entry><entry><title>Why Apple's Mac App Store will be good for the Mac</title><link href="/why-apples-mac-app-store-will-be-good-for-the-mac.html" rel="alternate"></link><updated>2011-06-21T14:19:00+00:00</updated><author><name>feoh</name></author><id>tag:,2011-06-21:why-apples-mac-app-store-will-be-good-for-the-mac.html</id><summary type="html">&lt;p&gt;When Apple said they were introducing an "App Store" to OSX a-la the
+iPhone, iPad, etc. there was much ranting and foaming at the
+mouth...&lt;!--more--&gt;Many geeks proclaimed the death of Mac OS X as we
+know it. "Apple is iPhone-izing the Mac!" they cried.&lt;/p&gt;
+&lt;p&gt;They're largely wrong, at least in all the important ways.&lt;/p&gt;
+&lt;p&gt;Here are the salient points:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discovery - people are *far* more likely to purchase things that
+    are available from a single, readily accessible source. Having a
+    veritable floatilla of awesome software that's discoverable right
+    from the Apple menu of every Mac means that if you're a publisher,
+    people are FAR more likely to try your software. I myself found a
+    free copy of Autodesk Sketchpad in the app store that I am very much
+    enjoying. I might end up buying the commercial product as a result -
+    possibly through the app store! (See caveats below for why I might
+    choose the shrink wrapped version.)&lt;/li&gt;
+&lt;li&gt;Ease of installation - just like on the iPhone and iPad, you click
+    "Buy" or "Install" and *BOOM* it's on your machine, happily
+    bouncing in your dock. For non technical people, this is a godsend.
+    They do not want to know about .dmg files, dragging apps to the
+    Applications folder, or the like. Yes, I know, this is VASTLY easier
+    than the folks in the Windows world have it with their highly
+    complex installers, but even still.&lt;/li&gt;
+&lt;li&gt;One Stop Shopping for updates - Sure, lots of devs these days are
+    bundling some kind of update mechanism into their apps, but this is
+    once again - seamless and easy to use for non technical people.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Of course, every silver lining has a cloud attached, so there are a few
+down sides:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Inflexible upgrade path - Apple has imposed rules around publishers
+    app store offerings, I don't know all the details, but I do know
+    that publishers are not happy. They want total control of how they
+    monetize the sale of upgrades for their customers, and to a certain
+    extent I can't blame them. Over all I think the net winner here is
+    the consumer, so we'll see how many publishers sign up and
+    grudgingly cope with the new rules.&lt;/li&gt;
+&lt;li&gt;Restrictive rules about permitted content - Nothing sexy, nothing
+    violent, no Java or Rosetta, just like the IOS app store.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;From my perspective, people who object to the app store on OSX are on
+shaky ground, because unlike the IOS world where the app store is the
+ONLY way to get apps, the app store on OSX isn't. You can still install
+apps the old fashioned way, and Apple has given &lt;em&gt;no&lt;/em&gt; indocation that
+they intend to do this now or at any time in the future. I don't think
+it's in their best interest to do this, and I think people who are
+predicting imminent doom really need to get their collective head
+checked.&lt;/p&gt;
+&lt;p&gt;Then again, geeks do have a propensity for hysterics.&lt;/p&gt;
+&lt;p&gt;To sum up, I think everyone (publishers, consumers, and the wider Mac
+community) has everything to gain and nothing to lose from the app
+store, and I for one welcome the addition.&lt;/p&gt;</summary><category term="app"></category><category term="apple"></category><category term="geeks"></category><category term="ios"></category><category term="Macintosh"></category><category term="macos"></category><category term="osx"></category><category term="rants"></category><category term="store"></category></entry><entry><title>Don't buy early access (MEAP) books from Manning Press.</title><link href="/dont-buy-early-access-meap-books-from-manning-press.html" rel="alternate"></link><updated>2011-02-27T09:11:00+00:00</updated><author><name>feoh</name></author><id>tag:,2011-02-27:dont-buy-early-access-meap-books-from-manning-press.html</id><summary type="html">&lt;p&gt;I hate to write a negative blog post about a tech publisher's ebooks
+program, but I'm afraid they've driven me to it...&lt;/p&gt;
+&lt;p&gt;[May 2011 Update: Manning has changed things and you can now download
+any books you've ever bought from them anytime. Yay! My other criticisms
+still stand, but this is an improvement!]&lt;br /&gt;
+&lt;!--more--&gt;&lt;br /&gt;
+Firstly, easily half of the MEAP titles I've purchased never make it to
+publication, after languishing for months and months while I get E-mails
+about the authors being hard at work on the book.&lt;/p&gt;
+&lt;p&gt;Not that I don't sympathize, writing a book is from what I understand
+Really Hard, but as a consumer if I've signed up to buy something, I
+expect a completed product to come out the other end. To be fair,
+Manning does offer either a refund or an exchange plus a bonus free
+e-book, but most of the truly hot topics that I found interesting were
+MEAP books again, so the cycle repeats.&lt;/p&gt;
+&lt;p&gt;Secondly, Manning uses the Yahoo Store for their ebook delivery. Wow,
+what a nightmare. You get n days to download your book once they send
+you the email, and then POOOF your purchase goes off into the ether.
+Compare and contrast with &lt;a href="http://oreilly.com/" title="O'Reilly Media - Technology Books, Tech Conferences, IT Courses, News"&gt;O'Reilly and
+Associates&lt;/a&gt;
+and the &lt;a href="http://www.pragprog.com/" title="The Pragmatic Bookshelf"&gt;Pragmatic
+Programmers&lt;/a&gt; (two
+publishing houses I can't recommend enthusiastically enough.) where you
+can re-download your purchases anytime, for *life*.&lt;/p&gt;
+&lt;p&gt;If you buy early access titles from either of these publishers, you are
+not chained to your email for fear that the ticking time bomb of your
+download notice will expire when you're not looking.&lt;/p&gt;
+&lt;p&gt;In general, I think Manning really needs to take a long, hard look at
+its store front user experience. I'm not saying I'll never buy a title
+from them again, but I am saying it's a HECK of a lot less likely that I
+will, and I'll always choose pragprog or O'Reilly if I have a choice..&lt;/p&gt;</summary><category term="customer service"></category><category term="early access"></category><category term="ebooks"></category><category term="manning"></category><category term="meap"></category><category term="publishing"></category><category term="technical"></category></entry><entry><title>Why Many Hard Core Science Fiction / Fantasy Fans Hate Harry Potter</title><link href="/why-hard-core-science-fiction-fantasy-fans-hate-harry-potter.html" rel="alternate"></link><updated>2010-12-08T11:53:00+00:00</updated><author><name>feoh</name></author><id>tag:,2010-12-08:why-hard-core-science-fiction-fantasy-fans-hate-harry-potter.html</id><summary type="html">&lt;p&gt;So, I finally did it. After a nearly non stop marathon reading of the
+last three books in the series (I wanted to read all the books before I
+saw the movies, and I'm very glad I did this. As always, the books have
+&lt;em&gt;way&lt;/em&gt; more depth.), I've come to the following conclusions...&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;Many hard core science fiction and fantasy fans dislike the series,
+quite simply, because it's not written for us.&lt;/p&gt;
+&lt;p&gt;I happen to quite like the series, but in order to enjoy it as I have I
+found it necessary to keep my fanboy hat firmly in its place the entire
+time.&lt;/p&gt;
+&lt;p&gt;I could poke a thousand holes in the series, but what it all comes down
+to is this - it's a totally whimsical universe, devoid of the kind of
+carefully construed logical frameworks that hard core fantasy and scifi
+fans clamor for.&lt;/p&gt;
+&lt;p&gt;Let's take a look at magic just as a for instance. In the Potter-verse,
+spells are formulaic incantations that produce ambiguous results.
+Compare and contrast this with something like Jim Butcher's Dresden
+files, where things like the laws of physics come heavily into play.&lt;/p&gt;
+&lt;p&gt;In the end, the Harry Potter series isn't primarily about magic,
+although wizards and witches fill the pages of the book, it's about good
+(Harry) in the never ending struggle against evil, and the terrible
+price that those who stand up against evil must pay.&lt;/p&gt;
+&lt;p&gt;In my humble opinion though, it's a heck of a ride. Very entertaining
+from start to finish, and in the end analysis couldn't all of us do with
+a bit of an escape into whimsy once in a while anyway?&lt;/p&gt;
+&lt;p&gt;While at first blush the series appears to be young adult reading, good
+only for kids too young to be exposed to the evils of the world, and the
+first books are indeed very light hearted and very much fairy tale like
+in nature, but as the series progresses it becomes much, &lt;em&gt;MUCH&lt;/em&gt; darker.
+Evil and its outcome is depicted in much sharper contrast, and death
+looms around every corner.&lt;/p&gt;
+&lt;p&gt;I would encourage any hard core fantasy fan who read the first book,
+said "meh" and walked away to give it another try. Look at it from a
+different perspective, and just try to enjoy the story for what it is.
+In the end I predict you will not be disappointed.&lt;/p&gt;</summary><category term="analysis"></category><category term="books"></category><category term="fans"></category><category term="fantasy"></category><category term="fiction"></category><category term="magic"></category><category term="stories"></category><category term="wands"></category><category term="wizards"></category></entry><entry><title>Managing crontabs with Git</title><link href="/managing-crontabs-with-git.html" rel="alternate"></link><updated>2010-10-20T15:24:00+00:00</updated><author><name>feoh</name></author><id>tag:,2010-10-20:managing-crontabs-with-git.html</id><summary type="html">&lt;p&gt;&lt;span style="color: #0000ff;"&gt;April 2012 Update&lt;/span&gt;: &lt;span
+style="color: #ff0000;"&gt;Nowadays we use &lt;a href="http://www.opscode.com/chef/" title="Chef"&gt;&lt;span
+style="color: #ff0000;"&gt;Chef&lt;/span&gt;&lt;/a&gt;
+from Opscode solutions to manage our crontabs, and just about everything
+else in our enterprise infrastructure. It rocks :)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Time and time again over the years I've dealt with the same problem -
+who took a random pot shot at some critical user's crontab file and
+deleted things without asking?&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;All of a sudden, someone realizes that some function that's supposed to
+run every so often has stopped, and in fact hasn't run in weeks. You
+sniff around - nope, no errors in the logs, in fact no logs at all!&lt;/p&gt;
+&lt;p&gt;Then you look at the crontab for the user in question and realize that
+the lines invoking the script that used to be there have either been
+deleted or commented out. What the? Who did this, and why?&lt;/p&gt;
+&lt;p&gt;Git to the rescue! With the help of a simple Bourne Shell script, you
+can keep your crontab managed so you'll not just be able to see who
+changed what and when, but if you have the Git hook installed to send
+mail on commits, you can be notified of those changes in real time.
+Pretty cool eh? :)&lt;/p&gt;
+&lt;p&gt;Since crontab has no built in security precautions other than requiring
+you to BE the user whose crontab you're submitting, we can't lock people
+not using this script out, but if you tell everyone that changes they
+make outside of the script may be summarily ignored and overwritten (and
+put something to that effect in the comment block at the top of your
+crontab) you should be in good shape. The script will compare what's in
+Git with what's currently installed in cron, and if there are
+discrepancies it will give you a chance to cleanly exit and resolve
+them, or allow you to ignore them and roll forward with editing and
+submitting what's in Git.&lt;/p&gt;
+&lt;p&gt;Here's the script. It assumes you're running as your regular user and
+have sudo privs to the user whose crontab you wish to edit. It also
+assumes you've created a Git repository called system_cron.git&lt;/p&gt;
+&lt;p&gt;To set it up, just edit reponame and gitrepo to appropriate values for
+your site and copy the script to somewhere folks can access it in their
+PATH.&lt;/p&gt;
+&lt;p&gt;To use it, just invoke it with the user whose crontab you want to edit -
+for example:&lt;code&gt;edit_crontab.sh build&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;``` {lang="bash"}&lt;/p&gt;
+&lt;h1&gt;!/bin/sh&lt;/h1&gt;
+&lt;p&gt;export tmpdir="/tmp/crontab_$$"&lt;/p&gt;
+&lt;p&gt;if [ $# -lt 1 ]; then
+    echo "Usage: $0 "
+    exit 1;
+fi&lt;/p&gt;
+&lt;p&gt;if [ -z "$EDITOR" ]; then
+    echo "No editor found.  Using vim."
+    export EDITOR="/usr/bin/vim"
+fi&lt;/p&gt;
+&lt;p&gt;crontab_user=$1&lt;/p&gt;
+&lt;p&gt;crontab_file="&lt;code&gt;uname -n&lt;/code&gt;-$crontab_user.crontab"
+echo "crontab_file=$crontab_file"&lt;/p&gt;
+&lt;p&gt;git clone /home/git/system_cron.git $tmpdir
+cd $tmpdir&lt;/p&gt;
+&lt;p&gt;sudo -u $crontab_user crontab -l &amp;gt; currcrontab_$$&lt;/p&gt;
+&lt;p&gt;if [ $? -ne 0 ]; then
+    echo "sudo to user $crontab_user failed! Do you have sudo privs?"
+    exit 1;
+fi&lt;/p&gt;
+&lt;p&gt;diff=&lt;code&gt;diff currcrontab_$$ $crontab_file&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;if [ $? -ne 0 ]; then
+    echo "Currently running crontab for $crontab_user differs from Git!"
+    echo "Here are the differences:"
+    echo $diff
+    echo 
+    echo -n "Continue editing / submitting what's in Git? (Y/n): "
+    read yesorno
+    if [ "$yesorno" != "Y" ]; then
+        echo "Very good.  Exiting." 
+        exit 1;      &lt;br /&gt;
+    fi
+fi&lt;/p&gt;
+&lt;p&gt;$EDITOR $crontab_file&lt;/p&gt;
+&lt;p&gt;echo "Here are your changes:"
+git diff --exit-code $crontab_file
+if [ $? -eq 0 ]; then
+    echo "No changes made.  Not submitting anything."
+    exit 1;
+fi&lt;/p&gt;
+&lt;p&gt;echo -n "Submit these changes to Git and crontab? (Y/n): "
+read yesorno
+if [ "$yesorno" != "Y" ]; then
+    echo "Your changes are in $tmpdir/system_cron/$crontab_file."
+    echo "Please clean up this directory when you're done with it."
+    exit 1;      &lt;br /&gt;
+else
+    git commit $crontab_file
+    if [ $? -ne 0 ]; then
+        echo "There was a problem committing your crontab to git!"
+        exit 1;
+    fi
+    git push origin master
+    if [ $? -ne 0 ]; then
+        echo "There was a problem pushing your crontab to git!"
+        exit 1;
+    fi&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="err"&gt;#&lt;/span&gt;&lt;span class="x"&gt; if we made it this far. We&amp;#39;re all good.  Install that puppy!&lt;/span&gt;
+
+&lt;span class="x"&gt;echo &amp;quot;Installing your crontab.&amp;quot;&lt;/span&gt;
+&lt;span class="x"&gt;sudo -u &lt;/span&gt;&lt;span class="p"&gt;$&lt;/span&gt;&lt;span class="nv"&gt;crontab_user&lt;/span&gt;&lt;span class="x"&gt; crontab &lt;/span&gt;&lt;span class="p"&gt;$&lt;/span&gt;&lt;span class="nv"&gt;crontab_file&lt;/span&gt;&lt;span class="x"&gt;&lt;/span&gt;
+&lt;span class="x"&gt;if [ &lt;/span&gt;&lt;span class="p"&gt;$&lt;/span&gt;&lt;span class="x"&gt;? -ne 0 ]; then&lt;/span&gt;
+&lt;span class="x"&gt;    echo &amp;quot;ERROR! Your changes were NOT installed! Something went wrong.&amp;quot;&lt;/span&gt;
+&lt;span class="x"&gt;    exit 1;&lt;/span&gt;
+&lt;span class="x"&gt;fi&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;fi&lt;/p&gt;
+&lt;p&gt;echo "Cleaning up tmp directory..."&lt;/p&gt;
+&lt;h1&gt;rm -rf $tmpdir&lt;/h1&gt;
+&lt;p&gt;```&lt;/p&gt;</summary><category term="administration"></category><category term="bourne shell"></category><category term="cron"></category><category term="crontab"></category><category term="Git"></category><category term="management"></category><category term="SCM"></category><category term="script"></category><category term="shell"></category><category term="sysadmin"></category><category term="UNIX"></category></entry><entry><title>Green Mountains on My Mind</title><link href="/green-mountains-on-my-mind.html" rel="alternate"></link><updated>2010-10-14T17:19:00+00:00</updated><author><name>feoh</name></author><id>tag:,2010-10-14:green-mountains-on-my-mind.html</id><summary type="html">&lt;p&gt;My wife and I enjoyed a long weekend vacation in Vermont a few days
+back...&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;Something I have noticed over time is that nothing leaves me relaxed in
+quite the same way as a vacation to Vermont.&lt;/p&gt;
+&lt;p&gt;I think it has to do with more than just the majestic green mountain
+views, fresh air, and locally sourced fresh food. It's a state of mind,
+one which embraces an aesthetic that pervades everything and is a
+conscious decision on the part of its participants to build in ways that
+harmonize with the natural landscape rather than paving over and
+obliterating it.&lt;/p&gt;
+&lt;p&gt;Among other things, we visited the &lt;a href="http://www.woodstockmagazineonline.com/2010/09/woodstock-apples-crafts-fair/" title="Woodstock Apples &amp;amp; Crafts Fair | Woodstock Magazine"&gt;Woodstock Apple and Crafts
+Fair&lt;/a&gt;
+and the &lt;a href="http://www.craftproducers.com/festival-details.php?id=31" title="Craft Producers"&gt;Stowe Foliage Arts
+Festival&lt;/a&gt;.
+The artisans displaying their wares were really quite amazing. This is
+not your average New England craft show with 9000 booths of knit
+scarves. These festivals had woodworoking, blown and stained glass,
+metal smiths, leatherworkers, you name it.&lt;/p&gt;
+&lt;p&gt;No trip to Vermont (for us anyway :) would be complete without a stop at
+&lt;a href="http://www.alchemistbeer.com/" title="The Alchemist Pub And Brewery"&gt;The
+Alchemist&lt;/a&gt;
+in Waterbury. These folks have some of the best craft brewed beer I've
+ever tasted. This time I got to sample their new 'Wee Heavy' - a super
+malty dark brew called 'The Wee Little Wabbit' - yum! :)&lt;/p&gt;
+&lt;p&gt;We've talked about retiring there in our dottage, and I've got to say
+I'm definitely up for it. Hopefully we can retire young enough to be
+able to actually enjoy it :)&lt;/p&gt;</summary><category term="artisans"></category><category term="arts"></category><category term="beer"></category><category term="crafts"></category><category term="fairs"></category><category term="food"></category><category term="green mountains"></category><category term="mountains"></category><category term="outdoors"></category><category term="scenery"></category><category term="travel"></category><category term="trees"></category><category term="vacation"></category><category term="Vermont"></category><category term="woods"></category></entry><entry><title>Will Java survive Oracle?</title><link href="/untitled.html" rel="alternate"></link><updated>2010-10-06T18:00:00+00:00</updated><author><name>feoh</name></author><id>tag:,2010-10-06:untitled.html</id><summary type="html">&lt;p&gt;When Oracle bought Sun, I was initially fairly bullish on the idea - I
+thought Oracle might temper some of Sun's whimsical brainstorming turned
+projects that it poured resources into, and create a leaner, meaner Sun.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;Well, if initial indications continue to hold, they may be going too
+far, and throwing the baby out with the bath water.&lt;/p&gt;
+&lt;p&gt;I've heard from several people who returned from JavaOne about what a
+disappointing experience it was, and how they felt marginalized and
+overrun by the suit wearing denizens that have populated Oracle Develop
+for years.&lt;/p&gt;
+&lt;p&gt;I wasn't surprised when I heard that Oracle was folding JavaOne into its
+main conference offering, but I *WAS* surprised that they didn't take
+great pains to ensure that the experience for Java developers was no
+less useful, fun and all around worth it to developers as it has been in
+the past.&lt;/p&gt;
+&lt;p&gt;I would think they'd be working overtime to convince developers that
+Java is still a first class, thriving platform worth investing in, not
+an also ran to Oracle's existing product suite.&lt;/p&gt;
+&lt;p&gt;To be fair, I'm observing from a slight distance these days as I work
+for &lt;a href="http://www.bluestatedigital.com/"&gt;Blue State Digital&lt;/a&gt;, an
+incredible company doing amazing things with PHP (which has come a long,
+LONG way while I wasn't looking - I'll be posting about that soon), but
+I still feel like I have a lot invested in Java - I spent a decade out
+of my career living in that space, so I would love to see it continue to
+thrive, not just survive.&lt;/p&gt;
+&lt;p&gt;Clearly, Java isn't going away any time soon. In my opinion it's a great
+platform (not free of warts, sure, but name one that is) but this does
+make me wonder about people choosing a platform for new projects - there
+are lots of choices out there today, many of which are lighter weight
+and much less fragmented than what Java has to offer.&lt;/p&gt;
+&lt;p&gt;Oracle needs to make up its mind about whether it sees Java as a crown
+jewel or a sick aunt to be locked away in a drafty room and checked on
+once every few days.&lt;/p&gt;
+&lt;p&gt;Or maybe it already has, only time will tell.&lt;/p&gt;</summary><category term="acquisition"></category><category term="community"></category><category term="development"></category><category term="Java"></category><category term="JavaOne"></category><category term="Oracle"></category><category term="Sun"></category><category term="support"></category><category term="technology"></category></entry><entry><title>Face, meet Mr. Concrete wall.</title><link href="/face-meet-mr-concrete-wall.html" rel="alternate"></link><updated>2010-06-29T15:36:00+00:00</updated><author><name>feoh</name></author><id>tag:,2010-06-29:face-meet-mr-concrete-wall.html</id><summary type="html">&lt;p&gt;As I mentioned here previously, my last big job search after I got laid
+off from MIT was decidedly Not Fun...&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;I ended up taking a job I would normally never take, because I felt
+utterly backed up against a wall by the economy, increasing competition
+in the tech sector, and the big skeleton rattling around in my closet -
+the lack of a degree.&lt;/p&gt;
+&lt;p&gt;I got turned down by 2 or 3 prospective employers because of this, which
+is something that hasn't happened to me for a very long time.&lt;/p&gt;
+&lt;p&gt;So, when I took said job, I steeled myself for the worst and called my
+old school, Worcester State College.&lt;/p&gt;
+&lt;p&gt;The result was not at all what I was expecting. I &lt;strong&gt;still&lt;/strong&gt; only need
+two courses to get my bachelors degree!&lt;/p&gt;
+&lt;p&gt;I got all the paperwork filled out, jumped through all the necessary
+hoops and found out that I (still) need a science, and a science with a
+lab in order to graduate.&lt;/p&gt;
+&lt;p&gt;That information in hand, I went casting around for a science course I
+could take. Not easy, many of them required calculus, and those that
+didn't hab lab periods smack dab in the middle of my work day.&lt;/p&gt;
+&lt;p&gt;I found one course, Astronomy, that only claimed to require College
+Algebra and was taught Tuesday and Thursday evenings. So, I leapt.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BIG&lt;/strong&gt; mistake.&lt;/p&gt;
+&lt;p&gt;The course started a week and a half ago. Since that time, I have poured
+\~30 hours and a number of sleepless nights into it, and unfortunately I
+have to admit that there is eactly zero chance of my passing this
+course. No amount of effort, lack of sleep, or heroics short of quitting
+my job (Freaking unlikely since I'm INCREDIBLY happy where I am now. I
+escaped from Windows enterprise hell and am working for an amazing
+company, &lt;a href="http://www.bluestatedigital.com/"&gt;Blue State Digital&lt;/a&gt;.) will
+save me.&lt;/p&gt;
+&lt;p&gt;I had been expecting the math to kick my ass, but in the end analyais, I
+could handle that just fine! There wasn't a single bit of algebraic
+manipulation I couldn't get past with a little work and some Google
+thrown in for good measure.&lt;/p&gt;
+&lt;p&gt;It was the formulas! Crazy, INSANE formulas crawling across the page and
+eating my poor addled brain like some kind of scene out of Dawn of the
+Dead.&lt;/p&gt;
+&lt;p&gt;F~ev~ / F~em~ = ( G M~v~ M~e~ / R~ev~^2^ ) / ( G M~m~ M~e~ / R~em~^2^)&lt;/p&gt;
+&lt;p&gt;I have to withdraw from the battlefiend this time - I've lost the
+skirmish, but I am bound and determined to win the war!&lt;/p&gt;
+&lt;p&gt;I'll take some time to recover, take a fresh look at the problem, and
+talk to my academic advisor to see if I can apply some 'life credit' or
+something, or at the very least not bludgeon myself senseless over my
+lack of higher math, so I can finish up the silly degree and get on with
+my life!&lt;/p&gt;</summary><category term="astronomy"></category><category term="career"></category><category term="courses"></category><category term="degree"></category><category term="goals"></category><category term="life"></category><category term="math"></category><category term="science"></category><category term="work"></category></entry><entry><title>Dear Amazon and Penguin - Why Can't You Kids Play Nice?</title><link href="/dear-amazon-and-penguin-why-cant-you-kids-play-nice.html" rel="alternate"></link><updated>2010-04-07T15:01:00+00:00</updated><author><name>cpatti</name></author><id>tag:,2010-04-07:dear-amazon-and-penguin-why-cant-you-kids-play-nice.html</id><summary type="html">&lt;!-- body {margin:8px} .LW-yrriRe {font:normal x-small arial} --&gt;
+
+&lt;p&gt;I received a piece of E-mail from Amazon a few days back apologizing
+about the fact that my pre-order of the latest &lt;a href="www.jimbutcher.com"&gt;Jim
+Butcher&lt;/a&gt; Dresden Files novel had been canceled,
+offering me a really cheap price on the print edition.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;A couple of days and a great deal of "WTF?" later (That's What The
+French, this being a family friendly blog and all :) I trotted on over
+to Jim's website and found an
+&lt;a href="http://www.jim-butcher.com/news/000362.php"&gt;explanation&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Essentially, Amazon and Penguin are bickering over the sale price of the
+book.&lt;/p&gt;
+&lt;p&gt;I would *happily* pay full hard cover list for the Kindle edition of
+the newest Dresden novel.  Jim Butcher is my favorite urban fantasy
+author, and when these books come out I get them the very
+first *instant* I can and then become some sort of literary crack
+fiend, obsessively trying to find excuses to crawl off into a corner and
+page flip.&lt;/p&gt;
+&lt;div&gt;
+
+So I guess I'll run down to Porter Square Books and buy the dead tree
+edition, but this is what I bought my Kindle for!
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+On the up side, I've been feeling guilty about not supporting my local
+independent book seller of late, I guess this is an opportunity to put
+my money where my mouth is and pony up!
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;/div&gt;</summary><category term="amazon"></category><category term="books"></category><category term="dresden files"></category><category term="jim butcher"></category><category term="kindle"></category><category term="pricing"></category><category term="stupid"></category><category term="urban fantasy"></category></entry><entry><title>Windows Scripting - a VBScript Survival Guide</title><link href="/windows-scripting-a-vbscript-survival-guide.html" rel="alternate"></link><updated>2010-03-31T15:18:00+00:00</updated><author><name>cpatti</name></author><id>tag:,2010-03-31:windows-scripting-a-vbscript-survival-guide.html</id><summary type="html">&lt;h2&gt;1. Introduction&lt;/h2&gt;
+&lt;p&gt;If you're new to the world of Windows scripting as I am, the array of
+acronyms, technologies and access methodologies that you need to
+traverse in order to get anything done can range from bewildering on a
+good day to utterly derangement inducing on a bad one.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;I've been doing installer and deployment development at a Windows
+enterprise software company for the last year or so, and after decades
+spent comfortably swaddled in the familiarity of the UNIX and Java
+world, I definitely found myself feeling shell shocked, disoriented, and
+frustrated at the lack of any sort of cohesive resources to aid me in my
+quest.&lt;/p&gt;
+&lt;p&gt;Microsoft has been doing its best to pretend VBScript doesn't exist -
+touting &lt;a href="http://blogs.msdn.com/PowerShell/" title="Windows PowerShell"&gt;Windows
+PowerShell&lt;/a&gt; as
+the way and the light.  PowerShell is indeed an awesome tool, and I for
+one would happily consign VBScript to the briny deeps never to be
+thought of again were it not for one little problem - the vast majority
+of Windows systems running in the wild don't have PowerShell
+installed.   Until a new day dawns and PowerShell is on *every single*
+Windows box our company wants to install its software on, VBScript
+remains the lowest common denominator for system scripting and thus the
+only &lt;strong&gt;real&lt;/strong&gt; game in town for install time scripting.&lt;/p&gt;
+&lt;p&gt;The goal of this article is not to teach you VBScript, sadly, there are
+essentially no books and precious few online resources dedicated to this
+topic online.  I will offer pointers to those that I have found most
+useful, and some collected wisdom on how to best make use of them, as
+well as some pitfalls I encountered which with any luck I can help you
+avoid.&lt;/p&gt;
+&lt;p&gt;That said, let's get started.&lt;/p&gt;
+&lt;h2&gt;2. Learning VBScript&lt;/h2&gt;
+&lt;p&gt;This will mostly be a collection of pointers to resources with a smidgen
+of commentary on each to get you moving in the right direction.&lt;/p&gt;
+&lt;h3&gt;A. Books&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Windows-XP-Annoyances-Geeks-2nd/dp/0596008767/ref=sr_1_1?ie=UTF8&amp;amp;s=books&amp;amp;qid=1270065442&amp;amp;sr=8-1" title="Windows XP Annoyances"&gt;Windows XP
+    Annoyances&lt;/a&gt; -
+    This book should really be titled "Windows For Geeks" :) it is the
+    single most useful book I have ever encountered for someone trying
+    to make the transition from another environment and isn't content to
+    just grit their teeth and groan at all the annoying defaults Windows
+    ships with.  In addition to an incredible amount of depth around the
+    Windows registry and how you can wield it to suit your needs, this
+    book also has one of the best simple introductions to system
+    scripting with VBScript I've seen.  Two thumbs up. Note that this is
+    the 1997 edition, and this book now comes in Windows Vista and
+    Windows 7 flavors which I haven't read, but can only assume are
+    equally awesome.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.visualbasicscript.com/" title="VBScript Forums"&gt;visualbasicscript.com&lt;/a&gt; -
+    This is far and away the single best VBScript resources on the
+    intertubes.  The folks in these forums are experts, and will help
+    you solve your problem virtually every time.  I can't say enough
+    about the incredible community here.  Nine out of ten times, if I go
+    looking somewhere else first I end up coming back here and wishing I
+    hadn't wasted my time elsewhere first :)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://technet.microsoft.com/en-us/scriptcenter/default.aspx" title="The Scripting Guys"&gt;Microsoft Script Center / The Scripting
+    Guys&lt;/a&gt; -
+    The second most useful scripting site on the web.  The Scripts
+    Repository and "Scripting Guys" MSDN blog are an incredible resource
+    for system scripters.  While the emphasis has definitely shifted
+    towards PowerShell these days (and rightfully so) most of the
+    techniques discussed can be leveraged in VBScript once you get cozy
+    with the syntactic differences between the two (very different)
+    languages.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://msdn.microsoft.com/en-us/library/d1et7k7c%28v=VS.85%29.aspx"&gt;MSDN Windows Scripting
+    Technologies&lt;/a&gt; -
+    This page covers things like the Windows Scripting Host, the core
+    technology that actually allows you to perform useful work in
+    VBScript.  While somewhat more complete than the VBScript reference
+    itself, it's no great shakes.  You'll find yourself learning much
+    more from examples published elsewhere, but for the occasional API
+    lookup or clarification it can be useful.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://msdn.microsoft.com/en-us/library/t0aew7h6%28VS.85%29.aspx" title="VBScript Reference"&gt;MSDN VBscript
+    Reference&lt;/a&gt; -
+    You'll note this site's position well down the list.  It's there for
+    a reason.  The documentation provided here is very sketchy and
+    frankly incredibly misleading in places.  The authors seem to have
+    weaseled out of writing a more complete documentation set by making
+    a vacuous assertion along the lines of "Well, it's just like regular
+    Visual Basic, with a few minor differences".  This leaves people
+    like myself who have never had the need to touch a fully fledged VB
+    implementation out in the cold, feeling like second class citizens. 
+    While these pages can be useful for occasional clarification on some
+    obscure language feature, those seeking to understand how the
+    language works in the large should definitely look elsewhere.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://support.microsoft.com/kb/308364"&gt;Windows Script Debugging Microsoft KB
+    Article&lt;/a&gt; - This article will
+    get you started interactively debugging your scripts using Visual
+    Studio.  Don't bother with the Windows Script Debugger, Visual
+    Studio Express is free and much better :)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.w3schools.com/vbscript/default.asp"&gt;W3Schools VBScript
+    Tutorial/Reference&lt;/a&gt; -
+    This page is definitely rather Web-centric, focusing on VBScript in
+    classic ASP programming, however, the core language and some of the
+    techniques are the same.  In many cases this is a better reference
+    than the MSDN one, and the tutorial lets you work through the
+    examples online in a web browser which is cool.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;3. Debugging&lt;/h2&gt;
+&lt;h3&gt;Who turned the lights out?&lt;/h3&gt;
+&lt;p&gt;If you find that some script you've inherited is not working, but you
+get exactly zero output or errors, look for the telltale
+&lt;code&gt;On Error Goto 0&lt;/code&gt; or &lt;code&gt;On Error Resume Next&lt;/code&gt; statements. These basically
+disable VBScript's inherent error handling functionality and cause your
+script to silently ignore errors. Helpful, eh?&lt;/p&gt;
+&lt;h3&gt;Never run while blind folded.&lt;/h3&gt;
+&lt;p&gt;Know how you're invoking your VBScript. If you're calling your script
+from an installer or some such executable, you're likely using
+Microsoft's &lt;code&gt;cscript&lt;/code&gt; tool. which doesn't do a very good job of always
+displaying handy things like syntax or run time errors. Try running your
+script with &lt;code&gt;wscript&lt;/code&gt; instead for debugging purposes. Heretofore
+mysterious behavior may become clear :)&lt;/p&gt;
+&lt;h3&gt;That's all!&lt;/h3&gt;
+&lt;p&gt;Hopefully this post will prove useful to some poor soul, manacled in
+place, suffering through their own personal Windows induced hell. Even
+if it isn't, these tidbits have been rattling around in my head since I
+escaped (I now work for &lt;a href="http://www.bluestatedigital.com" title="Blue State Digital: Design. Strategy. Technology"&gt;Blue State
+Digital&lt;/a&gt;,
+we're a LAMPs shop (Linux, Apache, MySQL, PHP) and I hope to never be
+trapped in Windows enterprise limbo again!&lt;/p&gt;</summary><category term="deployment"></category><category term="Installers"></category><category term="microsoft"></category><category term="powershell"></category><category term="scripting"></category><category term="systems"></category><category term="vbscript"></category><category term="visual basic"></category><category term="Windows"></category></entry><entry><title>Yay and Boo all in one breath: The Amazon Kindle Development Kit (KDK)</title><link href="/yay-and-boo-all-in-one-breath-the-amazon-kindle-development-kit-kdk.html" rel="alternate"></link><updated>2010-02-07T12:13:00+00:00</updated><author><name>feoh</name></author><id>tag:,2010-02-07:yay-and-boo-all-in-one-breath-the-amazon-kindle-development-kit-kdk.html</id><summary type="html">&lt;p&gt;Amazon has finally come out with the details around their Kindle
+Development Kit (KDK) you can read the details
+&lt;a href="https://kindlepublishing.amazon.com/gp/vendor/kindlepubs/kdk/get-content?id=200436000"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;This is absolutely great news for the J2ME development community, this
+is a mainstream device from a big name manufacturer where they can ply
+their existing skill set or port their existing apps.&lt;/p&gt;
+&lt;p&gt;However, I'm a bit disappointed. I realize that the Kindle is meant as a
+light weight device, but I have always found J2ME's I/O model to be
+rather cripplingly baroque in so many ways.&lt;/p&gt;
+&lt;p&gt;Looking over Amazon's APIDoc however, it does seem like they've built
+their own infrastructure atop J2ME, so perhaps they've made it easier
+and more pleasant to code for.&lt;/p&gt;
+&lt;p&gt;I'm torn between wanting to get in on the ground floor and not wanting
+to invest the time and energy in learning a technology (J2ME) which I
+feel has gone way past its expiry date.&lt;/p&gt;
+&lt;p&gt;Anyway, we'll see but I'll definitely be keeping a close eye on this
+one.&lt;/p&gt;</summary><category term="amazon"></category><category term="development"></category><category term="j2me"></category><category term="Java"></category><category term="kindle"></category><category term="programming"></category></entry><entry><title>3 Things Microsoft Should Do for Release Engineers</title><link href="/3-things-microsoft-should-do-for-release-engineers.html" rel="alternate"></link><updated>2010-01-28T13:39:00+00:00</updated><author><name>cpatti</name></author><id>tag:,2010-01-28:3-things-microsoft-should-do-for-release-engineers.html</id><summary type="html">&lt;p&gt;For the last year or so I've been working at a 100% Windows based
+enterprise development shop.   They ship a fairly large and complex
+application for health insurance providers, which draws on many of the
+core technologies in the Microsoft enterprise stable.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;This post highlights a few things that make working in this environment
+a whole lot more onerous than it needs to be in my opinion, so let's get
+started.&lt;/p&gt;
+&lt;h2&gt;1. Installers&lt;/h2&gt;
+&lt;p&gt;The Windows installation landscape has been a bleak one indeed for a
+very long time.  Tools like Installshield with their own proprietary
+languages like InstallScript make installer development unnecessarily
+painful and baroque.  Is there &lt;strong&gt;really&lt;/strong&gt; any reason I should be
+programming in a language with no real data structures to speak of in
+2010?  Even flow of control is handled in a way I can only describe as
+baroque.  There are methods/functions, but the main body of your
+installer's code has to jump around everywhere using goto.  What a mess.&lt;/p&gt;
+&lt;p&gt;There is hope on this front, in the form of
+&lt;a href="http://wix.sourceforge.net/" title="WiX - Windows Installer XML"&gt;WiX&lt;/a&gt;, the
+Windows Installer XML toolkit, which allows developers to iteratively
+build and design their installer along with the regular development
+process.  Right now however the learning curve seems incredibly steep. 
+Perhaps Visual Studio could generate a template WiX project to get
+people started?&lt;/p&gt;
+&lt;p&gt;I'd also love to see some thought given to simplifying the deployment
+model for things like
+&lt;a href="http://msdn.microsoft.com/en-us/library/ms685978%28VS.85%29.aspx" title="COM+"&gt;COM+&lt;/a&gt; -
+which feels to me like a magic black box with myriad buttons and levers,
+all of which are a bear to get right at install time.&lt;/p&gt;
+&lt;h2&gt;2. Builds/SCM&lt;/h2&gt;
+&lt;p&gt;MSBuild needs to have &lt;strong&gt;dramatically&lt;/strong&gt; better documentation, and to a
+lesser extent so does TFS  - they get the broad bits right - everything
+you could want to do through the UI is covered, but process automation
+using scripting / command line tools gets substantially murkier.&lt;/p&gt;
+&lt;p&gt;In the 'credit where credit is due' department, the TFS team has been
+incredibly responsive on their forums, and that's what's helped us get
+by so far, but there's no substitute for first rate docs.&lt;/p&gt;
+&lt;h2&gt;3. Infrastructure Scripting&lt;/h2&gt;
+&lt;p&gt;As of right now, there are a thousand different interfaces to accomplish
+the same thing, and for complex configuration tasks like configuring IIS
+at install time, the possibilities can be dizzying.  I would like to see
+Microsoft choose &lt;strong&gt;one&lt;/strong&gt; mechanism for run-time system/software
+configuration and document the heck out of it.&lt;/p&gt;
+&lt;p&gt;Kudos to the
+&lt;a href="http://blogs.msdn.com/powershell/" title="Windows PowerShell"&gt;PowerShell&lt;/a&gt;
+team and &lt;a href="http://technet.microsoft.com/en-us/scriptcenter/dd901334.aspx" title="The Scripting Guys"&gt;The Scripting
+Guys&lt;/a&gt;
+for making great strides in this area.  PowerShell is a really nice
+environment for all kinds of scripting, and I look forward to the day
+when we can eliminate VBScript from our installers entirely in its
+favor, but we're not there yet sadly.  The object pipeline is one of the
+more powerful concepts in the modern scripting milieu, and I think Apple
+and the UNIX world could take a page from PowerShell's book in this
+regard.&lt;/p&gt;
+&lt;p&gt;Being a release engineer in a Windows world presents some very
+interesting and different challenges for someone coming from a UNIX
+background like myself, and with a little bit of emphasis and effort on
+Microsoft's part, surmounting them could be a whole lot less painful.&lt;/p&gt;</summary><category term="infrastructure"></category><category term="Installers"></category><category term="installshield"></category><category term="microsoft"></category><category term="msbuild"></category><category term="powershell"></category><category term="release"></category><category term="releng"></category><category term="scripting"></category><category term="tfs"></category><category term="Windows"></category></entry><entry><title>Why NOT to vote for Scott Brown for MA Senate</title><link href="/why-not-to-vote-for-scott-brown-for-ma-senate.html" rel="alternate"></link><updated>2010-01-18T12:51:00+00:00</updated><author><name>cpatti</name></author><id>tag:,2010-01-18:why-not-to-vote-for-scott-brown-for-ma-senate.html</id><summary type="html">&lt;div&gt;
+
+Like any civic minded person about to vote in tomorrow's MA senatorial
+election tomorrow, I was browsing the candidates websites so I could
+make an informed choice.
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+I am honestly not the biggest Coakley fan, but given the two choices
+she's a shining star compared to Scott Brown.
+
+&lt;/div&gt;
+
+&lt;p&gt;I have no issue with most of the points he puts forth in the "Issues"
+section of his website, right up until we get to "Marriage" -
+conveninetly located third from the bottom, just above "Israel" and
+"Iran".&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;Marriage&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;I believe marriage is between a man and a woman. States should be free to make their own laws in this area, so long as they reflect the people's will as expressed through them directly, or as expressed through their elected representatives. {style="text-align: left; padding-left: 60px;"}&lt;/p&gt;
+&lt;p&gt;I'm a big fan of state's rights, but let's view this in context - here
+in Massachusetts, same sex marriage is 100% legal.  If Mr. Brown is
+elected, he will strip our state of one of its proudest moments in
+recent memory, plunging us back into the darkness of ignorance,
+discrimination and fear that has held sway since time immemorial.&lt;/p&gt;
+&lt;p&gt;As a heterosexual man who has been blessed by the gift of marriage in my
+life, I can't even begin to express how strongly I feel about this
+issue.  To me, denying our fellow men and women this right because they
+happen to be attracted to people of the same sex is so morally repugnant
+as to be beyond words.&lt;/p&gt;
+&lt;p&gt;Do not allow the army of small mindedness and ignorance to douse the
+light of truth and plunge our fair state into darkness once again.&lt;/p&gt;
+&lt;p&gt;Whether straight, gay, yellow or purple, if you care about the basic
+rights and freedoms that make our nation as great as it is, go vote
+tomorrow, and vote against Scott Brown.&lt;/p&gt;</summary><category term="civil rights"></category><category term="gay rights"></category><category term="marriage"></category><category term="massachusetts"></category><category term="politics"></category><category term="same sex"></category><category term="senate"></category></entry><entry><title>Bananagrams!</title><link href="/bananagrams.html" rel="alternate"></link><updated>2010-01-05T09:54:00+00:00</updated><author><name>cpatti</name></author><id>tag:,2010-01-05:bananagrams.html</id><summary type="html">&lt;p&gt;Michelle and I have been having a lot of fun playing this game lately.
+It's a must play if you're a word game fan of any stripe, and even if
+you don't generally enjoy board games (especially if you find them too
+slow).&lt;/p&gt;
+&lt;p&gt;What makes this one unique is that it all happens in real time. My
+lovely wife is a real shark at this and every other word game we've
+played, but we both end up having a lot more fun with this than most
+others we've tried.&lt;/p&gt;
+&lt;p&gt;Two thumbs up.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.bananagrams-intl.com/index-us.asp"&gt;http://www.bananagrams-intl.com/index-us.asp&lt;/a&gt;&lt;/p&gt;</summary><category term="board"></category><category term="fun"></category><category term="games"></category><category term="word"></category></entry><entry><title>The anti-political correctness backlash</title><link href="/the-anti-political-correctness-backlash.html" rel="alternate"></link><updated>2009-12-18T17:30:00+00:00</updated><author><name>cpatti</name></author><id>tag:,2009-12-18:the-anti-political-correctness-backlash.html</id><summary type="html">&lt;p&gt;Since when did "&lt;strong&gt;Happy Holidays"&lt;/strong&gt;&lt;span&gt; become persona non
+&lt;span&gt;grata&lt;/span&gt;?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I realize that for many people, it is the epitome of bland political
+correctness – however for me, it’s what I &lt;strong&gt;want&lt;/strong&gt; to say!&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;I don’t want to wish you a Merry Christmas, or a happy
+&lt;span&gt;Channukah&lt;/span&gt;, or a blessed Ramadan, because I don’t know if
+you celebrate any of those things. What I&lt;/span&gt;&lt;strong&gt;do&lt;/strong&gt; want to say is
+that I hope you have a happy, enjoyable, peaceful and serene holiday
+with your friends, family, or whoever else it is you enjoy having
+around.&lt;/p&gt;
+&lt;p&gt;So, Happy Holidays!&lt;/p&gt;
+&lt;p&gt;That's all :)&lt;/p&gt;</summary><category term="backlash"></category><category term="correct"></category><category term="cranky"></category><category term="customs"></category><category term="greetings"></category><category term="holidays"></category><category term="politically"></category><category term="social"></category><category term="society"></category></entry><entry><title>Is it just me...</title><link href="/is-it-just-me.html" rel="alternate"></link><updated>2009-11-13T14:18:00+00:00</updated><author><name>cpatti</name></author><id>tag:,2009-11-13:is-it-just-me.html</id><summary type="html">&lt;p&gt;Or has the number of new programming languages been increasing
+exponentially of late?&lt;/p&gt;
+&lt;p&gt;I don't just mean the number of new languages being &lt;strong&gt;invented&lt;/strong&gt;,
+because that's always been the case, but the number which are actually
+garnering a fair bit of tech buzz?&lt;/p&gt;
+&lt;p&gt;In the last few months, I've heard a LOT about Clojure, Scala, Factor,
+and most recently Google's Go.&lt;/p&gt;
+&lt;p&gt;I can't help but wonder if maybe we should stop inventing new
+programming languages and paradigms, and maybe focus on using the ones
+we have already more effectively and creatively.&lt;/p&gt;
+&lt;p&gt;Then again, maybe I'm just getting old :)&lt;/p&gt;</summary><category term="clojure"></category><category term="computers"></category><category term="development"></category><category term="factor"></category><category term="go"></category><category term="invention"></category><category term="languages"></category><category term="programming"></category><category term="scala"></category><category term="technology"></category></entry><entry><title>Aruba - Take 2</title><link href="/aruba-take-2.html" rel="alternate"></link><updated>2009-10-12T12:36:00+00:00</updated><author><name>cpatti</name></author><id>tag:,2009-10-12:aruba-take-2.html</id><summary type="html">&lt;p&gt;Just (well, a week ago, but work was blazing white hot upon my return,
+so no time to write :) got back from a week in Aruba, and my experience
+this time around was &lt;strong&gt;completely&lt;/strong&gt; different...&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;[caption id="attachment_52" align="alignnone" width="225"
+caption="Greetings From Aruba!"]&lt;img alt="Greetings From
+Aruba!" src="http://www.feoh.org/wp-content/uploads/2009/10/photo-225x300.jpg" title="GreetingsFromAruba" /&gt;[/caption]&lt;/p&gt;
+&lt;p&gt;This time, we rented a time share my wife's boss graciously allowed us
+to occupy at well below market rates.&lt;/p&gt;
+&lt;p&gt;It was positively awesome.  We were at the &lt;a href="http://www.playalinda.com/" title="Playa Linda Time Share"&gt;Playa
+Linda&lt;/a&gt; time share,
+sandwiched between some of the better hotels along the beach (We had the
+Westin on one side, and the Hyatt, Radison, Occidental and finally the
+Taj/Ritz on the other.).&lt;/p&gt;
+&lt;p&gt;I had always been rather down on time sharing - who wants to go to the
+same place every year? Well, my eyes have been opened.  We're not about
+to go running to buy one (We still want to visit a bunch more places
+first) but I can now absolutely see settling down someplace that you
+love to come back to every year.&lt;/p&gt;
+&lt;p&gt;The unit we rented was very nice.  You get a separate sleeping area, a
+nice little living room with 2 couches (one fold out in case you have
+guests) and a decent size LCD TV.  The kitchenette is equipped with
+everything you'd need to keep house for a week - pots, pans, dishes,
+silverware, etc.&lt;/p&gt;
+&lt;p&gt;We had amazing weather while we were there, it was in the 90's most of
+the time, but with those trade marked Aruban trade winds, it didn't feel
+opressively hot at all (Though you really have to watch out for the
+tropical sun, it can kick your butt :).&lt;/p&gt;
+&lt;p&gt;The beach where we were sat in between two piers, so there's no terrible
+rip tide threatening to pull you out to sea.  The sand is coral, rather
+than granite based like the beaches in NH around here, so it's silky
+smooth.&lt;/p&gt;
+&lt;p&gt;We spent our days going from pool to beach, seeing the sights on the
+island and having dinner either with our hosts (who graciously cooked
+two amazing meals for us while we were there) or taking advantage of
+some of the excellent restaurants on the island like &lt;a href="http://www.madamejanette.info/" title="Madame Jeanette's"&gt;Madame
+Jeanette's&lt;/a&gt; - it's a
+uniquely Caribbean restaurant in that the seating is largely outdoors. 
+If you visit the island, that's definitely one not to miss.&lt;/p&gt;
+&lt;p&gt;I wish I'd taken a camera other than my iPhone along with us (I kept it
+in the room most of the time for fear it would melt :) there was
+wildlife everythere.  Sand Pipers, Turns, and Iguanas were all sharing
+the pool and beach with us, which my wife and I enjoyed immensely (Some
+other guests not so much, people get freaked out by lizards for some
+reaosn :)&lt;/p&gt;
+&lt;p&gt;Anyway, it was a week of utter fun and relaxation in the sun, and we'll
+definitely be back.&lt;/p&gt;</summary><category term="aruba"></category><category term="beach"></category><category term="travel"></category><category term="tropical"></category><category term="vacation"></category></entry><entry><title>Twitter is not Facebook, let's keep it that way.</title><link href="/twitter-is-not-facebook-lets-keep-it-that-way.html" rel="alternate"></link><updated>2009-06-18T11:38:00+00:00</updated><author><name>feoh</name></author><id>tag:,2009-06-18:twitter-is-not-facebook-lets-keep-it-that-way.html</id><summary type="html">&lt;p&gt;I've been enjoying Twitter for quite a while now.&lt;/p&gt;
+&lt;p&gt;Despite all the blather out there about it being a self indulgent waste
+of time, I think it's become pretty clear to anyone open minded enough
+to actually wake up and smell the coffee that it's a communications
+medium like any other, but one that lends itself to the dynamic, fast
+paced nature of the modern world we live in. I personally find Twitter
+useful on a number of levels, but first and foremost as a tool for the
+dispersal of technical information to interested parties.&lt;/p&gt;
+&lt;p&gt;For instance I follow Guillaume Laforge, one of the designers of the
+&lt;a href="http://groovy.codehaus.org/" title="The Groovy Programming Language"&gt;Groovy&lt;/a&gt;
+programming language to see what's up with new releases of his software,
+what he's up to, etc. I'm also following a number of members of the
+&lt;a href="http://blogs.msdn.com/powershell/" title="Windows PowerShell"&gt;Windows
+PowerShell&lt;/a&gt;
+development team at Microsoft to get the inside scoop on that awesome
+tool.&lt;/p&gt;
+&lt;p&gt;I also follow Amanda Palmer, lead vocalist for The Dresden Dolls,
+several authors, and a smattering of friends who've also been turned on
+to Twitter, as well as some feeds around hobbies and interests of mine -
+the &lt;a href="http://blog.paintermagazine.co.uk/" title="Corel Painter"&gt;Corel Painter&lt;/a&gt;
+community has an incredibly vibrant Twitter presence.&lt;/p&gt;
+&lt;p&gt;My point here is that Twitter may have originally been about what people
+are eating for lunch today, or that the train is late in coming and
+they're stuck next to a guy who smells on the platform, but like most
+things it has evolved and become something much more than the designers
+originally intended.&lt;/p&gt;
+&lt;p&gt;There is this rather useful convention in the Twitter world called &lt;a href="http://tagdef.com/" title="hash tag definitions"&gt;hash
+tags&lt;/a&gt; - things like
+#powershell or #groovy or #redsox - these let people with particular
+interests 'tune in' on related tweets whether or not they're already
+following a person.&lt;/p&gt;
+&lt;p&gt;In the last week however I've begun to see a trend I really do not like.
+Tags like &lt;a href="http://playspymaster.com/" title="Spymaster"&gt;#spymaster&lt;/a&gt; are being
+used by people playing games that use Twitter and your followers as the
+medium.&lt;/p&gt;
+&lt;p&gt;This clutters up my Twitter feed, but more to the point, makes Twitter
+much less usable and interesting for those who don't have and/or don't
+want to &lt;strong&gt;need&lt;/strong&gt; fancy clients that can filter out certain tags so they
+won't be bothered by them.&lt;/p&gt;
+&lt;p&gt;I like &lt;a href="http://www.facebook.com/"&gt;Facebook&lt;/a&gt;, it's been a fantastic way
+for me to get back in touch with a bunch of people I am really psyched
+to be in contact with again, but as anyone with a lot of Facebook
+friends and not a lot of time knows, the silly games and apps can get
+quite chatty and &lt;strong&gt;really&lt;/strong&gt; annoying awfully quick.&lt;/p&gt;
+&lt;p&gt;I'm not saying anyone's doing anything wrong here - some of the apps are
+fun and a couple are even useful or enlightening, but when you log in
+and see 120 Little Green Plant requests, 50 Snowball requests, 40 Mixed
+Drink requests, and 300 'Other' requests, it gets real old, real fast :)&lt;/p&gt;
+&lt;p&gt;So that's my take on the matter. Let's keep Twitter as much signal as we
+can, lest the noise overtake us and leave us drowning in its wake.&lt;/p&gt;
+&lt;!-- Tag links generated by Zoundry Raven. Do not manually edit. http://www.zoundryraven.com --&gt;
+
+&lt;p&gt;&lt;span class="ztags"&gt;&lt;span class="ztagspace"&gt;Technorati&lt;/span&gt; :
+&lt;a href="http://www.technorati.com/tag/communication"&gt;communication&lt;/a&gt;,
+&lt;a href="http://www.technorati.com/tag/customs"&gt;customs&lt;/a&gt;,
+&lt;a href="http://www.technorati.com/tag/facebook"&gt;facebook&lt;/a&gt;,
+&lt;a href="http://www.technorati.com/tag/friends"&gt;friends&lt;/a&gt;,
+&lt;a href="http://www.technorati.com/tag/games"&gt;games&lt;/a&gt;,
+&lt;a href="http://www.technorati.com/tag/morees"&gt;morees&lt;/a&gt;,
+&lt;a href="http://www.technorati.com/tag/social-networking"&gt;social-networking&lt;/a&gt;,
+&lt;a href="http://www.technorati.com/tag/twitter"&gt;twitter&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class="ztags"&gt;&lt;span class="ztagspace"&gt;Del.icio.us&lt;/span&gt; :
+&lt;a href="http://del.icio.us/tag/communication"&gt;communication&lt;/a&gt;,
+&lt;a href="http://del.icio.us/tag/customs"&gt;customs&lt;/a&gt;,
+&lt;a href="http://del.icio.us/tag/facebook"&gt;facebook&lt;/a&gt;,
+&lt;a href="http://del.icio.us/tag/friends"&gt;friends&lt;/a&gt;,
+&lt;a href="http://del.icio.us/tag/games"&gt;games&lt;/a&gt;,
+&lt;a href="http://del.icio.us/tag/morees"&gt;morees&lt;/a&gt;,
+&lt;a href="http://del.icio.us/tag/social-networking"&gt;social-networking&lt;/a&gt;,
+&lt;a href="http://del.icio.us/tag/twitter"&gt;twitter&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</summary><category term="communication"></category><category term="customs"></category><category term="facebook"></category><category term="friends"></category><category term="games"></category><category term="morees"></category><category term="social-networking"></category><category term="twitter"></category></entry><entry><title>So, I landed in China Town!</title><link href="/so-i-landed-in-china-town.html" rel="alternate"></link><updated>2009-06-12T19:15:00+00:00</updated><author><name>feoh</name></author><id>tag:,2009-06-12:so-i-landed-in-china-town.html</id><summary type="html">&lt;p&gt;It has been forever and a day since I posted here. I apologize for the
+fade, my 4 or 5 readers must be thinking I'd joined the silent masses of
+bloggers who can't overcome the inertia and fail to post ever again...&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;img alt="Chinatown Gate
+Small" src="http://www.feoh.org/wp-content/uploads/2009/06/chinatown-gate-small.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;As I described in my last post, January was not the best of months for
+me, and neither was February for that matter. After the layoff, I
+launched into the job search with zeal and quickly remembered (It's like
+riding the bike :) the familiar rhythms of the horse and pony show that
+is any job search.&lt;/p&gt;
+&lt;p&gt;There was definitely work to be had out there, but much of it was well
+outside the city, only barely accessible via a bus line that dropped me
+into the middle of a &lt;strong&gt;very&lt;/strong&gt; pedestrian unfriendly industrial park.
+Eek. I interviewed a lot, and even had a close call at MIT but in the
+end analysis they had further cuts and couldn't hire for the job for
+another month or so which put me out of the running - I have a hungry
+mortgage to feed after all :)&lt;/p&gt;
+&lt;p&gt;In the end, a recruiter from a company I'd never heard of before - &lt;a href="http://www.trizetto.com/" title="The Trizetto Group"&gt;The
+Trizetto Group&lt;/a&gt; called
+and said they were very interested.&lt;/p&gt;
+&lt;p&gt;They're a Windows shop, which initially made me shy away from the idea,
+but they do a LOT of Perl for their core process automation stuff which
+I'm reasonably fluent in, and it would be an opportunity for a total
+technology reboot - not something one gets a lot of chances to do in
+one's career. So I interviewed there a couple of times and it worked
+out.&lt;/p&gt;
+&lt;p&gt;In a lot of ways, it's been really great. They're right across from the
+Chinatown gate in the picture above, so I can just hop on the bus
+outside my door for a short ride to Sullivan Station T, then another
+reasonably short subway ride to the Chinatown stop on the Orange Line.
+I've been enjoying the chance to explore Chinatown more fully. Where
+else can you stop off at the market next door before work and grab a can
+of white fungus drink, or some dried cuttlefish snack? (Why you would
+&lt;strong&gt;want&lt;/strong&gt; to is a different matter altogether, though I do enjoy the
+cuttlefish :)&lt;/p&gt;
+&lt;p&gt;The work has been exciting and challenging as well. I was really,
+&lt;strong&gt;REALLY&lt;/strong&gt; out of touch with the modern Windows environment. My last
+real experience working in depth with it was back in the Windows NT 4.0
+and Windows 98 era and it has come a long, &lt;strong&gt;LONG&lt;/strong&gt; way since then.&lt;/p&gt;
+&lt;p&gt;The hours have been long at times (I joined toward the end of a release
+cycle and it's a major crunch) but I've been learning a &lt;strong&gt;ton&lt;/strong&gt; about
+Installshield, .Net, ASP.Net, Powershell, the registry, and in general
+the vagaries of working in the Windows environment.&lt;/p&gt;
+&lt;p&gt;I'm not suggesting that everyone should ditch the comfort of their Linux
+or Mac environments. Heck, if I had my druthers I'd be hacking on one of
+those for a living.&lt;/p&gt;
+&lt;p&gt;In my opinion, many geeks (and I was very much guilty of this) have
+institutionalized the hatred of all things Microsoft, and in so doing
+have had their heads in the sand for so long that they've failed to
+notice a truly powerful environment evolving out of the muck.&lt;/p&gt;
+&lt;p&gt;I'll get off my soapbox now. I guess that's about it - life is generally
+pretty good. There are times when I wish I could be spending time with
+my lovely wife or my friends, but I'd rather deal with that than the
+alternative!&lt;/p&gt;
+&lt;p&gt;Hopefully I'll have something of substance to say again soon. Stay
+tuned!&lt;/p&gt;</summary><category term="boston"></category><category term="Chinatown"></category><category term="downtown"></category><category term="job"></category><category term="life"></category><category term="work"></category></entry><entry><title>A Short, Sharp Shock</title><link href="/a-short-sharp-shock.html" rel="alternate"></link><updated>2009-02-19T04:20:00+00:00</updated><author><name>feoh</name></author><id>tag:,2009-02-19:a-short-sharp-shock.html</id><summary type="html">&lt;p&gt;One morning a few weeks back I was told to get in early to meet about an
+upcoming release that was happening...&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;Unfortunately, we were in for a big surprise.&lt;/p&gt;
+&lt;p&gt;Three of my co-workers and I were laid off that morning, along with 23
+other unlucky souls from different parts of the lab.&lt;/p&gt;
+&lt;p&gt;In some sense I can understand the necessity for this kind of overt
+deception - there are certainly a non trivial number of people who would
+not react well to "Hey, be sure to be in by X time, because we're doing
+lay offs and we don't want your tardiness to clog up the gears!", but I
+can't help but feel there has to be a better way.&lt;/p&gt;
+&lt;p&gt;For some reason this one was a bit harder than most for me to accept,
+because I loved working at the Broad and had no desire to leave. I don't
+harbor any ill will against anyone over it - everyone was just doing
+their jobs, and in truth save for my misgivings about leading lambs to
+the slaughter like that, I think everyone handled the whole process with
+a great deal of professionalism, which is all anyone can ask.&lt;/p&gt;
+&lt;p&gt;I had the pleasure of working with a bunch of incredibly bright,
+talented, friendly people for 4 years. In high tech that's a pretty good
+run actually!&lt;/p&gt;
+&lt;p&gt;So, I'm doing the job search thing again. I chose to eschew the job
+placement seminars and such they'd set up for us - I know how to polish
+my resume and how to interview, and to my mind that 2 or three days was
+much better spent trying to find a soft place for myself to land while
+the incredible shrinking job market vaporized before my eyes.&lt;/p&gt;
+&lt;p&gt;I've been very lucky, things are actually going very well thus far -
+I've had 2 first round interviews and one 2nd round, with another set
+for today, and two more first round interviews set for tomorrow.&lt;/p&gt;
+&lt;p&gt;So, we'll see where all of this leads me.&lt;/p&gt;
+&lt;p&gt;I can't say enough about how amazing my wife has been through all of
+this - I'm a very lucky guy indeed :)&lt;/p&gt;</summary><category term="Broad"></category><category term="career"></category><category term="job"></category><category term="layoff"></category><category term="MIT"></category><category term="search"></category></entry><entry><title>FEAR THE IMPENDING SNOW-POCALYPSE!</title><link href="/fear-the-impending-snow-pocalypse.html" rel="alternate"></link><updated>2008-12-19T11:16:00+00:00</updated><author><name>feoh</name></author><id>tag:,2008-12-19:fear-the-impending-snow-pocalypse.html</id><summary type="html">&lt;p&gt;I am being amused watching people run around panicking over the coming
+snow.&lt;/p&gt;
+&lt;p&gt;THIS IS NEW ENGLAND PEOPLE. IT SNOWS HERE! GET USED TO IT!&lt;/p&gt;
+&lt;p&gt;Actually, I'm looking forward to this storm. Unlike the freezing rain
+and ice issues we've had of late, you can actually frolic and play in
+the white fluffy stuff and not get yourself killed :)&lt;/p&gt;</summary><category term="new england"></category><category term="snow"></category><category term="weather"></category><category term="winter"></category></entry><entry><title>Rock Band 2 Special Edition Box - Awesome :)</title><link href="/rock-band-2-special-edition-box-awesome.html" rel="alternate"></link><updated>2008-11-02T21:15:00+00:00</updated><author><name>feoh</name></author><id>tag:,2008-11-02:rock-band-2-special-edition-box-awesome.html</id><summary type="html">&lt;p&gt;My wife was kind enough to indulge my penchant for video games this
+evening by helping me unpack and set up the Rock Band 2 Special Edition
+box.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;It's quite a production! Lots of parts and a bit of part a slot b
+assembly, but the totally picture based instructions were clear and the
+instruments were &lt;strong&gt;very&lt;/strong&gt; well constructed. Each part that needed to be
+inserted into another gave a satisfying click when it was seated
+properly, and everything had a very rugged feel - no chintzy plastic
+pieces or flimsy parts.&lt;/p&gt;
+&lt;p&gt;The tutorials are excellent and get the player up to speed with his/her
+instrument very quickly.&lt;/p&gt;
+&lt;p&gt;I quickly settled into playing the bass track with the guitar - there
+were many fewer notes so the songs were much easier to handle.&lt;/p&gt;
+&lt;p&gt;My wife tried the drum set, and looking at her track as we played the
+songs I was struck by how much harder her end of things was. She also
+mentioned a couple of times how sensitive the drums were to being hit
+exactly on center.&lt;/p&gt;
+&lt;p&gt;So next time I'll try the drums and she'll give the bass guitar a shot
+:)&lt;/p&gt;
+&lt;p&gt;Anyway, I am very very impressed. As a fan of Harmoinix from way back (I
+own Frequency for the PS2) it's a lot of fun to watch them evolve the
+genre.&lt;/p&gt;
+&lt;p&gt;Looking forward to having some time to practice some more, and maybe try
+out the microphone!&lt;/p&gt;</summary><category term="bass"></category><category term="drums"></category><category term="gaming"></category><category term="guitar"></category><category term="rock band"></category><category term="songs"></category><category term="video games"></category></entry><entry><title>Conflicted about MA state Question 3: Banning dog racing</title><link href="/conflicted-about-ma-state-question-3-banning-dog-racing.html" rel="alternate"></link><updated>2008-10-24T13:08:00+00:00</updated><author><name>feoh</name></author><id>tag:,2008-10-24:conflicted-about-ma-state-question-3-banning-dog-racing.html</id><summary type="html">&lt;p&gt;As others have pointed out, both sides on this issue are jumping up and
+down shrilly screaming the facts as they claim to see them at the top of
+their lungs...&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;But real, verifiable facts are mightily hard to come by. I'm personally
+rather conflicted on this one.&lt;/p&gt;
+&lt;p&gt;Both my wife and I are serious dog people. She can spot a puppy at 500
+yards in a bustling crowd.&lt;/p&gt;
+&lt;p&gt;She is getting all sorts of messages from the MSPCA and their ilk
+claiming that the dogs are being horribly abused and that it must stop
+RIGHT NOW.&lt;/p&gt;
+&lt;p&gt;The Vote No on 3 contingent is mostly coming off sounding combative and
+shrill as well. Their Boston Globe piece reminded me of conservative
+talk radio - it might as well have been written by Rush Limbaugh.&lt;/p&gt;
+&lt;p&gt;The folks over at &lt;a href="http://protectdogsandjobs.org/" title="Vote NO on Massachusetts Question 3 - Protect Dogs and Our Jobs - Home"&gt;Protect Dogs and
+Jobs&lt;/a&gt;
+are citing the loss of 1,000 jobs and \$4 million in state revenue if
+the ban passes, and claiming that the incidence of dog injury in the
+sport is incredibly small (1 injury for every 1000 dogs racing -
+something like .1%) and compare that to the injury stat for Girls
+Volleyball which is at 1.47%. the only thing I keep hearing from these
+folks about the abuse allegations is "Owners have every incentive to
+treat their dogs well, so they'll race well" - but I'm not sure how well
+that theory holds water.&lt;/p&gt;
+&lt;p&gt;So who is right? Are the dogs actually being abused, or is this people
+getting carried away with themselves on principle and ignoring the
+actual facts of the matter?&lt;/p&gt;
+&lt;p&gt;As a voter, it's a tough call. I have my mind pretty well made up on the
+other two (No and yes respectively) but I'm very much on the fence with
+this one.&lt;/p&gt;
+&lt;p&gt;Does anyone have any opinions on this? Or better yet any actual
+experience with the way the dogs are treated?&lt;/p&gt;
+&lt;p&gt;[ Edit: November 3rd, tomorrow is E day :) My wife and I plan to hit the
+polls early. I am no longer conflicted about this question, due to some
+excellent responses I got on my LiveJournal and some tertiary research I
+did as a result, I am now solidly in favor of the ban. I'm concerned
+that dogs which participate in racing are adversely effected by this,
+and their personalities are permanently damaged as a result. ]&lt;/p&gt;</summary><category term="3"></category><category term="ballot"></category><category term="ban"></category><category term="dogs"></category><category term="greyhound"></category><category term="politics"></category><category term="questions"></category><category term="racing"></category></entry><entry><title>INSUFFERABLE CUTENESS!</title><link href="/insufferable-cuteness.html" rel="alternate"></link><updated>2008-10-04T16:48:00+00:00</updated><author><name>feoh</name></author><id>tag:,2008-10-04:insufferable-cuteness.html</id><summary type="html">&lt;p&gt;[ Note: Adorable Golden retriever picture behind the cut. ]&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;We are dog sitting for one of my wife's co-workers this weekend. He's a
+big lovable Golden named Buddy, and I am totally smitten :)&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Buddy
+Visit" src="http://www.feoh.org/wp-content/uploads/2008/10/buddy-visit.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;As anyone who knows me can attest, I was owned by a Golden for years
+back in my pre college days, and I've been wanting another one ever
+since.&lt;/p&gt;
+&lt;p&gt;Happily, my wife is also an easy mark for such a big adorable fluff
+ball, so I might have a shot at it :)&lt;/p&gt;
+&lt;p&gt;Time to go take our after dinner walk.&lt;/p&gt;</summary><category term="adorable"></category><category term="buddy"></category><category term="cute"></category><category term="dog"></category><category term="fuzzy"></category><category term="golden"></category><category term="golden retriever"></category><category term="puppy"></category></entry><entry><title>Something for nothing when you don't *WANT IT* is still damn annoying.</title><link href="/something-for-nothing-when-you-dont-want-it-is-still-damn-annoying.html" rel="alternate"></link><updated>2008-10-02T11:02:00+00:00</updated><author><name>feoh</name></author><id>tag:,2008-10-02:something-for-nothing-when-you-dont-want-it-is-still-damn-annoying.html</id><summary type="html">&lt;p&gt;Dear Sun;&lt;/p&gt;
+&lt;p&gt;When you tell me I hava Java (TM) updates available on my work Windows
+machine, I gleefully say sure why not and click through the installer,
+because generally Sun provided updates to my installed JDK don't do
+anything evil, and with security and all it's a good idea to stay up to
+date.&lt;/p&gt;
+&lt;p&gt;HOWEVER - trying to shoehorn OpenOffice into the mix is downright
+annoying, and I resent it.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;I don't have anything at all against OpenOffice. In fact, it's a Class
+A piece of open source software and is damn impressive for what it is,
+what it does, and how much it costs (\$0).&lt;/p&gt;
+&lt;p&gt;However, I and many other users have exactly zero use for OpenOffice
+because we have the arguably more powerful Microsoft Office suite
+already installed on our machines.&lt;/p&gt;
+&lt;p&gt;I take no issue with having a little checkbox that says "Hey, want to
+get OpenOffice along with Java?" because at least I can check that off
+if I want, or not. But having your Java update installer constantly
+display ads for OpenOffice, and having it give me &lt;strong&gt;no choice&lt;/strong&gt; in the
+matter as to whether or not I want the ferschlugging OpenOffice
+installer is just wrong.&lt;/p&gt;
+&lt;p&gt;The software sells itself, Sun, there's no reason to try to sneak it
+under the radar of unsuspecting users just because you want to be able
+to claim more seats. Last time you tried this with Netbeans, and look at
+how well that turned out!&lt;/p&gt;
+&lt;p&gt;So, get a clue people, really. Truth in advertising, let me do what I
+mean and don't try to install software that I need whether I realize it
+or not, it just pisses me off.&lt;/p&gt;
+&lt;p&gt;Grumph, enough ranting for now :)&lt;/p&gt;</summary><category term="annoyances"></category><category term="free"></category><category term="Installers"></category><category term="Java"></category><category term="OpenOffice"></category><category term="software"></category><category term="Sun"></category><category term="Windows"></category></entry><entry><title>Quite a whirlwind couple of weeks.</title><link href="/quite-a-whirlwind-couple-of-weeks.html" rel="alternate"></link><updated>2008-09-29T13:03:00+00:00</updated><author><name>feoh</name></author><id>tag:,2008-09-29:quite-a-whirlwind-couple-of-weeks.html</id><summary type="html">&lt;p&gt;I guess the big news in my life of late is that I turned 40 last week!&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;My wife and friends put on a really incredible party. They went over
+the top decorating our house - it was beautiful. Everyone who came
+seemed to have a wonderful time, and I enjoyed myself tremendously.&lt;/p&gt;
+&lt;p&gt;Party aside though, it's interesting how (for me anyway, other people
+differ I'm sure) birthdays that end in zero inevitably engender a kind
+of check pointing. An opportunity to step back, try to take an objective
+look at things, and say to ones self "Am I where I want to be, and if
+not, how can I get there?".&lt;/p&gt;
+&lt;p&gt;There are definitely a bunch of personal challenges I intend to take on
+over the next decade (Around things like self discipline and career
+direction) but on the whole I am exactly where I wanted to be.&lt;/p&gt;
+&lt;p&gt;It amazes me that &lt;strong&gt;10 years&lt;/strong&gt; have flown by since I turned 30.&lt;/p&gt;
+&lt;p&gt;Thinking back, I was much less happy and well adjusted at that point,
+and there were many things in my life I wanted and needed to change.&lt;/p&gt;
+&lt;p&gt;I was beginning to see foreshadows of certain decisions I had made and
+paths I was treading down, but didn't have enough confidence in my own
+instincts and intuition to take evasive action before it was too late.&lt;/p&gt;
+&lt;p&gt;It took a few years for things to spiral down to (for me) rock bottom
+and then, once I made the tough changes that needed making, another
+couple of years to enjoy the healthy bachelor life and truly recover,
+but by thirty seven / thirty eight I had met my wife, and things have
+gotten steadily (and dramatically!) better since then.&lt;/p&gt;
+&lt;p&gt;So as I look back across the last decade, I can't help but be reminded
+of how lucky I am. I have enjoyed the support of friends and
+acquaintances near and far. Each of them has contributed in some
+meaningful way to who I am today, Thanks, everybody! It's been quite a
+trip.&lt;/p&gt;
+&lt;p&gt;On to the next decade!&lt;/p&gt;</summary><category term="40"></category><category term="age"></category><category term="birthday"></category><category term="friends"></category><category term="growth"></category><category term="life"></category><category term="thoughts"></category><category term="time"></category></entry><entry><title>DEAD is dead!</title><link href="/dead-is-dead.html" rel="alternate"></link><updated>2008-08-18T05:47:00+00:00</updated><author><name>feoh</name></author><id>tag:,2008-08-18:dead-is-dead.html</id><summary type="html">&lt;p&gt;I had a rather 'meta' moment today after reading another article
+bemoaning the death of the PC as a gaming platform (An assertion of at
+best dubious nature).&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;Taking a step back, I realized that just about every single instance of
+someone wailing "X is DEAD!" turned out to either be patently untrue or
+at least a severely twisted view of the facts at hand.&lt;/p&gt;
+&lt;p&gt;"The desktop is dead. The web *IS* the platform!"&lt;br /&gt;
+"PC gaming is dead. Next gen consoles rule supreme!"&lt;br /&gt;
+"Disco is dead!"&lt;br /&gt;
+"God is dead!"&lt;br /&gt;
+"Paul is (a) dead(man)!"&lt;br /&gt;
+"Table top role playing is dead!"&lt;/p&gt;
+&lt;p&gt;You get the idea. Clearly, we need to re-examine our conceptions around
+exactly what it means for something to be dead.&lt;/p&gt;
+&lt;p&gt;"This blog is DEAD!"&lt;/p&gt;
+&lt;p&gt;Ahem. Maybe not :)&lt;/p&gt;</summary><category term="articles"></category><category term="behavior"></category><category term="blogs"></category><category term="gaming"></category><category term="meta"></category><category term="pc"></category></entry><entry><title>Yeah yeah, so I know it's the oldest past time outside of prostitution but...</title><link href="/yeah-yeah-so-i-know-its-the-oldest-past-time-outside-of-prostitution-but.html" rel="alternate"></link><updated>2008-08-08T00:51:00+00:00</updated><author><name>feoh</name></author><id>tag:,2008-08-08:yeah-yeah-so-i-know-its-the-oldest-past-time-outside-of-prostitution-but.html</id><summary type="html">&lt;p&gt;I've just &lt;strong&gt;gotta&lt;/strong&gt; say that the &lt;em&gt;constant&lt;/em&gt; thunder, lightning, and
+torrential rain storms can stop any time now.  Really, we are in zero
+danger of droubt, and the summer is trickling away.&lt;/p&gt;
+&lt;p&gt;I go on vacation starting tomorrow evening, so I will be praying to any
+deity I think will listen for a break in this weather and a return to
+the sunny summer currently (not!) in progress :)&lt;/p&gt;
+&lt;p&gt;I know, like you all are just thrilled to be listening to me kvetch. 
+I'll stop now.&lt;/p&gt;
+&lt;p&gt;(Yay, impending vacation - no matter what the weather it will be fun!)&lt;/p&gt;</summary><category term="complaints"></category><category term="lightning"></category><category term="rain"></category><category term="thunder"></category><category term="vacation"></category><category term="weather"></category></entry><entry><title>The Xbox 360 has landed!</title><link href="/the-xbox-360-has-landed.html" rel="alternate"></link><updated>2008-08-04T15:13:00+00:00</updated><author><name>feoh</name></author><id>tag:,2008-08-04:the-xbox-360-has-landed.html</id><summary type="html">&lt;p&gt;I have suffered as much pain and heaped as much hatred in Redmond's
+general direction as the next battle hardened veteran geek, but man,
+this console is home entertainment done right.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;Out of box hook up couldn't possibly be any easier. Plug the power
+brick into the wall and the Xbox360, plug the HDMI cable into your TV,
+plug the ethernet cable into your network and away you go. It's that
+simple.&lt;/p&gt;
+&lt;p&gt;Network setup was beyond trivial - the unit set itself up properly
+despite my somewhat complex home network configuration (I have a Linksys
+and a Buffalo wifi router both running WDS, one doing NAT duties for the
+house) and was talking to Xbox Live and downloading updates immediately.&lt;/p&gt;
+&lt;p&gt;I bought the Elite model, with the 120GB HD, so it comes with 'auto
+download' turned on. I rather like this (Some would find it annoying I'm
+sure) as it means that my console is pre-seeded with all the latest
+demos so I can play all the hot new games to get an idea of what they're
+like before buying.&lt;/p&gt;
+&lt;p&gt;And wow, the picture quality with this thing and a nice HD set is
+impressive. I'm finding that video from the XB360 looks much better than
+HD video from cable (I'm guessing this is a result of the compression I
+keep hearing that cable companies like Comcast use.). I only have
+Bioshock and Mass Effect thus far, and that they look amazing probably
+goes without saying given the hype around them before and after their
+release.&lt;/p&gt;
+&lt;p&gt;Another aspect of the XB360 experience I'm rather fond of are 'zones' -
+your choices are Recreational, Family, Pro, and Underground. This means
+that folks like me who are exceedingly unlikely to spend 22 hours
+straight playing Halo to hone their attack skills aren't pitted against
+people who haven't seen the sun in the last few years.&lt;/p&gt;
+&lt;p&gt;I was also surprised to see the depth and breadth of decidedly casual
+games in the 'arcade' section, for people who eschew shooters and the
+'temple of twitch' style of gaming.  Old board gaming standards like
+Settlers of Catan, Carcassonne, and Lost Cities are notable in their
+presence, as well as a bunch of arcade classics I was pleased to see
+being introduced to new generations of gamers (Like Gauntlet and Joust. 
+Blue Valkyrie needs food badly! :)&lt;/p&gt;
+&lt;p&gt;Anyway, my gamer tag is 'forthewyn' in case anyone else out there has an
+Xbox and cares to add me to their friend list.&lt;/p&gt;</summary><category term="fun"></category><category term="games"></category><category term="internet"></category><category term="media"></category><category term="tv"></category><category term="video games"></category><category term="xbox"></category><category term="xbox360"></category></entry><entry><title>With all this rain we've been getting...</title><link href="/with-all-this-rain-weve-been-getting.html" rel="alternate"></link><updated>2008-07-23T20:48:00+00:00</updated><author><name>feoh</name></author><id>tag:,2008-07-23:with-all-this-rain-weve-been-getting.html</id><summary type="html">&lt;p&gt;Staring out the window just now at the torrential rains, I had a very
+vivid memory of a really pleasant day many years ago...&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;I was in High School I think, and a friend of mine (He was my 'Big
+Brother' actually, a program I was in for kids whose fathers weren't
+around so we&lt;br /&gt;
+could get some sense of what it's like to be a man - I think it only
+partially worked :) ) and I were canoeing around &lt;a href="http://maps.google.com/maps?ie=UTF-8&amp;amp;oe=utf-8&amp;amp;client=firefox-a&amp;amp;q=Lake+Dennison,&amp;amp;near=Templeton,+MA&amp;amp;fb=1&amp;amp;view=text&amp;amp;latlng=9446610972854578859&amp;amp;dtab=0&amp;amp;ei=BLGISJHMJomKjAHY9bWhBw&amp;amp;oi=&amp;amp;sa=X#" title="Google Maps"&gt;Lake
+Dennison&lt;/a&gt;
+in Templeton, MA.&lt;/p&gt;
+&lt;p&gt;There had been a lot of rain that year too, a LOT of rain, and the
+lake's water level was threatening to swell over the top and flood the
+beach entirely.&lt;br /&gt;
+This made for some beautiful canoeing, since it allowed us to row down
+a series of inlets which would normally have been almost totally
+inaccessible&lt;br /&gt;
+by foot because of the dense brush. It was just gorgeous out there, the
+air smelled incredibly lush and green, and there were flowers and small
+wild&lt;br /&gt;
+life all around - we managed to get within perfect viewing distance of
+a doe and her fawn before they pranced away, and we're pretty sure we
+disturbed&lt;br /&gt;
+the work of a beaver or two that wasn't at all used to the intrusion.&lt;/p&gt;
+&lt;p&gt;It's funny how when you get older (and I don't even mean ancient either,
+just middle aged) memories can take on not just the rosy glow of years
+long&lt;br /&gt;
+past but a strange intensity all their own.&lt;/p&gt;
+&lt;p&gt;I stink at canoeing, but I do hope I can go out rowing even on a row
+boat or something again someday. I miss those quiet moments on the lake
+:)&lt;/p&gt;</summary><category term="boating"></category><category term="lakes"></category><category term="memories"></category><category term="outdoors"></category></entry><entry><title>Breaking the silence - Ireland.</title><link href="/breaking-the-silence-ireland.html" rel="alternate"></link><updated>2008-07-23T11:31:00+00:00</updated><author><name>feoh</name></author><id>tag:,2008-07-23:breaking-the-silence-ireland.html</id><summary type="html">&lt;p&gt;Over a month ago now, my wife and I went on vacation with her boss and
+friend and another friend of hers to Ireland...&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;We took the CIE 'A Taste of Ireland" bus tour, and had an amazing time.
+This was my first trip to Europe, and unsurprisingly, I found it
+amazing.&lt;/p&gt;
+&lt;p&gt;Ireland is definitely a party country, if there could be said to be such
+a thing :) It seemed like there were Guinness taps everywhere. Being&lt;br /&gt;
+rather a fan, this could hardly be considered a problem for me :)&lt;/p&gt;
+&lt;p&gt;Speaking of Guinness, on our first day we visited the Guinness brewery
+in St. James Gate. The initial 'tour' is kind of neat, although mostly
+just&lt;br /&gt;
+multimedia presentations and the like about how it's made. The real
+bonanza however, and the reason that I feel no Guinness fan should miss
+a visit,&lt;br /&gt;
+is the 'Gravity Bar' on the top floor of the brewery. You only get 1
+pint of Guinness (probably to cut down on loitering and move people
+through) but&lt;br /&gt;
+I have to say it's the best pint I've ever tasted. Most of the other
+pubs we visited had fine Guinness, but really it wasn't particularly any
+more&lt;br /&gt;
+tasty than a pint drawn at a really good pub here in the US that knows
+how to handle its Guinness.&lt;/p&gt;
+&lt;p&gt;The bus tour itself was incredible, but a bit grueling. A typical day
+involved getting up at 6:30 to get to breakfast at 7:30 so we could pile
+onto&lt;br /&gt;
+the bus for 8:00. After that, it was a dizzying whirl wind of
+destinations and picture taking, and usually around 5:30 in the evening
+they'd dump&lt;br /&gt;
+us at our destination where we'd be staying for the night, and we'd all
+crawl away to freshen up and try to recover enough to enjoy the
+evening's&lt;br /&gt;
+festivities :) In addition to the sheer endurance required for the
+trip, we definitely experienced the expected feeling that in a number of
+cases,&lt;br /&gt;
+we would have *REALLY* liked to have more time to explore (For
+instance we never kissed the Blarney Stone because we had exactly 2.5
+hours to&lt;br /&gt;
+have lunch, explore the Blarney Woolen Mills, and visit Castle
+Blarney!).&lt;/p&gt;
+&lt;p&gt;I won't detail everything we saw, it would get boring for both of us and
+there's no point - consult a good travel guide and you'll get better&lt;br /&gt;
+writing than I can muster anyway. A couple of tidbits I particularly
+enjoyed were seeing Trinity College and the Book of Kells, a stop we
+made&lt;br /&gt;
+at a working sheep farm (You have no idea what it actually sounds like
+to have 1,000 sheep being herded :) ), and a buggy ride through
+Kilarney&lt;br /&gt;
+National Park with a stop at Castle Ross, whose ruins are still in
+remarkably good shape allowing you to wander around, climb the ramparts,
+and&lt;br /&gt;
+generally get up close and personal in the kind of relaxed way I most
+enjoy exploring a place.&lt;/p&gt;
+&lt;p&gt;My talented wife took about a billion pictures - I took a few as well
+but if you see the angle skewed oddly it's probably mine - she has a
+real&lt;br /&gt;
+eye for composition! You can look at them on
+&lt;a href="http://www.flickr.com/photos/feoh/sets/72157605216185951/" title="Ireland Tour 2008 - a set on Flickr"&gt;Flickr&lt;/a&gt;&lt;br /&gt;
+if you like.&lt;/p&gt;
+&lt;p&gt;Maybe we'll go to Italy next year, if I don't convince her that a nice
+relaxing sunny beach vacation on an island somewhere is the way to go :)&lt;/p&gt;</summary><category term="europe"></category><category term="fun"></category><category term="ireland"></category><category term="travel"></category><category term="vacation"></category></entry><entry><title>Ireland trip, work business, general update stuff.</title><link href="/ireland-trip-work-business-general-update-stuff.html" rel="alternate"></link><updated>2008-05-07T23:33:00+00:00</updated><author><name>feoh</name></author><id>tag:,2008-05-07:ireland-trip-work-business-general-update-stuff.html</id><summary type="html">&lt;p&gt;This is one of those rare occasions when I have nothing more to say than
+a brief status update...&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;Life has been good, but &lt;strong&gt;busy&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;At work, the &lt;a href="http://maven.apache.org/" title="Maven - Welcome to Maven"&gt;Maven
+2&lt;/a&gt; transition is
+slated to happen this weekend. If we can carry it off successfully, I
+will be able to trundle off across the pond with a giant weight lifted
+from my shoulders as we've been working towards this for months.&lt;/p&gt;
+&lt;p&gt;Speaking of trundling off across the pond - We're headed to Ireland next
+week. We're in that frenzied pre vacation phase where we're trying to
+ensure that we take everything we need while still traveling
+(comparatively) light. This is all very exciting for me, as it'll be my
+first trip to Europe, and also my first international vacation as a
+married man :)&lt;/p&gt;
+&lt;p&gt;It is a tour, which honestly I was not entirely thrilled at the prospect
+of at first (I tend to like to identify my own points of interest and
+see them at my own pace) but I'm comforted by the idea that we'll be
+spending a full two days at each destination so at least I don't have to
+worry about being whisked from place to place in rapid fire succession
+(I &lt;strong&gt;HATE&lt;/strong&gt; that!).&lt;/p&gt;
+&lt;p&gt;Anyway, that's all for now. More when I return :) Hope this note finds
+everyone well!&lt;/p&gt;</summary><category term="europe"></category><category term="ireland"></category><category term="life"></category><category term="travel"></category><category term="vacation"></category><category term="work"></category></entry><entry><title>Another whirlwind weekend in Manhattan</title><link href="/another-whirlwind-weekend-in-manhattan.html" rel="alternate"></link><updated>2008-04-15T08:14:00+00:00</updated><author><name>feoh</name></author><id>tag:,2008-04-15:another-whirlwind-weekend-in-manhattan.html</id><summary type="html">&lt;p&gt;This was first and foremost a visit to spend time with my wife's
+family...&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;... But as always we managed to sneak some fun in between the cracks.&lt;/p&gt;
+&lt;p&gt;We had brunch at &lt;a href="http://www.vynl-nyc.com/" title="Vynl Locations"&gt;Vynl&lt;/a&gt;. This
+place is downright fun, from the records decorating the walls to the
+album jacket menus to the bathrooms each with their own unique theme -
+The Beatles, Madonna, etc. Happily, the brunch food is actually quite
+good. We had and can enthusiastically recommend the banana pecan
+pancakes, the brioche french toast, and the make your own omelette
+option. The large glasses of tasty fresh squeezed orange juice are also
+a nice touch.&lt;/p&gt;
+&lt;p&gt;A quick stop at the &lt;a href="http://www.apple.com/retail/fifthavenue/week/20080413.html" title="Apple Store - Fifth Avenue"&gt;Manhattan Apple Store on Fifth
+Avenue&lt;/a&gt;
+and were amazed at the multi-national throng as we jostled our way in
+only to decide that the shopping we'd hoped to do for a relative was
+impossible, and found our way out again (The place was &lt;strong&gt;packed&lt;/strong&gt; -
+hundreds of people at least).&lt;/p&gt;
+&lt;p&gt;Later in the day while trolling around for something to fill a couple of
+idle hours, we ended up at the &lt;a href="http://nymag.com/listings/bar/king_cole_bar_lounge/" title="King Cole Bar Lounge - - Midtown East - New York Magazine Bar Guide"&gt;King Cole
+Lounge&lt;/a&gt;
+at the gorgeous and elegant &lt;a href="http://specialoffers.starwoodhotels.com/stregisnyc" title="St. Regis New York Hotels: The St. Regis New York - Hotel Rooms at stregis.com"&gt;St. Regis
+Hotel&lt;/a&gt;.
+If you're lucky enough to get a table (We only scored one due to the
+generosity of a couple whose party unexpectedly shrank due to the
+departure of some friends) you'll be treated to a viewing of a beautiful
+&lt;a href="http://en.wikipedia.org/wiki/Maxfield_Parrish" title="Maxfield Parrish - Wikipedia, the free encyclopedia"&gt;Maxfield
+Parrish&lt;/a&gt;
+mural depicting King Cole looking on bemusedly at the festivities. The
+drinks are stiff, well made and very tasty, and the bar snacks are
+unusually good. I had a Big Apple Manhattan and the ladies got
+Pomegranate martinis which both got rave reviews. Apparently, the Red
+Snapper cocktail they serve here is the ancestor to the modern &lt;a href="http://www.twoop.com/food_drink/archives/2005/10/bloody_mary_cocktail.html" title="Bloody Mary Cocktail Timeline and History"&gt;Bloody
+Mary&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Having wiled away the aforementioned time in tipsy elegance, we made our
+way over to&lt;br /&gt;
+&lt;a href="http://www.google.com/url?sa=t&amp;amp;ct=res&amp;amp;cd=1&amp;amp;url=http%3A%2F%2Fwww.shunleepalace.com%2Fnewyork%2F&amp;amp;ei=vO4ESL3YFY7yecP24CI&amp;amp;usg=AFQjCNEEWKSfl83bO3oX2vVkKtUVqFI1Aw&amp;amp;sig2=IeMl8zEpihNS7h89isd5ug"&gt;Shun Li
+Palace&lt;/a&gt;
+where we met up with some other family for dinner. This is perhaps not
+the most authentic Chinese food I've ever encountered, but wow is it
+tasty. Also, the atmosphere is decidedly upscale. There is a significant
+wine list, and the staff are decked out in full suit attire.&lt;/p&gt;
+&lt;p&gt;Between too many bar snacks and a lovely dinner, we waddled back to our
+&lt;a href="http://www.ichotelsgroup.com/h/d/ic/1/en/hotel/nycha?&amp;amp;sitrackingid=11567879&amp;amp;sicreative=502516696&amp;amp;sicontent=0&amp;amp;firstpoint=dcb1&amp;amp;siclientid=1911&amp;amp;cm_mmc=Google-PS-InterContinental-_-G+B-AmericasEast-_-NY-NYC-_-intercontinental+barclay+nyc%7C-%7C100000000000002341259&amp;amp;gclid=CPCsq8vV3ZICFQGAHgodxzH5iw" title="InterContinental NEW YORK CITY Hotels | THE BARCLAY NEW YORK | Welcome"&gt;hotel&lt;/a&gt;
+(Yay Priceline. We'd never have stayed there otherwise) and passed out
+in a happy blissful drink and dinner induced haze :)&lt;/p&gt;</summary></entry><entry><title>You fought the good fight, Hillary, now it's time to hang up the skates.</title><link href="/you-fought-the-good-fight-hillary-now-its-time-to-hang-up-the-skates.html" rel="alternate"></link><updated>2008-03-26T07:19:00+00:00</updated><author><name>feoh</name></author><id>tag:,2008-03-26:you-fought-the-good-fight-hillary-now-its-time-to-hang-up-the-skates.html</id><summary type="html">&lt;p&gt;I heard on the news this morning that Hillary only has between a 5 and
+10 percent chance of winning the nomination at this point...&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;And the question I keep asking myself is: Why is she still in the race?
+What does she hope to gain? Is she so selfishly myopic that she's
+willing to tank the democratic party's chances for winning this
+election?&lt;/p&gt;
+&lt;p&gt;My respect for her and those around her is dwindling rapidly.&lt;/p&gt;
+&lt;p&gt;Come on Hillary, wake up and smell the coffee. It's time you started
+thinking more about the nation you claim to care about and less about
+the bruised ego you'll have to endure if you lose.&lt;/p&gt;
+&lt;p&gt;I hope Obama continues to run a classy campaign - I realize that some
+retaliation is necessary in order to be seen as a tenacious and forceful
+candidate, but people grow fickle and cynical &lt;strong&gt;very&lt;/strong&gt; quickly,
+especially with many on both sides of the party line feeling like McCain
+is a lesser evil (I don't agree with this, but it &lt;strong&gt;is&lt;/strong&gt; a commonly held
+opinion right now.)&lt;/p&gt;
+&lt;p&gt;With 300 days until Bush leaves office, I want to be doing the touch
+down dance at election time along with hundreds and thousands of other
+Americans who feel like we've been misled and mismanaged for too many
+years.&lt;/p&gt;</summary><category term="2008"></category><category term="clinton"></category><category term="democratic"></category><category term="election"></category><category term="hillary"></category><category term="parties"></category><category term="party"></category><category term="politics"></category><category term="president"></category></entry><entry><title>Apparently hell froze over - Apple made Safari into a usable web browser!</title><link href="/apparently-hell-froze-over-apple-made-safari-into-a-usable-web-browser.html" rel="alternate"></link><updated>2008-03-18T11:37:00+00:00</updated><author><name>feoh</name></author><id>tag:,2008-03-18:apparently-hell-froze-over-apple-made-safari-into-a-usable-web-browser.html</id><summary type="html">&lt;p&gt;For a long time I have *wanted* to be a Safari user...&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;But every time I would try I would end up using it for 5 minutes and
+then find myself butting heads with a site that's entirely unreadable
+using it.&lt;/p&gt;
+&lt;p&gt;My hard core Mac zealot friends would wave their arms and say "BUT THOSE
+SITES AREN'T STANDARDS CONFORMANT!" which is probably true, but there
+are times I simply want to be an end user, and web browsing is one of
+them.&lt;/p&gt;
+&lt;p&gt;Happily, with version 1.3 Apple seems to have improved the HTML, CSS and
+Javascript rendering support enough that all of the sites that I tested
+which used to fail utterly or render useless results under older
+versions now work like a charm.&lt;/p&gt;
+&lt;p&gt;Kudos to Apple for having had the sense to bring their default web
+browser for OSX up to the excellent user experience standards exhibited
+by the rest of its environment.&lt;/p&gt;</summary><category term="apple"></category><category term="browser"></category><category term="css"></category><category term="DOM"></category><category term="html"></category><category term="javascript"></category><category term="Macintosh"></category><category term="safari"></category><category term="standards"></category><category term="web"></category></entry><entry><title>Dear Mayor Menino</title><link href="/dear-mayor-menino.html" rel="alternate"></link><updated>2008-03-17T10:40:00+00:00</updated><author><name>feoh</name></author><id>tag:,2008-03-17:dear-mayor-menino.html</id><summary type="html">&lt;p&gt;If you think &lt;a href="http://www.boston.com/news/local/massachusetts/articles/2008/03/17/menino_backs_bill_to_keep_violent_video_games_away_from_children/"&gt;banning violent video game sales to
+minors&lt;/a&gt;
+will reduce the murder rate...&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;You are deluding yourself.&lt;/p&gt;
+&lt;p&gt;What I find really troubling here is not the actual ban itself (I can't
+think of the last time I bought a video game, much less a violent / gory
+video game, inside Boston city limits) but instead another step in the
+direction of absolving parents of the responsibility of raising their
+children.&lt;/p&gt;
+&lt;p&gt;All one has to do is simply look around at the scads of minors smoking
+tobacco - a clear and present danger to anyone's health - to see that
+government regulation is not the answer to what is in reality a social
+problem.&lt;/p&gt;
+&lt;p&gt;The media has been making allusions about this being an attempt to
+mitigate the recent rise in murders in the Boston area. I see this as a
+cop out on the part of the mayor's office. Rather than attacking the
+actual social problems at the root of this trend, they stand on the
+highest mountain top and make a lot of noise while slapping an utterly
+ineffective band aid over a sucking chest wound.&lt;/p&gt;</summary><category term="ban"></category><category term="boston"></category><category term="city"></category><category term="crime"></category><category term="gaming"></category><category term="laws"></category><category term="murder"></category><category term="problems"></category><category term="society"></category><category term="video games"></category><category term="violence"></category><category term="youth"></category></entry><entry><title>Genes, lifestyle, and longevity</title><link href="/genes-lifestyle-and-longevity.html" rel="alternate"></link><updated>2008-03-11T16:15:00+00:00</updated><author><name>feoh</name></author><id>tag:,2008-03-11:genes-lifestyle-and-longevity.html</id><summary type="html">&lt;p&gt;So I spent the weekend with my lovely wife and her family celebrating...&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;her Nanna's 90th birthday. She had another uncle present who is 94 years
+old and seems more spry and active than some thirty somethings I know.&lt;/p&gt;
+&lt;p&gt;This led me to reflect a little bit on the fact that &lt;strong&gt;nobody&lt;/strong&gt; in my
+family lives into their nineties, and damn few live into their eighties
+(Or have thus far).&lt;/p&gt;
+&lt;p&gt;There are a number of factors that could readily explain this without
+too much digging. My family has traditionally been lower middle class,
+blue collar workers. As I've mentioned here before, my mom and dad meet
+during WWII while working as mechanics repairing amphibious vehicles (My
+dad was her foreman :). My uncles and cousins mostly worked in plastic
+factories and the like, and all but the most recent generation smoked
+all their (comparatively short) lives.&lt;/p&gt;
+&lt;p&gt;If longevity could be thought of as a graph with lifestyle, age and
+genetics all expressed as axes, I wonder what our two families would
+look like? Add in recent developments in the understanding of how
+&lt;a href="http://en.wikipedia.org/wiki/Epigenetics"&gt;epigenetics&lt;/a&gt; effects
+longevity and by extension how the environment and lifestyle of an
+organism can effects its offspring one, two or even three or more
+generations down the line, and you wind up with a dizzying
+multi-dimensional data structure whose representation I can't even
+fathom.&lt;/p&gt;
+&lt;p&gt;Kinda leaves me feeling grateful that we're not planning on having
+children any time soon :)&lt;/p&gt;
+&lt;p&gt;This rant (meander? pile of babble? I dunno) has no conclusion per se.
+Just a bunch of thoughts that have been rolling around in my head for a
+bit.&lt;/p&gt;</summary><category term="aging"></category><category term="diet"></category><category term="exercise"></category><category term="family"></category><category term="genetics"></category><category term="health"></category><category term="lifestyle"></category></entry><entry><title>Where but for the grace of god go I.</title><link href="/where-but-for-the-grace-of-god-go-i.html" rel="alternate"></link><updated>2008-03-05T14:03:00+00:00</updated><author><name>feoh</name></author><id>tag:,2008-03-05:where-but-for-the-grace-of-god-go-i.html</id><summary type="html">&lt;p&gt;I don't usually throw around Catholic / Christian memes like this.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;... But in this case I can't think of an expression that captures the
+feeling more accurately.&lt;/p&gt;
+&lt;p&gt;Lately, I've been really busy at work. We're finally making the cut to a
+new build system (geeky details elided for now and will appear in a
+later, blog only post).&lt;/p&gt;
+&lt;p&gt;That has been sucking up a big chunk of my waking hours and more of my
+consciousness than I'd like, but that will change shortly and I love my
+job so c'est la vis.&lt;/p&gt;
+&lt;p&gt;However, when I'm not working, or spending time with my lovely wife,
+I've been reading.&lt;/p&gt;
+&lt;p&gt;Lately I've been obsessed with &lt;a href="http://en.wikipedia.org/wiki/Alan_Furst"&gt;Alan
+Furst&lt;/a&gt; novels. They're set
+before and/or during the WWII era and range all over Europe.&lt;/p&gt;
+&lt;p&gt;The last two novels in particular focus on life in the pre war Russian
+secret service - the &lt;a href="http://en.wikipedia.org/wiki/NKVD"&gt;NKVD&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;First of all, I just want to take a minute to gush. I didn't realize how
+much I could enjoy historical fiction until I encountered this author. I
+have yet to read another author's work that compares to the kind of lush
+historical and cultural detail Furst expertly weaves into the story in
+these books. He has taken the time to research all the little things
+(idioms of speech, modes of dress, customs and folkways) that run
+together to create an incredibly rich tapestry that forms the backdrop
+for the events large and small, personal and impersonal that make these
+stories shine.&lt;/p&gt;
+&lt;p&gt;It's one thing to learn in history class about the fact that there were
+massive purges during this era and that millions of eastern europeans
+died, it's another all together to see it through one man's eyes.&lt;/p&gt;
+&lt;p&gt;Both novels protagonists ended up on the wrong kind of lists (A likely
+fate for an NKVD spy of any rank, because in the pre-war era Stalin
+purged just about the entire Soviet intelligence community, as well as
+most ranking officers of the army) and defecting, trying to find a new
+life among the refugees safe from the assassin's bullet.&lt;/p&gt;
+&lt;p&gt;I am ceaselessly amazed by the potential and even the penchant that
+mankind has for eradicating itself. I realize this is human nature, but
+it just doesn't make &lt;strong&gt;sense&lt;/strong&gt; at such a deep level of my psyche that I
+find myself shaking my head at it when I encounter it as if each time
+were the first.&lt;/p&gt;
+&lt;p&gt;The moral of this story is quite simple: It's very easy to become mired
+in the day to day travails of our lives and careers, but it's definitely
+worth standing back for a moment and taking stock of just how good we
+all have it.&lt;/p&gt;
+&lt;p&gt;None of us (I should hope anyway!) has to wake up every morning
+thinking: "Is today my day? Do I get a bullet or a paycheck?" and that's
+saying something.&lt;/p&gt;</summary><category term="Alan Furst"></category><category term="books"></category><category term="bulgaria"></category><category term="espionage"></category><category term="europe"></category><category term="fiction"></category><category term="history"></category><category term="kgb"></category><category term="nkvd"></category><category term="reading"></category><category term="russia"></category><category term="russian"></category><category term="spies"></category><category term="spying"></category><category term="war"></category><category term="WWII"></category></entry><entry><title>Oh yeah! Laurie Anderson is coming to Boston!</title><link href="/oh-yeah-laurie-anderson-is-coming-to-boston.html" rel="alternate"></link><updated>2008-02-06T11:59:00+00:00</updated><author><name>feoh</name></author><id>tag:,2008-02-06:oh-yeah-laurie-anderson-is-coming-to-boston.html</id><summary type="html">&lt;p&gt;Years ago, when I first came to the Boston area, Laurie Anderson held a
+concert at MIT...&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;At the time I thought nothing of it. Laurie Anderson was just a wacky
+artist whose music friends of mine adored in college, but I never really
+understood the appeal of.&lt;/p&gt;
+&lt;p&gt;Fast forward several years and a whole lot of living, and zoom in on me
+buying the "Wired Magazine Presents: Music Futurists" CD. It was a
+collection of all manner of forward thinking artists - names like Brian
+Eno, Devo, Beck, Thomas Dolby, and of course, Laurie Anderson.&lt;/p&gt;
+&lt;p&gt;Of all the music on that CD, Laurie Anderson's _O Superman: Massonet_
+really resonated with a lot I was thinking and feeling at the time. I
+was both impressed and intrigued, and decided it was time to revisit my
+now many years stale distaste for her work.&lt;/p&gt;
+&lt;p&gt;So I went out and bought one of her more seminal albums, _Big Science_
+and was promptly blown away.&lt;/p&gt;
+&lt;p&gt;Laurie Anderson stands apart from the pack because she makes music that
+makes you think. I'm not saying she's the only artist that embodies that
+characteristic, but she's definitely the poster child.&lt;/p&gt;
+&lt;p&gt;And now, she's coming to Boston on Saturday, March 29th to the Opera
+House - an incredible venue if you've never been. The acoustics are
+amazing, the environs are opulent and richly detailed in that way only
+old music and art houses can be, and I can't think of an artist in the
+modern musical field who might use them to better advantage.&lt;/p&gt;
+&lt;p&gt;My ever supportive wife (She's yet to hear any Laurie Anderson - I'm
+thinking I'll let her be surprised and see how she reacts :) and I are
+going, and I am psyched!&lt;/p&gt;
+&lt;p&gt;Let me know if any of my readers are planning on being there, it would
+be neat to compare notes.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;When love is gone, there's always justice. And when justice is gone,
+there's always force. And when force is gone, there's always Mom. Hi,
+Mom!&lt;br /&gt;
+--Laurie Anderson&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+People are really suffering these days. There's a lot of corporate
+triumph and a lot of personal despair as they wonder what are they
+working for.&lt;br /&gt;
+--Laurie Anderson&lt;/p&gt;</summary><category term="art"></category><category term="boston"></category><category term="concert"></category><category term="homeland"></category><category term="laurie anderson"></category><category term="music"></category><category term="performance"></category><category term="privacy"></category><category term="rock"></category></entry><entry><title>Usage peeves I have no business having</title><link href="/usage-peeves-i-have-no-business-having.html" rel="alternate"></link><updated>2008-01-15T14:25:00+00:00</updated><author><name>feoh</name></author><id>tag:,2008-01-15:usage-peeves-i-have-no-business-having.html</id><summary type="html">&lt;p&gt;I am at best a poor writer. Even so, certain things get under my skin...&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If I never hear or see the word "the" intentionally misspelled as
+    "teh" again, I will be a happy man.&lt;/li&gt;
+&lt;li&gt;3lyt3 5p3ak can just &lt;strong&gt;GO AWAY&lt;/strong&gt; too, really.&lt;/li&gt;
+&lt;li&gt;Just sayin'. This may have been effective about 20 years ago when
+    the first person who propagated this
+    &lt;a href="http://en.wikipedia.org/wiki/Meme" title="Meme - Wikipedia, the free encyclopedia"&gt;meme&lt;/a&gt;,
+    but now it's tired. So &lt;strong&gt;very&lt;/strong&gt; tired.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Ebonics" title="Ebonics - Wikipedia, the free encyclopedia"&gt;ebonics&lt;/a&gt; -
+    I like rap. A good friend many years ago in college walked up to me
+    one day when I was ranting at some friends about how I thought rap
+    was just chaotic noise and nothing else, and said "Rap is one of the
+    most politically active forms of music on the planet, and that's a
+    fact.". He was right. All that's beside the point though, ebonics
+    are seeping their way into main stream speech in ways I find most
+    unfortunate. It can stop any time now.&lt;/li&gt;
+&lt;li&gt;Wassssssuupppppp!!! - the original Bud marketing campaign was
+    brilliant, and even funny in spots (I still enjoy the sushi bar
+    version - Wasabii!!!) but this meme is so tired it needs to be taken
+    out back and shot - a mercy kill at that.&lt;/li&gt;
+&lt;li&gt;Calling everyone "Kid" whether they be 18 or 80 - Maybe the denizens
+    of Southie can get grand fathered in on this one, I dunno, but the
+    rest of you should really stop watching those Martin Scorsese.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As I said above, I realize that in truth I have no business at all
+airing my English usage peeves, because in truth I am a sloppy writer
+and a downright poor grammarian. But anyway, I feel better having gotten
+them off my chest :).&lt;/p&gt;</summary><category term="english"></category><category term="language"></category><category term="memes"></category><category term="peeves"></category><category term="usage"></category></entry><entry><title>This just makes me laugh, and yet it's a damn fine idea.</title><link href="/this-just-makes-me-laugh-and-yet-its-a-damn-fine-idea.html" rel="alternate"></link><updated>2008-01-14T11:27:00+00:00</updated><author><name>feoh</name></author><id>tag:,2008-01-14:this-just-makes-me-laugh-and-yet-its-a-damn-fine-idea.html</id><summary type="html">&lt;p&gt;Using hip hop as a teaching tool for English.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;Go take a look at &lt;a href="http://www.flocabulary.com/"&gt;Flocabulary&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The piece that actually left me chuckling on this snowy wet morning was
+&lt;a href="http://www.flocabulary.com/shakessample2.html" title="Love's Desire - Shakespeare is Hip-Hop"&gt;this&lt;/a&gt;.
+A Hip hopped up Cliffs Notes version of Romeo and Juliet.&lt;/p&gt;
+&lt;p&gt;I love the idea - speaking to kids using a medium they're comfortable
+with. In no way do I think this should replace a full and careful
+reading with explanations by the teacher, but for some children there's
+a lot of ground to cover before they're able or ready to be successful
+in such an endeavor.&lt;/p&gt;
+&lt;p&gt;Kudos to &lt;a href="http://mightyredpen.wordpress.com/" title="Mighty Red Pen"&gt;The Mighty Red
+Pen&lt;/a&gt; for coming up
+with this. For those who don't read it, I highly recommend it. It's
+funny and educational - it doesn't get much better than that!&lt;/p&gt;</summary><category term="eaching"></category><category term="education"></category><category term="english"></category><category term="hip hop"></category><category term="language"></category><category term="music"></category><category term="rap"></category></entry><entry><title>Kitchen tools: Why getting the good stuff is worth it.</title><link href="/kitchen-tools-why-getting-the-good-stuff-is-worth-it.html" rel="alternate"></link><updated>2008-01-11T09:06:00+00:00</updated><author><name>feoh</name></author><id>tag:,2008-01-11:kitchen-tools-why-getting-the-good-stuff-is-worth-it.html</id><summary type="html">&lt;p&gt;My wife and I are just beginning to find our 'sea legs' when it comes to
+cooking...&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;We were both definitely the kind of people who ate out most of the time
+for a big chunk of our adult lives, and who didn't pay nearly as much
+attention as we should have to our parents in the kitchen.&lt;/p&gt;
+&lt;p&gt;It's been a bit of a process coming up to speed with cooking for
+ourselves on a regular basis, and evolving past the point of things like
+pasta, simple grilling, and simple frying, and getting to the point
+where we have a small repertoire of recipes we're very comfortable with.&lt;/p&gt;
+&lt;p&gt;A few potentially obvious things that are worth restating anyway:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If cooking for yourself beyond boiling water seems daunting, Just Do
+    It. That feeling abates after the first few successes in the
+    kitchen.&lt;/li&gt;
+&lt;li&gt;Don't bite off more than you can chew. Start with recipes that
+    involve only a few steps. Better to build your confidence with
+    several small, satisfying victories than to go out with a bang and
+    resign yourself to eternal take out again.&lt;/li&gt;
+&lt;li&gt;Working with a partner is much more fun, and besides, then you'll
+    have someone to share dinner with :)&lt;/li&gt;
+&lt;li&gt;Slow cookers are awesome. Nothing says "Hey, even I can't screw this
+    up!" like a recipe that calls for cooking something on LOW for 8-9
+    hours. In fact, I have a pot roast bubbling away in mine at home
+    right now :)&lt;/li&gt;
+&lt;li&gt;Try the no knead bread recipe! It's idiot proof. I should know, I've
+    succeeded at using it twice and made two lovely loaves of bread -
+    very well reviewed by everyone we had handy both times :) The recipe
+    originally appeared in the &lt;a href="www.http://www.nytimes.com/"&gt;New York
+    Times&lt;/a&gt; but my favorite rendition which
+    includes some nice refinements and is a whole lot more fun is &lt;a href="http://steamykitchen.com/blog/2007/09/10/no-knead-bread-revisited/"&gt;over
+    here&lt;/a&gt;
+    on the &lt;a href="http://steamykitchen.com"&gt;Jaden's Steamy Kitchen&lt;/a&gt; blog.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now for the less obvious stuff, and the reason I bothered writing this
+to begin with.&lt;/p&gt;
+&lt;h2&gt;Good Kitchen Tools are Worth Their Weight in Gold&lt;/h2&gt;
+&lt;p&gt;For years I had always said "Well, I'm hardly a kitchen maven, so I
+really don't need the good stuff. What I have is fine." What I had was a
+worn out mish mash of hand me downs from my family that I had been using
+since my dorm days in college. Dull knives, cheap pots and pans with hot
+spots galore that looked like they'd been through a world war or two.
+You get the idea.&lt;/p&gt;
+&lt;p&gt;Boy, was I wrong! When we got married and my wife and were prompted by
+several of her relatives to start a wedding registry, I thought, "This
+is an opportunity to get the Good Stuff". Due to the tremendous
+generosity of our families and friends we ended up with a nice set of
+&lt;a href="http://www.all-clad.com/"&gt;All-Clad&lt;/a&gt; cook ware and
+&lt;a href="http://www.jahenckels.com/"&gt;Henckels&lt;/a&gt; knives.&lt;/p&gt;
+&lt;p&gt;I was blown away. It's the classic &lt;a href="http://en.wikipedia.org/wiki/Boiled_frog"&gt;Boiled
+Frog&lt;/a&gt; syndrome. You really
+have no idea how much easier and more pleasant it is to cook with good
+tools until you have them in your home and use them a few times. The
+difference really is like night and day. In the same vein, it's been
+really nice to watch my wife use one of these tools for the first time
+and say "Hey, wow, this is a really great knife" or "It's amazing how
+you easy this pan is to clean" etc.&lt;/p&gt;
+&lt;p&gt;I don't want to come off sounding like an advertisement for either of
+these two product lines - I am quite certain that any of the other
+equivalently capable lines of kitchen tools will lend the same kind of
+pleasure to your kitchen endeavors.&lt;/p&gt;
+&lt;p&gt;Anyway, writing something like this has been rattling around in my head
+for a while. I know I wasn't the only kitchen phobic geek out there, so
+I thought some of this bore mentioning. Hopefully it's not totally
+incoherent, and people can get something out of it. Have fun!&lt;/p&gt;</summary><category term="beginner"></category><category term="cooking"></category><category term="food"></category><category term="kitchen"></category><category term="knives"></category><category term="pans"></category><category term="pots"></category><category term="tools"></category></entry><entry><title>Semi obscure music question</title><link href="/semi-obscure-music-question.html" rel="alternate"></link><updated>2007-12-21T02:50:00+00:00</updated><author><name>feoh</name></author><id>tag:,2007-12-21:semi-obscure-music-question.html</id><summary type="html">&lt;p&gt;Read no further if you think Phish is just a misspelling of those things
+with fins and scales......&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;Does anyone know which Phish album and song contains an A Cappella
+version of the mourner's kaddish?&lt;/p&gt;
+&lt;p&gt;I know it's out there somewhere because I've heard it multiple times, I
+just can't for the life of me remember which album it's on.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The answer is that it's not the mourner's kaddish, but is instead a
+Jewish funerary song called "Jerusalem, City of Gold" and is included at
+the end of the song "Demand" on Phish's "Hoist" album.  View most of the
+details over 
+&lt;a href="http://feoh.livejournal.com/82847.html?view=193951#t193951"&gt;here.&lt;/a&gt;&lt;/p&gt;</summary><category term="art"></category><category term="hebrew"></category><category term="judaica"></category><category term="music"></category><category term="Phish"></category><category term="religion"></category><category term="rock"></category></entry><entry><title>Ah, a real New England Winter. Now if only people could cope.</title><link href="/ah-a-real-new-england-winter-now-if-only-people-could-cope.html" rel="alternate"></link><updated>2007-12-19T14:18:00+00:00</updated><author><name>feoh</name></author><id>tag:,2007-12-19:ah-a-real-new-england-winter-now-if-only-people-could-cope.html</id><summary type="html">&lt;p&gt;Every year, when the first &lt;strong&gt;real&lt;/strong&gt; snow storm hits, people allow the
+media to whip them into a fine frothy frenzy...&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;I never cease to be amazed at this phenomenon. You would think that the
+hundreds of thousands of people who live here year in year out would get
+the hint, see the pattern, clue in, or something!&lt;/p&gt;
+&lt;p&gt;In addition to the usual rounds of closures, hubbub and horrendous
+traffic jams (Induced by said closures and media frency) people also
+somehow managge to forget, ignore, or otherwise avoid the simple
+expedient of shoveling their side walks.&lt;/p&gt;
+&lt;p&gt;The problem is exacerbated by absentee land lords who write clauses like
+"Tenant is in charge of snow removal" into their lease (Which I'm told
+is of questionable legality to begin with, but I'm hardly a lawyer so I
+dunno). Your average college kid simply isn't going to feel motivated by
+a sense of civic duty enough to get his/her butt out there on a winter's
+day and start shoveling.&lt;/p&gt;
+&lt;p&gt;I am told that there was a time when, if you didn't shovel your walk,
+you would be fined by the city. I whole heartedly approve of this
+practice and wish they'd bring it back. If you are elderly, infirm, or
+otherwise unable to shovel your walk, you should hire someone to do so.&lt;/p&gt;
+&lt;p&gt;If you can't afford it, I would question whether or not you should be
+owning property. This is somewhat harsh, but the truth is that when you
+own a house in the city, you are sharing space with the rest of us, and
+some responsibilities to the community come with that. Elder care and
+charity should help pitch in for those truly needy cases.&lt;/p&gt;
+&lt;p&gt;Anyway, on a positive note - aside from the impassable, icy sidewalks, I
+am actually very much enjoying this winter. It's almost a relief in a
+weird sort of way to see the kind of snow I'm used to seeing having
+grown up here in New England (An hour away actually, we get even more
+snow there.).&lt;/p&gt;
+&lt;p&gt;Enough with the rant. Have a good day everyone!&lt;/p&gt;</summary><category term="cities"></category><category term="community"></category><category term="elderly"></category><category term="new england"></category><category term="side walks"></category><category term="snow"></category><category term="winter"></category></entry><entry><title>One Blog, One Heart (Let's get together and feel alright!)</title><link href="/one-blog-one-heart-lets-get-together-and-feel-alright.html" rel="alternate"></link><updated>2007-12-19T08:29:00+00:00</updated><author><name>feoh</name></author><id>tag:,2007-12-19:one-blog-one-heart-lets-get-together-and-feel-alright.html</id><summary type="html">&lt;p&gt;OK so I couldn't resist the Ziggy Marley reference :)&lt;/p&gt;
+&lt;p&gt;As I mentioned in a previous post on the old blog, I'm switching to
+&lt;a href="http://www.wordpress.org"&gt;Wordpress&lt;/a&gt;, because, honestly,
+&lt;a href="http://www.typosphere.org"&gt;Typo&lt;/a&gt; is a royal pain for anyone who isn't
+already a top notch Ruby on Rails coder.&lt;/p&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;So, please don't expect any more posts on the old link /
+feed - You can get the new RSS feeds and all the other groovy info from
+this (the new blog) hosted &lt;a href="http://www.feoh.org"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Also of note to my much appreciate LiveJournal readership - the original
+idea was that I would keep an external geek blog and only cross post to
+LJ when I had something not even remotely geeky to say. The truth is
+that these days, I end up doing a lot of work that I find personally
+exciting and fulfilling, but that the world at large wouldn't. So, I've
+enabled the LiveJournal cross poster that Wordpress supplies and hence
+can stop thinking about where to post what. I hope my LJ friends will
+tolerate skipping the occasionally geeky post when I *do* have
+something of note to say :)&lt;/p&gt;
+&lt;p&gt;I'll keep the old blog up in case someone wishes to Google some nugget
+of wisdom from it (Yes, I know using Google as a verb is suspect, but
+really, it could be much, much worse.) and ask my few but faithful
+readers to please update their feeds.&lt;/p&gt;
+&lt;p&gt;Thanks and happy holidays!&lt;/p&gt;
+&lt;p&gt;-Chris&lt;/p&gt;</summary><category term="blog"></category><category term="change"></category><category term="feeds"></category><category term="livejournal"></category><category term="typo"></category><category term="wordpress"></category></entry><entry><title>About</title><link href="/about.html" rel="alternate"></link><updated>2007-12-18T14:43:00+00:00</updated><author><name>admin</name></author><id>tag:,2007-12-18:about.html</id><summary type="html">&lt;p&gt;My name is &lt;a href="mailto:cpatti@gmail.com"&gt;Chris Patti&lt;/a&gt; and I'm a DevOps
+engineer for a thoroughly awesome company -
+&lt;a href="http://www.carbonite.com" title="Carbonite"&gt;Carbonite&lt;/a&gt;. Note that my opinions
+are mine and not my employers (That should go without saying, but
+anyway).&lt;/p&gt;
+&lt;p&gt;I create and manage build and other infrastructure for Carbonite using
+&lt;a href="http://www.getchef.com" title="Chef"&gt;Chef&lt;/a&gt;, and whatever other tools I can
+get my hands on.&lt;/p&gt;
+&lt;p&gt;In the off hours I enjoy spending time with my lovely wife, playing
+games of all kinds (but especially those involving face to face human
+interaction like board games or tabletop RPGs), reading (I have a rather
+severe case of bibliophilia which I've had to throttle back quite a bit
+now that I'm sharing my life with someone. Thankfully, she's very
+understanding :), and dabbling in digital art.&lt;/p&gt;
+&lt;hr /&gt;</summary></entry><entry><title>Ah, Sweet Sanity!</title><link href="/ah-sweet-sanity.html" rel="alternate"></link><updated>2007-12-18T11:04:00+00:00</updated><author><name>feoh</name></author><id>tag:,2007-12-18:ah-sweet-sanity.html</id><summary type="html">&lt;p&gt;Woo. So, as I indicated in my old blog, I have switched to Wordpress.
+Typo is nifty and all, but it's still hackerware and seems unlikely to
+veer from that course any time soon.&lt;/p&gt;
+&lt;p&gt;Much as I love Ruby, I am still clueless about Rails and truthfully,
+even web development in general (I have now learned the basics of CSS -
+but apparently not enough to be dangerous yet, and I *still* don't
+know Javascript.)&lt;/p&gt;
+&lt;p&gt;WordPress does everything I need with a modicum of hassle, so that's the
+direction I'm moving in now.&lt;/p&gt;
+&lt;p&gt;This does mean you'll need to update your RSS links. The new link is
+here: http://www.feoh.org/?feed=rss2&lt;/p&gt;
+&lt;p&gt;However being Wordpress, it also supports Atom, and a bunch of others.&lt;/p&gt;
+&lt;p&gt;Anyway, look for more and more interesting bits in this space now that I
+can stop wrestling with the infrastructure and actually say something
+for a change!&lt;/p&gt;
+&lt;p&gt;Merry Christmas, Happy (belated!) Channukah, and a happy new year!&lt;/p&gt;</summary><category term="blog"></category><category term="conversion"></category><category term="pain"></category><category term="sanity"></category><category term="typo"></category><category term="wordpress"></category></entry></feed>

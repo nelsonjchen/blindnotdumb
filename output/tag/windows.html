@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>A Pelican Blog - Windows</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+        <link href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="A Pelican Blog Atom Feed" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">A Pelican Blog </a></h1>
+                <nav><ul>
+                    <li><a href="/category/art.html">Art</a></li>
+                    <li><a href="/category/art-books.html">Art, Books</a></li>
+                    <li><a href="/category/books.html">Books</a></li>
+                    <li><a href="/category/books-rants.html">Books, Rants</a></li>
+                    <li><a href="/category/food.html">Food</a></li>
+                    <li><a href="/category/games.html">games</a></li>
+                    <li><a href="/category/geekery.html">Geekery</a></li>
+                    <li><a href="/category/geekery-personal.html">Geekery, Personal</a></li>
+                    <li><a href="/category/geekery-uncategorized.html">Geekery, Uncategorized</a></li>
+                    <li><a href="/category/misc.html">misc</a></li>
+                    <li><a href="/category/music.html">Music</a></li>
+                    <li><a href="/category/personal.html">Personal</a></li>
+                    <li><a href="/category/personal-uncategorized.html">Personal, Uncategorized</a></li>
+                    <li><a href="/category/politics-rants.html">Politics, Rants</a></li>
+                    <li><a href="/category/politics-uncategorized.html">Politics, Uncategorized</a></li>
+                    <li><a href="/category/rants.html">Rants</a></li>
+                    <li><a href="/category/video-games.html">Video Games</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+
+            <aside id="featured" class="body">
+                <article>
+                    <h1 class="entry-title"><a href="/windows-scripting-a-vbscript-survival-guide.html">Windows Scripting - a VBScript Survival Guide</a></h1>
+<footer class="post-info">
+        <abbr class="published" title="2010-03-31T15:18:00+00:00">
+                Published: Wed 31 March 2010
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="/author/cpatti.html">cpatti</a>
+        </address>
+<p>In <a href="/category/geekery.html">Geekery</a>. </p>
+<p>tags: <a href="/tag/deployment.html">deployment</a> <a href="/tag/installers.html">Installers</a> <a href="/tag/microsoft.html">microsoft</a> <a href="/tag/powershell.html">powershell</a> <a href="/tag/scripting.html">scripting</a> <a href="/tag/systems.html">systems</a> <a href="/tag/vbscript.html">vbscript</a> <a href="/tag/visual-basic.html">visual basic</a> <a href="/tag/windows.html">Windows</a> </p>
+</footer><!-- /.post-info --><h2>1. Introduction</h2>
+<p>If you're new to the world of Windows scripting as I am, the array of
+acronyms, technologies and access methodologies that you need to
+traverse in order to get anything done can range from bewildering on a
+good day to utterly derangement inducing on a bad one.</p>
+<!--more-->
+
+<p>I've been doing installer and deployment development at a Windows
+enterprise software company for the last year or so, and after decades
+spent comfortably swaddled in the familiarity of the UNIX and Java
+world, I definitely found myself feeling shell shocked, disoriented, and
+frustrated at the lack of any sort of cohesive resources to aid me in my
+quest.</p>
+<p>Microsoft has been doing its best to pretend VBScript doesn't exist -
+touting <a href="http://blogs.msdn.com/PowerShell/" title="Windows PowerShell">Windows
+PowerShell</a> as
+the way and the light.  PowerShell is indeed an awesome tool, and I for
+one would happily consign VBScript to the briny deeps never to be
+thought of again were it not for one little problem - the vast majority
+of Windows systems running in the wild don't have PowerShell
+installed.   Until a new day dawns and PowerShell is on *every single*
+Windows box our company wants to install its software on, VBScript
+remains the lowest common denominator for system scripting and thus the
+only <strong>real</strong> game in town for install time scripting.</p>
+<p>The goal of this article is not to teach you VBScript, sadly, there are
+essentially no books and precious few online resources dedicated to this
+topic online.  I will offer pointers to those that I have found most
+useful, and some collected wisdom on how to best make use of them, as
+well as some pitfalls I encountered which with any luck I can help you
+avoid.</p>
+<p>That said, let's get started.</p>
+<h2>2. Learning VBScript</h2>
+<p>This will mostly be a collection of pointers to resources with a smidgen
+of commentary on each to get you moving in the right direction.</p>
+<h3>A. Books</h3>
+<ul>
+<li><a href="http://www.amazon.com/Windows-XP-Annoyances-Geeks-2nd/dp/0596008767/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1270065442&amp;sr=8-1" title="Windows XP Annoyances">Windows XP
+    Annoyances</a> -
+    This book should really be titled "Windows For Geeks" :) it is the
+    single most useful book I have ever encountered for someone trying
+    to make the transition from another environment and isn't content to
+    just grit their teeth and groan at all the annoying defaults Windows
+    ships with.  In addition to an incredible amount of depth around the
+    Windows registry and how you can wield it to suit your needs, this
+    book also has one of the best simple introductions to system
+    scripting with VBScript I've seen.  Two thumbs up. Note that this is
+    the 1997 edition, and this book now comes in Windows Vista and
+    Windows 7 flavors which I haven't read, but can only assume are
+    equally awesome.</li>
+<li><a href="http://www.visualbasicscript.com/" title="VBScript Forums">visualbasicscript.com</a> -
+    This is far and away the single best VBScript resources on the
+    intertubes.  The folks in these forums are experts, and will help
+    you solve your problem virtually every time.  I can't say enough
+    about the incredible community here.  Nine out of ten times, if I go
+    looking somewhere else first I end up coming back here and wishing I
+    hadn't wasted my time elsewhere first :)</li>
+<li><a href="http://technet.microsoft.com/en-us/scriptcenter/default.aspx" title="The Scripting Guys">Microsoft Script Center / The Scripting
+    Guys</a> -
+    The second most useful scripting site on the web.  The Scripts
+    Repository and "Scripting Guys" MSDN blog are an incredible resource
+    for system scripters.  While the emphasis has definitely shifted
+    towards PowerShell these days (and rightfully so) most of the
+    techniques discussed can be leveraged in VBScript once you get cozy
+    with the syntactic differences between the two (very different)
+    languages.</li>
+<li><a href="http://msdn.microsoft.com/en-us/library/d1et7k7c%28v=VS.85%29.aspx">MSDN Windows Scripting
+    Technologies</a> -
+    This page covers things like the Windows Scripting Host, the core
+    technology that actually allows you to perform useful work in
+    VBScript.  While somewhat more complete than the VBScript reference
+    itself, it's no great shakes.  You'll find yourself learning much
+    more from examples published elsewhere, but for the occasional API
+    lookup or clarification it can be useful.</li>
+<li><a href="http://msdn.microsoft.com/en-us/library/t0aew7h6%28VS.85%29.aspx" title="VBScript Reference">MSDN VBscript
+    Reference</a> -
+    You'll note this site's position well down the list.  It's there for
+    a reason.  The documentation provided here is very sketchy and
+    frankly incredibly misleading in places.  The authors seem to have
+    weaseled out of writing a more complete documentation set by making
+    a vacuous assertion along the lines of "Well, it's just like regular
+    Visual Basic, with a few minor differences".  This leaves people
+    like myself who have never had the need to touch a fully fledged VB
+    implementation out in the cold, feeling like second class citizens. 
+    While these pages can be useful for occasional clarification on some
+    obscure language feature, those seeking to understand how the
+    language works in the large should definitely look elsewhere.</li>
+<li><a href="http://support.microsoft.com/kb/308364">Windows Script Debugging Microsoft KB
+    Article</a> - This article will
+    get you started interactively debugging your scripts using Visual
+    Studio.  Don't bother with the Windows Script Debugger, Visual
+    Studio Express is free and much better :)</li>
+<li><a href="http://www.w3schools.com/vbscript/default.asp">W3Schools VBScript
+    Tutorial/Reference</a> -
+    This page is definitely rather Web-centric, focusing on VBScript in
+    classic ASP programming, however, the core language and some of the
+    techniques are the same.  In many cases this is a better reference
+    than the MSDN one, and the tutorial lets you work through the
+    examples online in a web browser which is cool.</li>
+</ul>
+<h2>3. Debugging</h2>
+<h3>Who turned the lights out?</h3>
+<p>If you find that some script you've inherited is not working, but you
+get exactly zero output or errors, look for the telltale
+<code>On Error Goto 0</code> or <code>On Error Resume Next</code> statements. These basically
+disable VBScript's inherent error handling functionality and cause your
+script to silently ignore errors. Helpful, eh?</p>
+<h3>Never run while blind folded.</h3>
+<p>Know how you're invoking your VBScript. If you're calling your script
+from an installer or some such executable, you're likely using
+Microsoft's <code>cscript</code> tool. which doesn't do a very good job of always
+displaying handy things like syntax or run time errors. Try running your
+script with <code>wscript</code> instead for debugging purposes. Heretofore
+mysterious behavior may become clear :)</p>
+<h3>That's all!</h3>
+<p>Hopefully this post will prove useful to some poor soul, manacled in
+place, suffering through their own personal Windows induced hell. Even
+if it isn't, these tidbits have been rattling around in my head since I
+escaped (I now work for <a href="http://www.bluestatedigital.com" title="Blue State Digital: Design. Strategy. Technology">Blue State
+Digital</a>,
+we're a LAMPs shop (Linux, Apache, MySQL, PHP) and I hope to never be
+trapped in Windows enterprise limbo again!</p>                </article>
+            </aside><!-- /#featured -->
+                <section id="content" class="body">
+                    <h1>Other articles</h1>
+                    <hr />
+                    <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="/3-things-microsoft-should-do-for-release-engineers.html" rel="bookmark"
+                           title="Permalink to 3 Things Microsoft Should Do for Release Engineers">3 Things Microsoft Should Do for Release Engineers</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2010-01-28T13:39:00+00:00">
+                Published: Thu 28 January 2010
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="/author/cpatti.html">cpatti</a>
+        </address>
+<p>In <a href="/category/geekery.html">Geekery</a>. </p>
+<p>tags: <a href="/tag/infrastructure.html">infrastructure</a> <a href="/tag/installers.html">Installers</a> <a href="/tag/installshield.html">installshield</a> <a href="/tag/microsoft.html">microsoft</a> <a href="/tag/msbuild.html">msbuild</a> <a href="/tag/powershell.html">powershell</a> <a href="/tag/release.html">release</a> <a href="/tag/releng.html">releng</a> <a href="/tag/scripting.html">scripting</a> <a href="/tag/tfs.html">tfs</a> <a href="/tag/windows.html">Windows</a> </p>
+</footer><!-- /.post-info -->                <p>For the last year or so I've been working at a 100% Windows based
+enterprise development shop.   They ship a fairly large and complex
+application for health insurance providers, which draws on many of the
+core technologies in the Microsoft enterprise stable.</p>
+<!--more-->
+
+<p>This post highlights a few things that ...</p></!--more-->
+                <a class="readmore" href="/3-things-microsoft-should-do-for-release-engineers.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="/something-for-nothing-when-you-dont-want-it-is-still-damn-annoying.html" rel="bookmark"
+                           title="Permalink to Something for nothing when you don't *WANT IT* is still damn annoying.">Something for nothing when you don't *WANT IT* is still damn annoying.</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2008-10-02T11:02:00+00:00">
+                Published: Thu 02 October 2008
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="/author/feoh.html">feoh</a>
+        </address>
+<p>In <a href="/category/geekery.html">Geekery</a>. </p>
+<p>tags: <a href="/tag/annoyances.html">annoyances</a> <a href="/tag/free.html">free</a> <a href="/tag/installers.html">Installers</a> <a href="/tag/java.html">Java</a> <a href="/tag/openoffice.html">OpenOffice</a> <a href="/tag/software.html">software</a> <a href="/tag/sun.html">Sun</a> <a href="/tag/windows.html">Windows</a> </p>
+</footer><!-- /.post-info -->                <p>Dear Sun;</p>
+<p>When you tell me I hava Java (TM) updates available on my work Windows
+machine, I gleefully say sure why not and click through the installer,
+because generally Sun provided updates to my installed JDK don't do
+anything evil, and with security and all it's a ...</p>
+                <a class="readmore" href="/something-for-nothing-when-you-dont-want-it-is-still-damn-annoying.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
+                </ol><!-- /#posts-list -->
+                </section><!-- /#content -->
+        <section id="extras" class="body">
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+                            <li><a href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
+
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>

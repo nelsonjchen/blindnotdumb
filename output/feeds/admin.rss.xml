@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>A Pelican Blog</title><link>/</link><description></description><atom:link href="/feeds/admin.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 18 Dec 2007 14:43:00 +0000</lastBuildDate><item><title>About</title><link>/about.html</link><description>&lt;p&gt;My name is &lt;a href="mailto:cpatti@gmail.com"&gt;Chris Patti&lt;/a&gt; and I'm a DevOps
+engineer for a thoroughly awesome company -
+&lt;a href="http://www.carbonite.com" title="Carbonite"&gt;Carbonite&lt;/a&gt;. Note that my opinions
+are mine and not my employers (That should go without saying, but
+anyway).&lt;/p&gt;
+&lt;p&gt;I create and manage build and other infrastructure for Carbonite using
+&lt;a href="http://www.getchef.com" title="Chef"&gt;Chef&lt;/a&gt;, and whatever other tools I can
+get my hands on.&lt;/p&gt;
+&lt;p&gt;In the off hours I enjoy spending time with my lovely wife, playing
+games of all kinds (but especially those involving face to face human
+interaction like board games or tabletop RPGs), reading (I have a rather
+severe case of bibliophilia which I've had to throttle back quite a bit
+now that I'm sharing my life with someone. Thankfully, she's very
+understanding :), and dabbling in digital art.&lt;/p&gt;
+&lt;hr /&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">admin</dc:creator><pubDate>Tue, 18 Dec 2007 14:43:00 +0000</pubDate><guid>tag:,2007-12-18:about.html</guid></item></channel></rss>
