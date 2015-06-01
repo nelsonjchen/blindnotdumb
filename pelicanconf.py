@@ -2,8 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-#THEME = '/Users/cpatti/Dropbox/src/pelican-themes/blueidea'
-#THEME = '/Users/cpatti/Dropbox/src/pelican-themes/notmyidea-cms'
+THEME = 'pelican-themes/blueidea/'
 
 AUTHOR = u'Chris Patti'
 SITENAME = u'Blind Not Dumb'
