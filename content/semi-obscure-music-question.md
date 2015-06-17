@@ -1,7 +1,7 @@
 Title: Semi obscure music question
 Date: 2007-12-21 02:50
 Author: feoh
-Category: Music
+Category: Art
 Tags: art, hebrew, judaica, music, Phish, religion, rock
 Slug: semi-obscure-music-question
 

@@ -1,5 +1,6 @@
 Title: About
 Date: 2007-12-18 14:43
+Category: Personal
 Author: admin
 Slug: about
 
