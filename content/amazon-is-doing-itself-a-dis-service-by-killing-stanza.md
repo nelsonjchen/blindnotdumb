@@ -1,7 +1,7 @@
 Title: Amazon is doing itself a dis-service by killing Stanza
 Date: 2011-11-01 13:25
 Author: feoh
-Category: Book
+Category: Books
 Slug: amazon-is-doing-itself-a-dis-service-by-killing-stanza
 
 Apparently, Amazon bought the company that makes Stanza quite a while

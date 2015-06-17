@@ -1,7 +1,7 @@
 Title: Rock Band 2 Special Edition Box - Awesome :)
 Date: 2008-11-02 21:15
 Author: feoh
-Category: Video Games
+Category: Games
 Tags: bass, drums, gaming, guitar, rock band, songs, video games
 Slug: rock-band-2-special-edition-box-awesome
 

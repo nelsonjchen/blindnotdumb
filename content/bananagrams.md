@@ -1,7 +1,7 @@
 Title: Bananagrams!
 Date: 2010-01-05 09:54
 Author: cpatti
-Category: games
+Category: Games
 Tags: board, fun, games, word
 Slug: bananagrams
 
