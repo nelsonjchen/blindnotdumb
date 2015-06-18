@@ -6,20 +6,20 @@ THEME = 'pelican-themes/blueidea/'
 
 AUTHOR = u'Chris Patti'
 SITENAME = u'Blind Not Dumb'
-SITEURL = 'http://www.feoh.org'
+SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = True
-CATEGORY_FEED_ATOM = True
-TRANSLATION_FEED_ATOM = True
-AUTHOR_FEED_ATOM = True
-AUTHOR_FEED_RSS = True
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
 
 
 
@@ -36,3 +36,5 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+TWITTER_USERNAME='feoh'
