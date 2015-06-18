@@ -6,7 +6,7 @@ THEME = 'pelican-themes/blueidea/'
 
 AUTHOR = u'Chris Patti'
 SITENAME = u'Blind Not Dumb'
-SITEURL = ''
+SITEURL = 'http://www.feoh.org'
 
 PATH = 'content'
 
@@ -15,23 +15,22 @@ TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
+FEED_ALL_ATOM = True
+CATEGORY_FEED_ATOM = True
+TRANSLATION_FEED_ATOM = True
+AUTHOR_FEED_ATOM = True
+AUTHOR_FEED_RSS = True
 
 
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('I am one of the Co-hosts of Podcast.__init__', 'http://www.podcastinit.com/'),
+         ('My good friend and lodge brother Aaron Sherman', 'http://essays.ajs.com/'),)
+
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Me @ Everywhere :)', 'http://about.me/feoh'),)
+
 
 DEFAULT_PAGINATION = 10
 
