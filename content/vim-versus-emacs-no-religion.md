@@ -1,3 +1,9 @@
+Title: Vim Versus Emacs - Minus the Religion
+Date: 2015-07-15
+Author: cpatti
+Category: Geekery
+Tags: editors, emacs, vim, programming, text, technology
+
 # Vim Versus Emacs - Minus the Religion
 
 ** [Note: I originally wrote this for [Quora](http://www.quora.com/Text-Editors/Which-is-better-Vim-or-Emacs-Why/answer/Christopher-Patti) but am reposting it here with slight embelishment. **
