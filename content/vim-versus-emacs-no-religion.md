@@ -18,6 +18,7 @@ side would rarely listen to reason, and mostly everyone seemed to
 think it was an either/or situation. To be honest, I think that stance
 is utter rubbish.
 
+<!--more-->
 I feel as if I'm uniquely placed to answer this one because I've been
 using both for about 25 years now. (15 with almost full time Vim and
 10 emacs).
