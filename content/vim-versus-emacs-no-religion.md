@@ -123,3 +123,9 @@ use vi for super quick edits on servers and emacs for heavier editing
 or when I'm editing on my desktop / laptop.
 
 Tools are just tools, use what makes sense.
+
+[ **Update 07/16/2015: My astute readers reminded me of [evil-mode](http://www.emacswiki.org/emacs/Evil)
+which can be seen as letting you have your cake and eat it too :) It
+provides startlingly complete vim compatibility inside emacs and is
+very complete.  It works great, I used it initially when I was making
+the transition from vi to emacs and can recommend it heartily.** ]
