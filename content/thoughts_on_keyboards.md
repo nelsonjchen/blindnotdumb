@@ -15,7 +15,7 @@ I've had a couple of the old school model A1408 "Apple Keyboard" (and its wirele
 liking them.
 
 Thus far it's definitely a big improvement over the current squashed and squishy laptop like keyboard, but my gold standard for
-keyboards is the [Razor Black Widow Ultimate](http://www.razerzone.com/store/razer-blackwidow-ultimate) - I use one at work with my
+keyboards is the [Razer Black Widow Ultimate](http://www.razerzone.com/store/razer-blackwidow-ultimate) - I use one at work with my
 Linux desktop PC and it feels glorious to type on.  Beautiful mechanical keys with very distinct tactile feedback and a satisfying
 (if perhaps somewhat loud for your officemates :) click.
 
