@@ -3,6 +3,7 @@ Date: 2016-02-08
 Author: feoh
 Category: Personal
 Tags: politics, election, 2016, democratic, primary
+Slug: primary2016-committed-concerned
 
 #2016 Democratic Primary - I'm Committed but Concerned
 

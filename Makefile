@@ -1,4 +1,4 @@
-PY?=python
+PY?=/Users/cpatti/anaconda/bin/python
 PELICAN?=pelican
 PELICANOPTS=
 
