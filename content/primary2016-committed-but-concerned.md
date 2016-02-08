@@ -9,8 +9,8 @@ Slug: primary2016-committed-concerned
 
 When push comes to shove, let there be no doubt about the fact that I
 think we, as one of the wealthiest societies on the planet, should be
-doing everything we can to help the poor and underserved enjoy a
-standard of living that gives them the opportunity to work towarcs a
+doing everything we can to help the poor and under served enjoy a
+standard of living that gives them the opportunity to work towards a
 better life.
 
 Whenever I talk to conservatives about this, they rail against the
@@ -18,7 +18,7 @@ waste and corruption that goes hand in hand with any government
 sponsored program. And, to an extent, they're right. Government
 sponsored programs DO tend towards graft and corruption.
 
-Howver I have yet to actually hear a cogent argument from the
+Hoover I have yet to actually hear a cogent argument from the
 conservative side of the house on how to handle health care for our
 less fortunate citizens that doesn't, in the end analysis, boil down
 to "Let them suffer and die.".
@@ -55,7 +55,7 @@ There are too many key issues of great import to me where Hillary's
 stance is a polar and exact opposite of my own, particularly right to
 privacy and encryption issues.  She has made it clear that she doesn't
 see this as a priority, and if she had her way we'd be back in the
-pre-Snowden dark ages of unrestrained surveilance by our government
+pre-Snowden dark ages of unrestrained surveillance by our government
 against its own citizens. Those of us who care about this stuff have
 also not forgotten the Clipper chip fiasco under Bill's regime - to be
 honest I half expect to see something even more insidious should
