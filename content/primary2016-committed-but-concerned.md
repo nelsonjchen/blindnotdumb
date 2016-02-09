@@ -1,7 +1,7 @@
 Title: Democratic Primary 2016: I'm committed to Bernie, but concerned.
 Date: 2016-02-08
 Author: feoh
-Category: Personal
+Category: Politics
 Tags: politics, election, 2016, democratic, primary
 Slug: primary2016-committed-concerned
 
