@@ -18,7 +18,7 @@ waste and corruption that goes hand in hand with any government
 sponsored program. And, to an extent, they're right. Government
 sponsored programs DO tend towards graft and corruption.
 
-Hoover I have yet to actually hear a cogent argument from the
+However I have yet to actually hear a cogent argument from the
 conservative side of the house on how to handle health care for our
 less fortunate citizens that doesn't, in the end analysis, boil down
 to "Let them suffer and die.".
