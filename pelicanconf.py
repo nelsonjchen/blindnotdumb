@@ -7,7 +7,7 @@ THEME = 'pelican-themes/alchemy/alchemy/'
 
 AUTHOR = u'Chris Patti'
 SITENAME = u'Blind Not Dumb'
-SITEURL = ''
+SITEURL = 'http://www.feoh.org'
 
 PATH = 'content'
 
@@ -21,7 +21,9 @@ PROFILE_IMAGE = 'images/profile_pic.jpg'
 
 DEFAULT_LANG = u'en'
 
-# Feed generation is usually not desired when developing
+# Feeds
+FEED_ATOM = 'feed/atom.xml'
+FEED_DOMAIN = SITEURL
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
