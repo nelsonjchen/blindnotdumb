@@ -28,8 +28,6 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-
-
 # Blogroll
 LINKS = (('Podcast.__init__', 'http://www.podcastinit.com/'),
          ('Empiricism Ops', 'https://danslimmon.wordpress.com/'),
@@ -47,3 +45,4 @@ DEFAULT_PAGINATION = 10
 TWITTER_ADDRESS='feoh'
 GITHUB_ADDRESS='http://www.github.com/feoh'
 EMAIL_ADDRESS='cpatti@gmail.com'
+GOOGLEPLUS_ADDRESS='https://plus.google.com/+ChrisPatti'
