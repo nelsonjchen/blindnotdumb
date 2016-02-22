@@ -25,3 +25,19 @@ mechanical keyboards making the typing feel still come off a bit squishy for my 
 I may end up investigating other modern mechanical keyboards to replace them - we'll see. One irritation I have with the Razor is
 that they're platform specific. Is there REALLY any good reason for this other than to try to get me to shell out another $100 for
 yet another keyboard? I rather resent that as other brands seem to cope just fine in both platforms.
+
+UPDATE 02/22/2016
+
+I ended up buying a Das mechanical keyboard for home, and thus far it's made me appreciate my Razer Black Widow even more.
+
+It's not that anything is particularly bad at all about the Das, it's a perfectly fine mechanical keyboard, I just prefer the 
+more 'clicky' feel of the Razer, and really appreciate the niceties like the lit, labeled keys.
+
+As it turns out, choosing the Das with no labels on the keys has turned into an enormous pain. I touch type fairly well, but
+even still when I occasionally need to press some fairly arcane sequence of keys (Yes I *DO* need to hit Alt+F15 occasionally :))
+the lack of labels really rains on my parade.
+
+There's also the little tidbit that *occasionally* you might want your spouse or other friend who doesn't touch type be able to use
+your keyboard and they simply won't be able to do it. At all.
+
+So, unless you REALLY know you like it, don't do that :)
