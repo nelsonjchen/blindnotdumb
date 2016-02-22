@@ -26,7 +26,7 @@ I may end up investigating other modern mechanical keyboards to replace them - w
 that they're platform specific. Is there REALLY any good reason for this other than to try to get me to shell out another $100 for
 yet another keyboard? I rather resent that as other brands seem to cope just fine in both platforms.
 
-UPDATE 02/22/2016
+*UPDATE 02/22/2016*
 
 I ended up buying a Das mechanical keyboard for home, and thus far it's made me appreciate my Razer Black Widow even more.
 
