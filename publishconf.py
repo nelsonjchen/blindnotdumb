@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://www.feoh.org'
+SITEURL = 'http://feoh.org'
 OUTPUT_PATH = "/opt/blog/blindnotdumb"
 RELATIVE_URLS = False
 
