@@ -7,7 +7,7 @@ THEME = 'pelican-themes/alchemy/alchemy/'
 
 AUTHOR = u'Chris Patti'
 SITENAME = u'Blind Not Dumb'
-SITEURL = 'http://www.feoh.org'
+SITEURL = 'http://feoh.org'
 
 PATH = 'content'
 
