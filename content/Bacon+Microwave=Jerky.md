@@ -1,3 +1,7 @@
+Title: Bacon + Microwave = Jerky :)
+Date: 2016-05-24 10:47
+Category: Food
+
 If you'll indulge me for just a few moments  I want to say a few words on a topic that's near and dear to my heart: Bacon!
 
 I've encountered more than a few peo9ple who think that cooking bacon in the microwave is the way to go. Far be it from me to dictate anyone's tastes, but I've gotta say folks, if you r*really* love bacon like I do, you should at least give cooking it in the oven a try.
