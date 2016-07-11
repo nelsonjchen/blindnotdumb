@@ -81,7 +81,7 @@ documentation. The list goes on and on.
 Everybody knows these are good things, but why are so many
 organizations slow to adopt them? Well, as usual with such things,
 It's Complicated. One contributing factor is definitely team size
-versus work load, as outlined in the section on [Resources](#Resources).
+versus work load, as outlined in the section on Resources.
 
 Individual contributors who are working straight out all the time
 aren't going to take the time to do proper code reviews, and chances
