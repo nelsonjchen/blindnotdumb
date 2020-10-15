@@ -2,9 +2,9 @@ name: BlindNotDumb
 
 # Run this workflow every time a new commit pushed to your repository
 on: 
-  push
+  push:
     branches:
-      - master
+    - master
 jobs:
   pelican::
     # Name the Job
