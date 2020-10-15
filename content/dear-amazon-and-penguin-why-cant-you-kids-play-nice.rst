@@ -21,8 +21,5 @@ I would \*happily\* pay full hard cover list for the Kindle edition of the newes
 
 .. container::
 
-.. container::
-
    On the up side, I've been feeling guilty about not supporting my local independent book seller of late, I guess this is an opportunity to put my money where my mouth is and pony up!
 
-.. container::

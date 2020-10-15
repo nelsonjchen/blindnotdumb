@@ -15,7 +15,7 @@ I really like the idea of a static generator tool like `Pelican <http://blog.ge
 
 One friend suggested using Pelican, and using Github's built-in editor to create the Markdown, so I suppose I should explore that.
 
-What I would **really **\ love to see is a solution where I could compose on my mobile devices in Markdown, then somehow get those changes checked into Github so I could statically generate my blog later from a computer.
+What I would **really**  love to see is a solution where I could compose on my mobile devices in Markdown, then somehow get those changes checked into Github so I could statically generate my blog later from a computer.
 
 Apparently, I want everything :)
 
