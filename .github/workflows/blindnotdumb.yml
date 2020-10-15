@@ -6,7 +6,7 @@ on:
     branches:
     - master
 jobs:
-  pelican::
+  pelican:
     # Name the Job
     name: Deploy my blog, Blind Not Dumb.
     # Set the type of machine to run on
